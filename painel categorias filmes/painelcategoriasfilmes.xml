@@ -11,8 +11,14 @@
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20filmes/filmes2026.xml</externallink>
 </channel>
-
-   
+https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20filmes/acaoareslite.xml
+<channel>
+<name>[COLOR red] == [/COLOR] [COLOR orange] Filmes Ares Lite 2026 [COLOR red] === [/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20filmes/acaoareslite.xml</externallink>
+</channel>   
 
 
    

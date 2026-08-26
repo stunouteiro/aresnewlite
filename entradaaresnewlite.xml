@@ -6,16 +6,16 @@
 
 <channel>
 <name>[COLOR red] == [/COLOR]ADDON [COLOR orange] ARES[/COLOR][COLOR red]LITE[/COLOR] ADDON HADES PV/ARES LITE COLABORADORES FREE PRA O COLABORADOR DO GRUPO/ARESVIP/NPLAY APK SÓ ENTRAR NO GRUPO TELE [COLOR red] === [/COLOR]</name>
-<thumbnail>https://archive.org/details/ares-lite-series</thumbnail>
-<fanart>https://archive.org/download/icon_20260825/fanart.jpg</fanart>
+<thumbnail>https://archive.org/download/icon_20260825/icon.jpg</thumbnail>
+<fanart>https://archive.org/download/icon_20260825/icon.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/entradaaresnewlite.xml</externallink>
 </channel>
    
 <channel>
 <name>[COLOR red] == [/COLOR] [COLOR orange] Filmes 2026 [COLOR red] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/aresseries2026fanart/aresfilmes2026fanart.png</thumbnail>
-<fanart>https://archive.org/download/aresseries2026fanart/aresfilmes2026fanart.png</fanart>
+<thumbnail>https://archive.org/download/ares-lite-series/ares-lite-filmes.jpg</thumbnail>
+<fanart>https://archive.org/download/ares-lite-series/ares-lite-filmes.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20filmes/painelcategoriasfilmes.xml</externallink>
 </channel>
@@ -23,8 +23,8 @@
    
 <channel>
 <name>[COLOR orange] == [/COLOR] [COLOR orange] Séries 2026 [COLOR orange] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/aresseries2026fanart/aresseries2026fanart.png</thumbnail>
-<fanart>https://archive.org/download/aresseries2026fanart/aresseries2026fanart.png</fanart>
+<thumbnail>https://archive.org/download/ares-lite-series/ares-lite-series.jpg</thumbnail>
+<fanart>https://archive.org/download/ares-lite-series/ares-lite-series.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20series/painelcategoriasseries.xml</externallink>
 </channel>

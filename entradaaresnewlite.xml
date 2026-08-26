@@ -20,13 +20,6 @@
 <externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20filmes/painelcategoriasfilmes.xml</externallink>
 </channel>
 
-<channel>
-<name>[COLOR red] == [/COLOR] [COLOR orange] Filmes Clássicos [COLOR red] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/aresfilmesclassicos_202608/aresfilmesclassicos.png</thumbnail>
-<fanart>https://archive.org/download/aresfilmesclassicos_202608/aresfilmesclassicos.png</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink></externallink>
-</channel>
    
 <channel>
 <name>[COLOR orange] == [/COLOR] [COLOR orange] Séries 2026 [COLOR orange] === [/COLOR]</name>
@@ -36,37 +29,6 @@
 <externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20series/painelcategoriasseries.xml</externallink>
 </channel>
    
-<channel>
-<name>[COLOR red] == [/COLOR] [COLOR orange] Tv  [COLOR red] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/generated-image-august-03-2026-2-05-pm-1/Generated%20Image%20August%2003%2C%202026%20-%202_05PM%281%29.png</thumbnail>
-<fanart>https://archive.org/download/generated-image-august-03-2026-2-05-pm-1/Generated%20Image%20August%2003%2C%202026%20-%202_05PM%281%29.png</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink></externallink>
-</channel>
-  
-<channel>
-<name>[COLOR orange] == [/COLOR] [COLOR orange] Rádios [COLOR orange] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/aresradiosonline/aresradiosonline.png</thumbnail>
-<fanart>https://archive.org/download/aresradiosonline/aresradiosonline.png</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink></externallink>
-</channel>
-
-<channel>
-<name>[COLOR red] == [/COLOR] [COLOR orange] Cameras ao Vivo [COLOR red] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/arescamerasaovivo1/arescamerasaovivo%281%29.png</thumbnail>
-<fanart>https://archive.org/download/arescamerasaovivo1/arescamerasaovivo%281%29.png</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink></externallink>
-</channel>
-
-<channel>
-<name>[COLOR orange] == [/COLOR] [COLOR orange] Runtime [COLOR orange] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/runtime_20260520/runtime.jpg</thumbnail>
-<fanart>https://archive.org/download/runtime_20260520/runtime.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
-<externallink></externallink>
-</channel>
 
    
   

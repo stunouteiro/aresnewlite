@@ -1,36 +1,2665 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channels>
+<items>
 
 
 
 
 
-<channel>
-<name>[COLOR red] == [/COLOR]ADDON [COLOR pink] ARES[/COLOR][COLOR orange]LITE[/COLOR] ADDON ARES LITE by R.O[COLOR red] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20260825/icon.jpg</thumbnail>
-<fanart>https://archive.org/download/icon_20260825/fanart.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/stunouteiro/ares/refs/heads/main/entrada.xml</externallink>
-</channel>
-   
-<channel>
-<name>[COLOR red] == [/COLOR] [COLOR orange] Filmes Ares Lite 2026 [COLOR red] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/ares-lite-series/ares-lite-filmes.jpg</thumbnail>
-<fanart>https://archive.org/download/ares-lite-series/ares-lite-filmes.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite Lite [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/stunouteiro/ares/refs/heads/main/painel%20categorias%20filmes/painelcategoriasfilmes.xml</externallink>
-</channel>
-   
-<channel>
-<name>[COLOR orange] == [/COLOR] [COLOR pink] Séries Ares Lite 2026 [COLOR orange] === [/COLOR]</name>
-<thumbnail>https://archive.org/download/ares-lite-series/ares-lite-series.jpg</thumbnail>
-<fanart>https://archive.org/download/ares-lite-series/ares-lite-series.jpg</fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/stunouteiro/ares/refs/heads/main/painel%20categorias%20series/painelcategoriasseries.xml</externallink>
-</channel>
-   
 
 
-   
+
+
+<item>
+    <title>O Corvo [COLOR orange] Addon Ares Lite Filmes Clássicos(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:7L5BM54D772PVXWVTKP6DWNTUJAL6LQG$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=rJzGffdWFkk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/ryVG1L3sMvrNuI10Gk4ooSSnHRV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/tZmeoTR0dzBih2usbrmoADjBI2y.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Crow
+[COLOR red]Elenco Principal:[/COLOR] Bill Skarsgård, FKA twigs, Danny Huston, Josette Simon, Laura Birn
+[COLOR orange]Duração:[/COLOR] 1h 51min
+[COLOR red]Diretor:[/COLOR] Rupert Sanders
+[COLOR orange]Ano:[/COLOR] 1994
+[COLOR red]Nota:[/COLOR] 5.8
+[COLOR orange]Gênero:[/COLOR] Ação, Fantasia, Terror
+[COLOR red]Sinopse:[/COLOR] O roqueiro Eric Draven está morto... Mas, estranhamente, ele ainda vive. Ele ainda não pode descansar em paz. Não enquanto os vermes responsáveis por sua morte e também pelo assassinato de sua noiva permanecerem vivos. Assim, Draven retorna de seu túmulo para submeter seus matadores à uma implacável vingança. E ele não está sozinho. Um amedrontador corvo do outro mundo guia Draven em sua jornada.
+    </info>
+</item>
+
+<item>
+    <title>Motor City [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet%3A%3Fxt%3Durn%3Abtih%3ABDA93420066514A5AE7B615C0CB3424263A63815$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=c7GMCJyoUjU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zYFe8hbCL39zbY8Ckep6Rs7Kdf2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/cYEu96qXUFilbHPw7yP3qi0SQle.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Motor City
+[COLOR red]Elenco Principal:[/COLOR] Alan Ritchson, Shailene Woodley, Ben Foster, Amar Chadha-Patel, Ben McKenzie
+[COLOR orange]Duração:[/COLOR] 104min
+[COLOR red]Diretor:[/COLOR] Potsy Ponciroli
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.9
+[COLOR orange]Gênero:[/COLOR] Ação, Thriller, Crime
+[COLOR red]Sinopse:[/COLOR] Um criminoso recém-libertado busca vingança contra aqueles que o incriminaram e o colocaram na cadeia.
+    </info>
+</item>
+
+<item>
+    <title>Batman: A Queda do Morcego - Parte 1 [COLOR orange] Addon Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:9059e6bc828d72046f880de6a2cd10cf5a13d800$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=8jRvILFcx30$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6c78xuvSoFLJkwlmx8Z2FGmMtzr.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Batman: Knightfall Part 1: Knightfall
+[COLOR red]Elenco Principal:[/COLOR] Anson Mount, Michael Mando, Pablo Schreiber, Jack Giffin, Bruce Boxleitner
+[COLOR orange]Duração:[/COLOR] 1h 19min
+[COLOR red]Diretor:[/COLOR] Jeff Wamester
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.2
+[COLOR orange]Gênero:[/COLOR] Animação, Ação, Aventura
+[COLOR red]Sinopse:[/COLOR] O Asilo Arkham foi destruído, e todos os seus detentos foram soltos em Gotham City. Enquanto corre contra o tempo para capturar alguns de seus maiores inimigos, Batman é levado ao limite de suas capacidades físicas e mentais, rumo a um confronto final contra uma nova ameaça: o homem chamado Bane!
+    </info>
+</item>
+
+<item>
+    <title>Shogun&apos;s Ninja [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet%3A%3Fxt%3Durn%3Abtih%3A65a19ea2bf45dafe6c435e86bcbe89eeaa942f21$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=MAGR1ATyng8$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yYlePTFBWKpypkEh2Z13jzr2rY0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/iwt36Pst6XYNBoAQJ1afK9zBCCS.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] SHOGUN&apos;S NINJA-将軍乃忍者-
+[COLOR red]Elenco Principal:[/COLOR] 搗宮姫奈, 宮原華音, 桃月なしこ, Fumi Taniguchi, 寺坂頼我
+[COLOR orange]Duração:[/COLOR] 76min
+[COLOR red]Diretor:[/COLOR] 坂本浩一
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 7.4
+[COLOR orange]Gênero:[/COLOR] Ação, História
+[COLOR red]Sinopse:[/COLOR] A história se passa em Edo no século 17, uma era de paz nunca antes vista, onde samurais detém o poder sob o governo do Xogum Ieyasu Tokugawa. No entanto, por trás dessa tranquilidade, se desenha uma história de vingança e sobrevivência.
+    </info>
+</item>
+
+<item>
+    <title>Golpe Explosivo [COLOR orange] Addon Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:4d725a36e3ef0aad406e0f46bbb93fde1d38a764$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ncS6rUnthGU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9ZxbfDA3OCcwAFwIgOGC4Rauogn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Fuze
+[COLOR red]Elenco Principal:[/COLOR] Aaron Taylor-Johnson, Theo James, Gugu Mbatha-Raw, Elham Ehsas, Sam Worthington
+[COLOR orange]Duração:[/COLOR] 1h 38min
+[COLOR red]Diretor:[/COLOR] David Mackenzie
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.2
+[COLOR orange]Gênero:[/COLOR] Ação, Crime, Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] O centro de Londres entra em pânico com a descoberta de uma bomba da Segunda Guerra Mundial não detonada em um canteiro de obras. Em meio ao caos de uma evacuação em massa, uma quadrilha de criminosos inicia um assalto audacioso.
+    </info>
+</item>
+
+<item>
+    <title>Todo Mundo em Pânico [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn%3Abtih%3A0e5f8ad5c40d967aa3720dc91d54b2f1a7da2e43$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=bO_APd0MNVU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/xWBiXclrRmTggQHMRsIn84YHavs.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Scary Movie
+[COLOR red]Elenco Principal:[/COLOR] Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall, Olivia Rose Keegan
+[COLOR orange]Duração:[/COLOR] 1h 35min
+[COLOR red]Diretor:[/COLOR] Michael Tiddes
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.4
+[COLOR orange]Gênero:[/COLOR] Comédia
+[COLOR red]Sinopse:[/COLOR] Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.
+    </info>
+</item>
+
+<item>
+    <title>A Odisseia [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn%3Abtih%3A0D323A3E19362269F3C759400A224BA94B68DE8C$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=NJV9Pw2kXc4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Odyssey
+[COLOR red]Elenco Principal:[/COLOR] Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel
+[COLOR orange]Duração:[/COLOR] 2h 52min
+[COLOR red]Diretor:[/COLOR] Christopher Nolan
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.0
+[COLOR orange]Gênero:[/COLOR] Aventura, Ação, Fantasia
+[COLOR red]Sinopse:[/COLOR] Acompanhe o rei grego Odisseu em sua perigosa jornada de 20 anos para voltar a Ítaca após a Guerra de Troia, enfrentando monstros e deuses enquanto sua esposa Penélope resiste em seu reino.
+    </info>
+</item>
+
+<item>
+    <title>A Mansão Savage [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:bb0844c5093ea676f0e85a744f91a1097c029822$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=dB9HuMcaEGM$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/k5Maipij0lwfTWJSs6xq3dcCWVj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/xr8cnK9SdDKdqYiWlBthQcvBJvH.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Savage House
+[COLOR red]Elenco Principal:[/COLOR] Richard E. Grant, Claire Foy, Jack Farthing, Bel Powley, Kíla Lord Cassidy
+[COLOR orange]Duração:[/COLOR] 1h 54min
+[COLOR red]Diretor:[/COLOR] Peter Glanz
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.9
+[COLOR orange]Gênero:[/COLOR] Comédia, Drama
+[COLOR red]Sinopse:[/COLOR] Tendo como pano de fundo a Inglaterra do século XVIII, um surto massivo de varíola e a revolta jacobita, Sir Chauncey Savage e Lady Savage buscam cegamente uma vida melhor. Não é sem uma pitada de ironia que seu sobrenome seja Savages (Os Selvagens), pois esta é de fato uma Casa Selvagem, repleta de duelos, decadência e derramamento de sangue.
+    </info>
+</item>
+
+<item>
+    <title>À Procura da Felicidade [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:fb92d1439a018c499e544b801ecc2ab3eb7e75bc$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=FkBHPeB0OAg$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Pursuit of Happyness
+[COLOR red]Elenco Principal:[/COLOR] Will Smith, Jaden Smith, Thandiwe Newton, Brian Howe, James Karen
+[COLOR orange]Duração:[/COLOR] 1h 57min
+[COLOR red]Diretor:[/COLOR] Gabriele Muccino
+[COLOR orange]Ano:[/COLOR] 2006
+[COLOR red]Nota:[/COLOR] 7.9
+[COLOR orange]Gênero:[/COLOR] Drama
+[COLOR red]Sinopse:[/COLOR] Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.
+    </info>
+</item>
+
+<item>
+    <title>Ataque ao Hotel [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:8c32a260b07fee62d7177c2e91d1a640ab97db6c$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=m0c3_d4kUVI$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3Y0Xr8aZSBoyq2f7g7VFnXa36BV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/u9HVyKM58XRipaQXJbCphTknxgO.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Delfines de plata
+[COLOR red]Elenco Principal:[/COLOR] Rodolfo Sancho, María Blanco, Andoni Ferreño, Luis Fernando Alvés, Will Shephard
+[COLOR orange]Duração:[/COLOR] 1h 55min
+[COLOR red]Diretor:[/COLOR] Javier Elorrieta
+[COLOR orange]Ano:[/COLOR] 2023
+[COLOR red]Nota:[/COLOR] 5.0
+[COLOR orange]Gênero:[/COLOR] Drama, Thriller, Romance
+[COLOR red]Sinopse:[/COLOR] Javier Gallardo é o chefe da polícia responsável por impedir que um grupo realize um ataque terrorista a um luxuoso hotel em Madri.
+    </info>
+</item>
+
+<item>
+    <title>O Diabo Veste Prada 2 [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn%3Abtih%3A22dd2a3d1c6b41bdd506dd6e50866dbd77bb80c0$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=7uQP-yxAcN4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/50yWyY981TyUHhoxxSEKwO70FmQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Devil Wears Prada 2
+[COLOR red]Elenco Principal:[/COLOR] Anne Hathaway, Meryl Streep, Emily Blunt, Stanley Tucci, Kenneth Branagh
+[COLOR orange]Duração:[/COLOR] 1h 59min
+[COLOR red]Diretor:[/COLOR] David Frankel
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.1
+[COLOR orange]Gênero:[/COLOR] Comédia, Drama
+[COLOR red]Sinopse:[/COLOR] Miranda Priestly navega por sua carreira em meio ao declínio das publicações tradicionais de revistas. Ela se confronta com Emily Charlton, sua ex-assistente, agora uma influente executiva de um grupo de luxo, que detém verbas publicitárias de que Miranda Priestly precisa desesperadamente.
+    </info>
+</item>
+
+<item>
+    <title>Jovens Águias [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:a4e9f33f1c0b1f1428fd4d6a5112c0c5c82bbbe1$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=3HtyYBkgJww$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pZQq1WmFzvP3DGzG1fWUeSmOSvJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/cjdlKxMQ7VdWqGZtyOaDhDkaCEx.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Orlęta. Grodno '39
+[COLOR red]Elenco Principal:[/COLOR] Feliks Matecki, Jowita Budnik, Leszek Lichota, Bartłomiej Topa, Filip Gurłacz
+[COLOR orange]Duração:[/COLOR] 1h 44min
+[COLOR red]Diretor:[/COLOR] Krzysztof Łukaszewicz
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] 6.1
+[COLOR orange]Gênero:[/COLOR] Guerra, História, Drama
+[COLOR red]Sinopse:[/COLOR] Em 1939, na cidade de Grodno, pequenas tropas polonesas recebem a ajuda de crianças e adolescentes para tentar defender a cidade da invasão da União Soviética.
+    </info>
+</item>
+
+<item>
+    <title>Presságios de um Crime [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:dbaf2c1fc36543e296b9f550f6333b3d495757b3$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=aZlSZgqS-UE$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zdF1bVB9Nzd2VGcCotdjB4bdJws.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/mLg1I7Nn47CYOdG1tOXegOhcayQ.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Solace
+[COLOR red]Elenco Principal:[/COLOR] Anthony Hopkins, Jeffrey Dean Morgan, Abbie Cornish, Colin Farrell, Matt Gerald
+[COLOR orange]Duração:[/COLOR] 1h 41min
+[COLOR red]Diretor:[/COLOR] Afonso Poyart
+[COLOR orange]Ano:[/COLOR] 2015
+[COLOR red]Nota:[/COLOR] 6.4
+[COLOR orange]Gênero:[/COLOR] Thriller, Crime, Mistério
+[COLOR red]Sinopse:[/COLOR] Dois detetives do FBI, Joe Merriwether e Katherine Cowles perseguem um serial killer conhecido por matar suas vítimas com um objeto perfurante na nuca, sem deixar vestígios na cena do crime. Diante da ausência de provas, Joe pede ajuda ao seu amigo pessoal, o Doutor John Clancy, um poderoso vidente que vive isolado desde a morte de sua filha. Aos poucos, este novo investigador ajuda os policiais a entender a mente do assassino, até fazer uma descoberta importante: o homem responsável pelas mortes também é um vidente, ainda mais esperto que John. Pior do que isso, ele está sempre um passo à frente nas investigações.
+    </info>
+</item>
+
+<item>
+    <title>Forjando Campeões 2 [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:e50f2c0c1bb863bbe2788f982685fafe6a20bc25&xl=3048624955$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=3E1DcLh8dwk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ujQLhp17eOpz9UsadZaogTuC1bd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/rjQgqeIT1WXixKg868wbCSoCXlx.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Campeonex
+[COLOR red]Elenco Principal:[/COLOR] Elisa Hipólito, Sergio Olmo, Brianeitor, Jesús Vidal, José de Luna
+[COLOR orange]Duração:[/COLOR] 2h 4min
+[COLOR red]Diretor:[/COLOR] Javier Fesser
+[COLOR orange]Ano:[/COLOR] 2023
+[COLOR red]Nota:[/COLOR] 6.4
+[COLOR orange]Gênero:[/COLOR] Comédia, Família
+[COLOR red]Sinopse:[/COLOR] Uma inexperiente e azarada treinadora decide reunir o time de amigos que disputou a final de basquete dois anos atrás. Mas um erro na hora de inscrever a equipe, acaba obriga-os a abandonar o basquete e mergulhar no mundo do atletismo.
+    </info>
+</item>
+
+<item>
+    <title>A Máquina da Morte [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:bea69eb4eed521772e53ddd169eb2edf28915de9$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=6bDi0C-7XCs$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gUmdI7xv8poBNJbPp9YW4DM5E1M.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/spmyXKG2BZnEQuFPQ3R2Q539EnI.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Death Machine
+[COLOR red]Elenco Principal:[/COLOR] Ely Pouget, Brad Dourif, William Hootkins, John Sharian, Martin McDougall
+[COLOR orange]Duração:[/COLOR] 2h 2min
+[COLOR red]Diretor:[/COLOR] Stephen Norrington
+[COLOR orange]Ano:[/COLOR] 1995
+[COLOR red]Nota:[/COLOR] 5.9
+[COLOR orange]Gênero:[/COLOR] Ação, Terror, Ficção científica, Thriller
+[COLOR red]Sinopse:[/COLOR] Executivo de empresa de armas de guerra morre sob circunstâncias suspeitas. Uma mulher assume a direção e defende o afastamento de estranho inventor, que a submete, em represália, a vingança tecnológica envolvendo violência, sexo e sua maior criação: a Máquina da Morte.
+    </info>
+</item>
+
+<item>
+    <title>Meu Amigo Dino: Retorno ao Mundo Perdido [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:zpal6zo2qkq3fx22cg7vqps4zcre2ily$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=5LmB72yy2Fo$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3Uo2baDjwhkCW265GGrlMOW29y8.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/k0sYJ4lQ7k5RGQKXXK7VB3BEOWT.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Adventures of Jurassic Pet: Return to the Wild
+[COLOR red]Elenco Principal:[/COLOR] Ava Torres, Marila Lombrozo, Sophie Proctor, Jobie James, Brooks Ryan
+[COLOR orange]Duração:[/COLOR] 1h 21min
+[COLOR red]Diretor:[/COLOR] Ryan Bellgardt
+[COLOR orange]Ano:[/COLOR] 2024
+[COLOR red]Nota:[/COLOR] 6.0
+[COLOR orange]Gênero:[/COLOR] Aventura, Família, Ficção científica, Comédia
+[COLOR red]Sinopse:[/COLOR] Uma equipe de documentaristas encontra um portal mágico para o mundo dos dinossauros e captura Spike, um dinossauro bebê. Madison, Ethan e seus amigos tentam libertá-lo, devolvê-lo ao seu lar e proteger o portal de cair em mãos erradas.
+    </info>
+</item>
+
+<item>
+    <title>A Morte do Demônio: Em Chamas [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:2yyvpl4axou54spd7mvcibdskamv263p$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=7s0fcLuo4P0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fteLdvfRnltfLjAEnsl5E3vImnW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Evil Dead Burn
+[COLOR red]Elenco Principal:[/COLOR] Souheila Yacoub, Tandi Wright, Hunter Doohan, Luciane Buchanan, Erroll Shand
+[COLOR orange]Duração:[/COLOR] 1h 57min
+[COLOR red]Diretor:[/COLOR] Sébastien Vaniček
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.8
+[COLOR orange]Gênero:[/COLOR] Terror
+[COLOR red]Sinopse:[/COLOR] Após a perda do marido, uma mulher busca consolo com seus sogros em sua casa isolada. À medida que, um a um, eles são transformados em Deadites — transformando o encontro em uma reunião familiar infernal —, ela descobre que os votos que fez em vida... continuam vivos mesmo após a morte.
+    </info>
+</item>
+
+<item>
+    <title>Meu Amigo Dino [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:akzg3yfti5it4v6qes6p7ldrxp5ob2om$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=YH8orPt0Q2E$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/54rWYTW1kmAhv4aSLVE94nfXVuJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/79czbC1CQ4Mak3AjextNzGubPfJ.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Adventures of Jurassic Pet 2: The Lost Secret
+[COLOR red]Elenco Principal:[/COLOR] Sophie Proctor, Myles Currin-Moore, Ryan Francis, Drew Pollock, Lisa Fenimore
+[COLOR orange]Duração:[/COLOR] 1h 24min
+[COLOR red]Diretor:[/COLOR] Ryan Bellgardt
+[COLOR orange]Ano:[/COLOR] 2023
+[COLOR red]Nota:[/COLOR] 4.8
+[COLOR orange]Gênero:[/COLOR] Família, Aventura, Ficção científica, Comédia
+[COLOR red]Sinopse:[/COLOR] Uma adolescente ousada e sua avó guardam um portal para um mundo de dinossauros. Quando o bebê dinossauro Júnior, fica preso em nosso mundo, uma conspiração criminosa é descoberta, Wendy e o órfão Curtis precisam salvar a cidade e levá-lo de volta para casa.
+    </info>
+</item>
+
+<item>
+    <title>Projeto Caça ao Lobo [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:lddxfuurn7bzqwdls7b2akw365pro7wm$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=PHI194aoKoQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uM0wcqCNbKfVowUKko7fvzOSSdf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/mIW7eFxHnNqlwKwKWb6dpVjmHao.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] 늑대사냥
+[COLOR red]Elenco Principal:[/COLOR] 서인국, 장동윤, 박호산, Jung So-min, Ko Chang Seok
+[COLOR orange]Duração:[/COLOR] 2h 2min
+[COLOR red]Diretor:[/COLOR] 김홍선
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] 6.4
+[COLOR orange]Gênero:[/COLOR] Ação, Thriller, Terror, Crime
+[COLOR red]Sinopse:[/COLOR] Durante o transporte das Filipinas para a Coreia do Sul, um grupo de criminosos perigosos se une para encenar uma tentativa de fuga coordenada. À medida que a fuga da prisão se transforma em um tumulto sangrento, os fugitivos e seus aliados de fora iniciam uma brutal campanha de terror contra os agentes especiais a bordo do navio.
+    </info>
+</item>
+
+<item>
+    <title>Diamante Negro [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ianvofrfyaifq26cdc4ya4vy3toozy23$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=rYxkokzf5Ig$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4aPn0pXvkMoTzeNI6uw2KgvCEK3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/zjPOZtbAZPjF70dLUN2NWT3Tl1J.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Black Diamond
+[COLOR red]Elenco Principal:[/COLOR] Inbar Lavi, Ray Panthaki, Jake McLaughlin, Shaun Sipos, Michael James Bell
+[COLOR orange]Duração:[/COLOR] 1h 29min
+[COLOR red]Diretor:[/COLOR] Judd Bloch
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 5.4
+[COLOR orange]Gênero:[/COLOR] Thriller
+[COLOR red]Sinopse:[/COLOR] A jovem Elena vai morar com seu namorado rico em uma casa nas montanhas. Mas após conhecer um misterioso cowboy, sua vida dos sonhos se transforma em um perigoso triângulo amoroso repleto de obsessão, desejo e violência.
+
+    </info>
+</item>
+
+<item>
+    <title>A Partida do Século [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:zaahkqlwq6cg4ibn7cbqf7gvgnmg7xcv$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=QBHpvcugXSc$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sNJg8VCcg4WVzVSpGB2rEAW0rGq.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/tinzdtP3olS0ZUznIrC25K3UTmP.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Чемпион мира
+[COLOR red]Elenco Principal:[/COLOR] Константин Хабенский, Иван Янковский, Владимир Вдовиченков, Виктор Добронравов, Виктор Сухоруков
+[COLOR orange]Duração:[/COLOR] 2h 25min
+[COLOR red]Diretor:[/COLOR] Алексей Сидоров
+[COLOR orange]Ano:[/COLOR] 2021
+[COLOR red]Nota:[/COLOR] 6.0
+[COLOR orange]Gênero:[/COLOR] Drama
+[COLOR red]Sinopse:[/COLOR] Em 1978, o jovem e ambicioso campeão de xadrez soviético Anatoly Karpov deve defender seu título contra um ex-mentor e desertor do Ocidente, Viktor Korchnoi. O confronto se torna a partida de campeonato mais dramática da história do xadrez.
+
+    </info>
+</item>
+
+<item>
+    <title>Voltei na Foto [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:aiegh3jnyubkmhvxvxf4ueohkg7flky$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=CxXgtWuo5W0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5dnHNzYDXouqR6IYzm9Tipyr5rf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/9pV4KwYn8Z92LrF21xhmBQ1Pt4v.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Voltei na Foto
+[COLOR red]Elenco Principal:[/COLOR] Leandro Hassum, Tony Ramos, Regiane Alves, Augusto Madeira, Mariana Santos
+[COLOR orange]Duração:[/COLOR] 1h 37min
+[COLOR red]Diretor:[/COLOR] Matheus Malafaia
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 10.0
+[COLOR orange]Gênero:[/COLOR] Cinema TV, Comédia
+[COLOR red]Sinopse:[/COLOR] Leonardo chega aos 50 anos frustrado com a carreira na publicidade, com a vida amorosa e com a relação conturbada com o pai, Álvaro. A convivência entre os dois se intensifica quando Álvaro, já aposentado, passa a morar com o filho, trazendo à tona conflitos antigos e traumas de infância que ainda afetam o protagonista. Após uma discussão intensa, Leonardo encontra uma antiga caixa de memórias e, ao olhar uma foto de quando era criança, é transportado para 1986.
+
+    </info>
+</item>
+
+<item>
+    <title>NOVAK DJOKOVIC: O Lobo no Inverno [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:6f7f4c6d555d516a035f3d8f6c5539b571cea180$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=MozzTaCSIbk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7hMlP7ggiImF1YA0bG0tgs8NvKN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/1upwdMUTDkEI5vm22d4D09cFWkU.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Novak Djokovic: The Wolf in Winter
+[COLOR red]Elenco Principal:[/COLOR] Новак Ђоковић, Andre Agassi, Pete Sampras, Rafael Nadal, Boris Becker
+[COLOR orange]Duração:[/COLOR] 1h 32min
+[COLOR red]Diretor:[/COLOR] Jason Hehir
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 10.0
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Ele conquistou todos os títulos no tênis, incluindo o ouro olímpico. Então por que Novak Djokovic continua jogando? Lobo no Inverno acompanha o maior jogador de tênis de todos os tempos em seu retorno ao Australian Open em 2025, capturando a obsessão, a preparação e a chama que não se apaga mesmo quando não há mais nada a provar.
+
+    </info>
+</item>
+
+<item>
+    <title>2 Campeões de Shaolin 1980 [COLOR orange] Ares Lite Filmes Raridade (2026)[/COLOR]</title>
+    <link>https://animezey16082023.animezey16082023.workers.dev/1:/Filmes/Filmes%20Antigos%20(4054)/2%20Campeões%20de%20Shaolin%201980%20Web-DL%201080p%20Triaudio.jeffsep]/2.Campeões.de.Shaolin.1980.Web-DL1080p.Triaudio.jeffsep.mkv</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=DyaT1jjGfqY$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9AQiLdt9IlmG6AxVYzszGsJ3jJn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/oEJcvtUVuwN8Vhe11CIDATU63o.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] 少林與武當
+[COLOR red]Elenco Principal:[/COLOR] 江生, 羅莽, 文雪兒, 王力, Sun Chien
+[COLOR orange]Duração:[/COLOR] 1h 46min
+[COLOR red]Diretor:[/COLOR] 張徹
+[COLOR orange]Ano:[/COLOR] 1980
+[COLOR red]Nota:[/COLOR] 6.2
+[COLOR orange]Gênero:[/COLOR] Ação, Drama
+[COLOR red]Sinopse:[/COLOR] Durante o esplendor da desonrada dinastia Ming, dois jovens guerreiros que pertencem ao clã de rebeldes do Templo de Shaolin estão numa missão secreta mortal, que poderá causar a derrubada do império. Os temidos guerreiros Wutang, que estão do lado do governo, procuram impedi-los a todo custo. Assim, explode uma violenta rivalidade ente os dois clãs, que marcará com sangue a fantástica batalha pela liberdade polí­tica e social, onde os guerreiros de Wutang lutam contra os guerreiros do Templo de Shaolin. O confronto entre vários estilos das artes marciais é o ponto alto dessa história de vingança e traição.
+
+    </info>
+</item>
+
+<item>
+    <title>Return to the Jurassic [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:2F5AE60DD1607699F84F7FC788EB407175391B8E$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=pSpGwCWQbwU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ct5i2j09kAXK4NKjPYuSDRPphJr.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/zlhdLysLFuCEelsDwfhwMS7kqFp.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] 重返侏罗纪
+[COLOR red]Elenco Principal:[/COLOR] Edward Gu, Mao Fan, Ma Qunxiong, 张永华
+[COLOR orange]Duração:[/COLOR] 1h 9min
+[COLOR red]Diretor:[/COLOR] 李飞
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Aventura, Ação, Ficção Científica
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Pinóquio: Maldição de Madeira [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:7BE9DF2CE56248F00EACA475AE2FBE44B9C621B1$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=M6BSAXBLOE4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/q5fPuX0MoUOWKqYm0lnVJgXtaGp.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/dNKFETDDujxm2PUN873Jwiw5VML.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Pinocchio: Unstrung
+[COLOR red]Elenco Principal:[/COLOR] Jude Evan Lloyd, Robert Englund, Cameron Bell, Jessica Balmer, Richard Brake
+[COLOR orange]Duração:[/COLOR] 1h 30min
+[COLOR red]Diretor:[/COLOR] Rhys Frake-Waterfield
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.7
+[COLOR orange]Gênero:[/COLOR] Terror, Fantasia, Mistério
+[COLOR red]Sinopse:[/COLOR] O boneco de madeira Pinóquio é trazido à vida por forças macabras. Distante da inocência original, sua jornada para se tornar um menino de verdade é marcada por violência e vingança. À medida que Pinóquio persegue brutalmente aqueles que cruzam seu caminho, antigos laços familiares são distorcidos em horrores impensáveis.
+
+    </info>
+</item>
+
+<item>
+    <title>Possuída no Deserto [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:irdte5an7ccqmdzup2nqj5cx7pzaumq2$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=MhDCehHid-w$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/id3E7PwXH073DrnruuH8Eec9fo9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/dC15RaDX4mmPB0omILrjTKMGy6W.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Killing Faith
+[COLOR red]Elenco Principal:[/COLOR] Guy Pearce, DeWanda Wise, Bill Pullman, Raoul Max Trujillo, Ryan de Quintal
+[COLOR orange]Duração:[/COLOR] 1h 48min
+[COLOR red]Diretor:[/COLOR] Ned Crowley
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 5.9
+[COLOR orange]Gênero:[/COLOR] Thriller, Faroeste
+[COLOR red]Sinopse:[/COLOR] Em 1859, uma escrava recém-libertada acredita que sua misteriosa filha caucasiana está possuída porque tudo o que ela toca morre e convence um médico viúvo a levá-la em uma viagem em busca de um curandeiro distante.
+
+    </info>
+</item>
+
+<item>
+    <title>O Filho da Escuridão [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>plugin://plugin.video.resolverurl_player?url=magnet:?xt=urn:btih:5f7w5h5oncghhxlyqevfbqirjgtxjv5y$nome=[COLOR pink]LINK[/COLOR][COLOR orange]DIRETO 1[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ecwCM2gxPJA$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/c74c25sxyCad628qy2MXbsXfhB2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Yön lapsi
+[COLOR red]Elenco Principal:[/COLOR] Rupert Grint, Seidi Haarla, Pamela Tola, Pirkko Saisio, Rebecca Lacey
+[COLOR orange]Duração:[/COLOR] 1h 32min
+[COLOR red]Diretor:[/COLOR] Hanna Bergholm
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.1
+[COLOR orange]Gênero:[/COLOR] Terror
+[COLOR red]Sinopse:[/COLOR] Em uma floresta na Finlândia, Saga e seu marido, Jon, iniciam um novo capítulo de suas vidas ao se tornarem pais. Porém, a alegria de Saga é ofuscada por uma suspeita perturbadora sobre o recém-nascido. Sem que Jon saiba, ela passa a enfrentar sozinha uma verdade inquietante, o que acaba criando um abismo entre o casal.
+
+    </info>
+</item>
+
+<item>
+    <title>Beijar é Fácil [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:knnlcel65pd4viay4komejy3kebg3zi3$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=CLjGSL_DhIs$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1kuUHuFiCIXGdZUfrFobiYulycU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/7yuHdP85F2ZxhKbSoPgCBT9uJT3.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Kissing Is the Easy Part
+[COLOR red]Elenco Principal:[/COLOR] Asher Angel, Paris Berelc, Jennifer Robertson, Tom Keat, Rosalie Turmel
+[COLOR orange]Duração:[/COLOR] 1h 41min
+[COLOR red]Diretor:[/COLOR] Fawzia Mirza
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.2
+[COLOR orange]Gênero:[/COLOR] Romance, Comédia
+[COLOR red]Sinopse:[/COLOR] Sean, um aluno nota 10, sonha com o MIT. Flora quer faltar ao vestibular. As aulas particulares aproximam os dois, mas um acordo secreto coloca esse romance improvável à prova.
+
+    </info>
+</item>
+
+<item>
+    <title>Corporate Retreat [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:B5E127078BC200DC8F497A4FEEF64A098CA4F237$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=GpufRdcfep8$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sciPl4coQWdsWtRQBUau7xnNYue.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/adGDEYOXavgHR1aLiJCicivhmZe.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Corporate Retreat
+[COLOR red]Elenco Principal:[/COLOR] Odeya Rush, Sasha Lane, Elias Kacavas, Ashton Sanders, Zión Moreno
+[COLOR orange]Duração:[/COLOR] 1h 29min
+[COLOR red]Diretor:[/COLOR] Aaron Fisher
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 4.8
+[COLOR orange]Gênero:[/COLOR] Terror, Thriller, Comédia
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Landship [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:48E345C091A2FCE6F2B8D006F95DE82D1A91FD1B$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=LqiomDx8WSM$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iYMX7oUGxHn6Z9pSqcAgl5r0E4N.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/jdb7kGp1UE1dot7rtCZlPuY4b6W.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Landship
+[COLOR red]Elenco Principal:[/COLOR] Vin Hawke, Micky David, Jack Sherlock, Matthew Canny, David Dobson
+[COLOR orange]Duração:[/COLOR] 1h 29min
+[COLOR red]Diretor:[/COLOR] Callum Burn
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 4.0
+[COLOR orange]Gênero:[/COLOR] Guerra
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Carrossel Mágico [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:wwmss6k2sx4i2xds3q6hz2farw6xr7qq$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=GoxzSgZlUJg$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vnrdXSgNlYj17oU7BWThXLHzdQn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/w4ssqWwSiSumZve63L1gtXd3bC5.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Monkey’s Magic Merry Go Round
+[COLOR red]Elenco Principal:[/COLOR] Michael Gilio, Frank Cesario, C.R. Thompson, Jackie Shook, Connar Brown Sprenger
+[COLOR orange]Duração:[/COLOR] 1h 31min
+[COLOR red]Diretor:[/COLOR] Aidan Leary
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.1
+[COLOR orange]Gênero:[/COLOR] Terror
+[COLOR red]Sinopse:[/COLOR] James é um apresentador de programa infantil que sofre de amnésia. Mas durante a gravação do último episódio, ele começa a se lembrar de memórias que ameaçam acabar com sua sanidade mental.
+
+    </info>
+</item>
+
+<item>
+    <title>Desaparecida e Esquecida: O Caso Chompoo [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:vd6ccjcjs34onetpxg7n4ji2p3xa6o4h$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=IH9AhW31-ro$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1F0ZkDmiVq31SFj2YnTINGVLUoz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] คดีชมพู่:​ เด็กหายที่ถูกลืม
+[COLOR red]Elenco Principal:[/COLOR] 
+[COLOR orange]Duração:[/COLOR] 1h 25min
+[COLOR red]Diretor:[/COLOR] Nontawat Numbenchapol
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Este documentário examina o caso de uma criança desaparecida na Tailândia que chocou o país, alçou um suspeito à fama e transformou uma tragédia em atração televisiva.
+
+    </info>
+</item>
+
+<item>
+    <title>Quem é seu Pai? [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:gmrr7bok7xh3ny56vgydt5vnjlspbppwunce$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=2w2D1YQZVwI$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/v8oqxldyiCBdotYwtkU8IILgfZM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/wAgNUjl2piFKv1Pw2Ag8sMue7ch.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Who's Yer Father?
+[COLOR red]Elenco Principal:[/COLOR] Chris Locke, Susan Kent, Jess Salgueiro, Matt Wells, Kaniehtiio Horn
+[COLOR orange]Duração:[/COLOR] 1h 50min
+[COLOR red]Diretor:[/COLOR] Jeremy Larter
+[COLOR orange]Ano:[/COLOR] 2023
+[COLOR red]Nota:[/COLOR] 5.2
+[COLOR orange]Gênero:[/COLOR] Comédia, Mistério
+[COLOR red]Sinopse:[/COLOR] Larry é um investigador particular que tenta descobrir o mistério por trás da venda ilegal de lagostas em uma pequena província do Canadá.
+
+    </info>
+</item>
+
+<item>
+    <title>Café, Pépi e Limão [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:vec5yuvbggjcbjm6372eiuy67jy56tmz$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=rX61iZY_8BM$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lY5FB28guL8lgWEsd6DXNNqdcwK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/gmwdeu8GCgfl0AGZEf3VqxQspR9.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Café, Pépi e Limão
+[COLOR red]Elenco Principal:[/COLOR] João Vitor Souza, Mariana Nascimento, Leonardo Lacerda, Manu Santiago, Fernanda Beling
+[COLOR orange]Duração:[/COLOR] 1h 22min
+[COLOR red]Diretor:[/COLOR] Adler Paz
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Drama
+[COLOR red]Sinopse:[/COLOR] Café (14), foge do interior por conta de uma "vingança de família" que o persegue. Chegando à capital tenta encontrar seu pai, que está preso em um presídio local. Pépi (13), vive na periferia, onde é violentada por seu padrasto e expulsa de casa pela própria mãe. Limão (12), mora em um buraco sob um viaduto com Marta, que está muito debilitada devido ao vício. Os três se juntam para sobreviver, enquanto a amizade cresce entre eles. Mas os reveses do cotidiano acabam por levá-los à caminhos diferentes.
+
+    </info>
+</item>
+
+<item>
+    <title>Queda Livre: As Consequências do Caso Boeing [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:6bnruwaf6ch3uukwp2mkuvzyxr4ckdls$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=wNK6aBUCdgw$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Freefall: A Reckoning for Boeing
+[COLOR red]Elenco Principal:[/COLOR] 
+[COLOR orange]Duração:[/COLOR] 1h 33min
+[COLOR red]Diretor:[/COLOR] Rory Kennedy
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.0
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Este documentário chocante revela como a política de corte de custos da Boeing e a ocultação de informações gerou falhas fatais de segurança.
+
+    </info>
+</item>
+
+<item>
+    <title>Quinze Dias [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:uikt7zmshxt76wlg3s7tuekn5dyyj643$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=PTV943jBbPc$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/wiIFKSEZkKgmoI1ylsrbqvRxu1S.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Quinze Dias
+[COLOR red]Elenco Principal:[/COLOR] Miguel Lallo, Diego Lira, Débora Falabella, Mika Soeiro, Bel Moreira
+[COLOR orange]Duração:[/COLOR] 1h 40min
+[COLOR red]Diretor:[/COLOR] Daniel Lieff
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.2
+[COLOR orange]Gênero:[/COLOR] Comédia, Romance
+[COLOR red]Sinopse:[/COLOR] Os planos de férias de um adolescente inseguro são furados por uma visita inesperada: seu vizinho e crush da escola que passará duas semanas dormindo na sua casa. Os dias que prometiam paz, tranquilidade e maratonas épicas de séries acabam trazendo um turbilhão de sentimentos e questões mal resolvidas.
+
+    </info>
+</item>
+
+<item>
+    <title>O Fim da Rua Dublado CAMRip 1080p [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:9906c25c538d9774aefb1ab79ad769ba5cf8e9d8$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=NtVXvlgaIUQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The End of Oak Street
+[COLOR red]Elenco Principal:[/COLOR] Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis
+[COLOR orange]Duração:[/COLOR] 1h 40min
+[COLOR red]Diretor:[/COLOR] David Robert Mitchell
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.6
+[COLOR orange]Gênero:[/COLOR] Ficção Científica, Mistério, Thriller
+[COLOR red]Sinopse:[/COLOR] Após um misterioso evento cósmico abalar o bairro Oak Street e o transportar dos subúrbios para um lugar desconhecido, a família Platt descobre que sua sobrevivência vai depender da união entre todos para enfrentar um ambiente agora irreconhecível.
+
+    </info>
+</item>
+
+<item>
+    <title>The Brink of War Legendado CAMRip 1080p [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:37c72aec37c3dc03587d21f181c21ca2b303c543$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=VmrGKMpMCZI$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/pyOVG32JevYR0mltVlDvWwDL88F.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Brink of War
+[COLOR red]Elenco Principal:[/COLOR] Jeff Daniels, Jared Harris, J.K. Simmons, Hope Davis, Бранка Катић
+[COLOR orange]Duração:[/COLOR] 1h 57min
+[COLOR red]Diretor:[/COLOR] Michael Russell Gunn
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.0
+[COLOR orange]Gênero:[/COLOR] Drama, História, Thriller, Guerra
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>A Luta da Minha</title>
+    <link>magnet:?xt=urn:btih:e4vsvt5khbpnan5rnrqron4y2j42yoq7$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=CQvcZAxoPsM&t=2s$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w342/n6E6xcG4fuJOrLaY48stSfxBf5c.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w342/n6E6xcG4fuJOrLaY48stSfxBf5c.jpg</fanart>
+    <info>
+
+    </info>
+</item>
+
+<item>
+    <title>A Vingança de Nina [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:jftli4ztkubqmzl3xiaq3z5ks54w6k7s$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=a_ufPvjeK50$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lUK3NL7Eb685dsvjIboxlm6FCkN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/hz4Nm8soNLbqoLosFqLy5yUSVUB.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Nina
+[COLOR red]Elenco Principal:[/COLOR] Patricia López Arnaiz, Darío Grandinetti, Aina Picarolo, Iñigo Aranburu, Mar Sodupe
+[COLOR orange]Duração:[/COLOR] 1h 45min
+[COLOR red]Diretor:[/COLOR] Andrea Jaurrieta
+[COLOR orange]Ano:[/COLOR] 2024
+[COLOR red]Nota:[/COLOR] 6.5
+[COLOR orange]Gênero:[/COLOR] Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] Tinha dezesseis anos quando saiu de sua pequena cidade natal para perseguir o sonho de se tornar uma atriz. Trinta anos depois, ela retorna com o único objetivo de se vingar do homem que arruinou sua vida.
+
+    </info>
+</item>
+
+<item>
+    <title>Tatame [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:5dwu62qzlk25icu6l2nzxgmjslmdilon$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=Ocb_2uH55CQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/A9SUL6wPDGfjX6cCBal0SmUcT47.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/3nB9fYQycK4iWchvfbXhacD42XC.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Tatami
+[COLOR red]Elenco Principal:[/COLOR] Arienne Mandi, زر امیرابراهیمی, Jaime Ray Newman, Nadine Marshall, Lir Katz
+[COLOR orange]Duração:[/COLOR] 1h 45min
+[COLOR red]Diretor:[/COLOR] Guy Nattiv
+[COLOR orange]Ano:[/COLOR] 2024
+[COLOR red]Nota:[/COLOR] 7.7
+[COLOR orange]Gênero:[/COLOR] Thriller, Drama, Mistério
+[COLOR red]Sinopse:[/COLOR] Durante o Mundial de Judô, uma judoca iraniana é ameaçada pelo comitê do próprio país, que deseja que ela abandone a competição para não enfrentar uma atleta israelense. Sua permanência no torneio coloca em risco até sua família.
+
+    </info>
+</item>
+
+<item>
+    <title>Homem-Aranha: Um Novo Dia [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn%3Abtih%3A43ACC09C155376D467A2619105A58420AC083CDA$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ZHMY6nvZAqs$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/zhVdHhUBDSvCaqddaQiHDC5Lu0D.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/cjYEkD4mJ3RdPGzpCoTSCb32sH7.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Spider-Man: Brand New Day
+[COLOR red]Elenco Principal:[/COLOR] Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon
+[COLOR orange]Duração:[/COLOR] 2h 23min
+[COLOR red]Diretor:[/COLOR] Destin Daniel Cretton
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.0
+[COLOR orange]Gênero:[/COLOR] Ficção Científica, Ação, Aventura
+[COLOR red]Sinopse:[/COLOR] É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.
+
+    </info>
+</item>
+
+<item>
+    <title>The Birthday Party [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:1AEAAD8F8406837D177ECC4FEED06AD5879AB55E$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=h4W89ydOd9Y$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/VhBMTmRt7lFKddjCqFTe0jRa1E.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Birthday Party
+[COLOR red]Elenco Principal:[/COLOR] Willem Dafoe, Emma Suárez, Joe Cole, Vic Carmen Sonne, Χρήστος Στέργιογλου
+[COLOR orange]Duração:[/COLOR] 1h 43min
+[COLOR red]Diretor:[/COLOR] Miguel Ángel Jiménez
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.9
+[COLOR orange]Gênero:[/COLOR] Drama
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>O Padre: O Massacre no Dia de Ação de Graças Idioma Original [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:2af083391f4b96d3d92f93dbc77c624ab21b54ea$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=oQIk2QsFE-s$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gH8pWTFrJcVQv5EsLgc9XAUFfFr.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/1ldfkNbf3joNG8mA6idXoEL1fZV.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Priest: Thanksgiving Massacre
+[COLOR red]Elenco Principal:[/COLOR] Jo Krayer, Liz Soutar, Holly Higbee, Brooklyn Ross, Dani Thompson
+[COLOR orange]Duração:[/COLOR] 1h 23min
+[COLOR red]Diretor:[/COLOR] Steve Lawson
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 3.4
+[COLOR orange]Gênero:[/COLOR] Terror
+[COLOR red]Sinopse:[/COLOR] Durante o Dia de Ação de Graças, um padre se vê no centro de uma onda de violência quando um massacre atinge sua comunidade. À medida que o caos se instala, ele precisa confrontar não apenas a brutalidade ao seu redor, mas também seus próprios limites de fé e sobrevivência
+
+    </info>
+</item>
+
+<item>
+    <title>County Line: No Fear [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:5mxnvna424wbwoc2oihyxyyhstsvd5i6$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=fw12FuwoyTQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ckdp577N5M9qSU5hIAz5HDsg0QI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/hH6knustAAK0YKHtspiT1HiInPx.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] County Line: No Fear
+[COLOR red]Elenco Principal:[/COLOR] Tom Wopat, Kelsey Crane, Casper Van Dien, Patricia Richardson, Denim Richards
+[COLOR orange]Duração:[/COLOR] 1h 35min
+[COLOR red]Diretor:[/COLOR] Brent Christy
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] 4.0
+[COLOR orange]Gênero:[/COLOR] Drama, Ação
+[COLOR red]Sinopse:[/COLOR] Antes de se aposentar, o xerife Alden Rockwell une forças com a Jo Porter para enfrentar uma poderosa organização criminosa.
+
+    </info>
+</item>
+
+<item>
+    <title>Noites Brutais [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:dda0ac8a3d3f61e4b5d937d6c0eec0fa543e025e$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=7rO80FNnyGo$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mXsvEjsWLvco0hLfhe5FgwmY3qg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Barbarian
+[COLOR red]Elenco Principal:[/COLOR] Georgina Campbell, Justin Long, Bill Skarsgård, Richard Brake, Matthew Patrick Davis
+[COLOR orange]Duração:[/COLOR] 1h 43min
+[COLOR red]Diretor:[/COLOR] Zach Cregger
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] 6.9
+[COLOR orange]Gênero:[/COLOR] Terror, Mistério, Thriller
+[COLOR red]Sinopse:[/COLOR] Chegando a Detroit para uma entrevista de emprego, uma jovem aluga uma casa. Mas quando chega tarde da noite, ela descobre que a casa já havia sido alugada e ocupada por um homem estranho. Contrariando seu bom senso, ela decide passar a noite, mas logo descobre que há muito mais a temer do que um simples inquilino inesperado.
+
+    </info>
+</item>
+
+<item>
+    <title>Minions & Monstros [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:22bf635412913c208707dfa89e29a933be949933$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=mbc1YOTDRQU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hTowtXrkCY7FJyoj4p91JckrJSE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Minions & Monsters
+[COLOR red]Elenco Principal:[/COLOR] Pierre Coffin, Trey Parker, Christoph Waltz, Allison Janney, Jesse Eisenberg
+[COLOR orange]Duração:[/COLOR] 1h 27min
+[COLOR red]Diretor:[/COLOR] Pierre Coffin
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.4
+[COLOR orange]Gênero:[/COLOR] Aventura, Animação, Comédia, Família, Fantasia
+[COLOR red]Sinopse:[/COLOR] Esta é a frenética, ridícula e totalmente verdadeira história de como os Minions conquistaram Hollywood, se tornaram estrelas de cinema, perderam tudo, libertaram monstros pelo mundo e, depois, se uniram para tentar salvar o planeta do caos que eles mesmos haviam acabado de criar.
+
+    </info>
+</item>
+
+<item>
+    <title>Acampamento Miasma: Adolescência, Sexo e Morte Ing. Original [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:8693d1e9567a483a799c2678b6b6c40369b870f5$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ol6BIre1lPo$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7r37ugEVIODiGk05UjzlD8t9F7d.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Teenage Sex and Death at Camp Miasma
+[COLOR red]Elenco Principal:[/COLOR] Hannah Einbinder, Gillian Anderson, Amanda Fix, Arthur Conti, Eva Victor
+[COLOR orange]Duração:[/COLOR] 1h 46min
+[COLOR red]Diretor:[/COLOR] Jane Schoenbrun
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.3
+[COLOR orange]Gênero:[/COLOR] Comédia, Terror, Romance
+[COLOR red]Sinopse:[/COLOR] Após anos de sequências desleixadas, a franquia Camp Miasma é entregue a uma jovem diretora entusiasmada para ser revitalizada. Mas ao visitar a estrela do filme original, hoje uma atriz reclusa e envolta em mistério, as duas mergulham em um mundo ensanguentado de desejo, medo e delírio.
+
+    </info>
+</item>
+
+<item>
+    <title>A Primeira Ministra - A História De Jacinda Ardern [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:3bc0ea12be56f5aaa7f3261440c31bd1bf839656$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=XQdzUwZHMmw$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1gKknFHT6mUpT5R8axbWAnZwJnB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/edV0PMgSiSqPMghUNPWF0aWoPxO.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Prime Minister
+[COLOR red]Elenco Principal:[/COLOR] Jacinda Ardern
+[COLOR orange]Duração:[/COLOR] 1h 43min
+[COLOR red]Diretor:[/COLOR] Michelle Walshe
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 6.6
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Este documentário acompanha a trajetória de Jacinda Ardern desde a sua posse como primeira-ministra da Nova Zelândia aos 37 anos, tornar-se mãe e enfrentar os desafios da liderança. O documentário traz uma visão do seu mandato enquanto o país enfrentava uma crise e mostra como a liderança inclusiva mudou as expectativas sobre ser um líder.
+
+    </info>
+</item>
+
+<item>
+    <title>Barb Wire: A Justiceira [COLOR orange] Addon Ares Clássico Filme(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:d3bf913371a8351a2e0a7596e5f481014476d7fe$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=8bNMwKRVbWA$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mnSVY1EGu9hWk2IBdeehQSb06jw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/o7bxmFoHfEP5JiBzVYY5QgLiSfU.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Barb Wire
+[COLOR red]Elenco Principal:[/COLOR] Pamela Anderson, Temuera Morrison, Victoria Rowell, Jack Noseworthy, Udo Kier
+[COLOR orange]Duração:[/COLOR] 1h 38min
+[COLOR red]Diretor:[/COLOR] David Hogan
+[COLOR orange]Ano:[/COLOR] 1996
+[COLOR red]Nota:[/COLOR] 4.1
+[COLOR orange]Gênero:[/COLOR] Ficção Científica, Ação, Aventura
+[COLOR red]Sinopse:[/COLOR] Voluptuosa caçadora de recompensas deve ajudar seu ex-namorado a escoltar até o Canadá a atual mulher dele, líder da resistência ao governo facista que domina os EUA em 2017.
+
+    </info>
+</item>
+
+<item>
+    <title>O Amor Move Ondas [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:7aa32b8081308e92b82e53e38a3bff69c05854d4$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=6ZDWBv_GmB4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/Aaf3xZEIB1WFC5RKR54wVRPzc2L.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/9YUOSQevLpvWOiZYcrDyyHcvNqD.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Pod wiatr
+[COLOR red]Elenco Principal:[/COLOR] Sonia Mietielica, Jakub Sasak, Waleria Gorobets, Sebastian Dela, Agnieszka Żulewska
+[COLOR orange]Duração:[/COLOR] 1h 48min
+[COLOR red]Diretor:[/COLOR] Kristoffer Rus
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] 5.4
+[COLOR orange]Gênero:[/COLOR] Drama, Romance
+[COLOR red]Sinopse:[/COLOR] Uma adolescente vive o primeiro amor com um instrutor de kitesurf em um hotel à beira-mar. Prepare-se para altas ondas, amor e paixão.
+
+    </info>
+</item>
+
+<item>
+    <title>Meu Melhor Amigo, sua Namorada e Eu [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:kr5gyqegpm34riaamtsna4reoujtnusz$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=Mv0MRQ-Gnb4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Mein bester Freund, seine Freundin und ich
+[COLOR red]Elenco Principal:[/COLOR] Kostja Ullmann, Janina Uhse, David Kross, Ferdinand Hofer, Clara Immel
+[COLOR orange]Duração:[/COLOR] Não disponível
+[COLOR red]Diretor:[/COLOR] Marco Petry
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.0
+[COLOR orange]Gênero:[/COLOR] Comédia
+[COLOR red]Sinopse:[/COLOR] Olli e Matze, inseparáveis desde a escola, são amigos, colegas de trabalho e até dividem o apartamento. Só que, agora, Rebecca chegou. E ela vai mudar tudo.
+
+    </info>
+</item>
+
+<item>
+    <title>Camp Rock 3 [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:jduzlok65irlmxq577hk5i3vlziitkoy$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=eND5wtAORPA$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/jIU5tUicaKXKKOmziCdstBCiG1z.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Camp Rock 3
+[COLOR red]Elenco Principal:[/COLOR] Liamani Segura, Malachi Barton, Lumi Pollack, Hudson Stone, Casey Trotter
+[COLOR orange]Duração:[/COLOR] 1h 36min
+[COLOR red]Diretor:[/COLOR] Veronica Rodriguez
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.8
+[COLOR orange]Gênero:[/COLOR] Música, Comédia, Drama, Cinema TV
+[COLOR red]Sinopse:[/COLOR] O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.
+
+    </info>
+</item>
+
+<item>
+    <title>Não Deseje Boa Sorte [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:kxkbnzwhxi76hcv55744vi6fpkg5lm4d$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=6KlZUkf6E-o$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/l6cwkNbPIOdjvFwm7XZTI2EZhZu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Don't Say Good Luck
+[COLOR red]Elenco Principal:[/COLOR] Sunny Sandler, Melanie Lynskey, Max Greenfield, Stephanie Beatriz, Bebe Neuwirth
+[COLOR orange]Duração:[/COLOR] 1h 36min
+[COLOR red]Diretor:[/COLOR] Julia Hart
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.4
+[COLOR orange]Gênero:[/COLOR] Comédia, Música, Drama
+[COLOR red]Sinopse:[/COLOR] Sophie Birenbaum está pronta para brilhar no musical da escola. Mas a situação complica quando ela precisa enfrentar mais drama dentro de casa do que em cima do palco.
+
+    </info>
+</item>
+
+<item>
+    <title>Feras no Limite [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ahcunc74u3mjigc3aahybhpkecaqo6bd$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=3Gp246l7H_s$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/s9kLAZDpvjKCkaESrRhpfuuWAQP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] La fiera
+[COLOR red]Elenco Principal:[/COLOR] Carlos Cuevas, Miguel Bernardeau, Miguel Ángel Silvestre, José Manuel Poga, David Marcé
+[COLOR orange]Duração:[/COLOR] 1h 53min
+[COLOR red]Diretor:[/COLOR] Salvador Calvo
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.3
+[COLOR orange]Gênero:[/COLOR] Drama, Aventura
+[COLOR red]Sinopse:[/COLOR] Inspirado em uma história real, este filme acompanha cinco amigos aventureiros que arriscam a vida voando de wingsuit e descobrem novas emoções.
+
+    </info>
+</item>
+
+<item>
+    <title>Presos em um Crime [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:gjukbcf5r2d4l4y5imf4rfmzfgwmllyg$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=zFrf3Gr0h0w$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8cHcvKPWay62YPDXTqmB17C2Cvt.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8NdgPcwBEGK3Lx3X9qcsimNr9D1.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Les digo "almas"
+[COLOR red]Elenco Principal:[/COLOR] Rafael Zea
+[COLOR orange]Duração:[/COLOR] 1h 40min
+[COLOR red]Diretor:[/COLOR] Não disponível
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Thriller
+[COLOR red]Sinopse:[/COLOR] Angela Rojas é uma policial afundada em dívidas e cansada de ser assediada por seu chefe corrupto. Ela se junta ao patrulheiro Daniel Diaz para cometer um arriscado ato de vingança que reabrirá antigas feridas.
+
+    </info>
+</item>
+
+<item>
+    <title>Asa Branca: A Voz da Arena [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ta3ziwmrvvsbkscsfmyh4g7rgwtkxvci$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=3n8h89ETYh0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kaqnuVEqWNziEVcTX55hvU213Ch.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/wZwBl7FQN6nrNFfy168a62ODJKw.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Asa Branca: A Voz da Arena
+[COLOR red]Elenco Principal:[/COLOR] Felipe Simas, Lara Tremouroux, Ravel Andrade, Fábio Lago, Camila Brandão
+[COLOR orange]Duração:[/COLOR] 1h 49min
+[COLOR red]Diretor:[/COLOR] Guga Sander
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Drama
+[COLOR red]Sinopse:[/COLOR] Microfone sem fio, rock’n'roll e fogos de artifício. A extraordinária história do maior locutor de rodeios do Brasil, responsável por transformar uma festa do interior de São Paulo em um espetáculo nacional.
+
+    </info>
+</item>
+
+<item>
+    <title>Tony [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:E75E37A07BC45D837DCF1B8FB6645C44F95FBABF$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=k1MVnzd2aVc$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Tony
+[COLOR red]Elenco Principal:[/COLOR] Dominic Sessa, Antonio Banderas, Emilia Jones, Leo Woodall, Stavros Halkias
+[COLOR orange]Duração:[/COLOR] 1h 46min
+[COLOR red]Diretor:[/COLOR] Matt Johnson
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.6
+[COLOR orange]Gênero:[/COLOR] Drama, Comédia
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>O Fim da Rua [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:A2F2F0EC3F3A9923528A3B79292338CCC44F3F49$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=NtVXvlgaIUQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The End of Oak Street
+[COLOR red]Elenco Principal:[/COLOR] Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis
+[COLOR orange]Duração:[/COLOR] 1h 39min
+[COLOR red]Diretor:[/COLOR] David Robert Mitchell
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.9
+[COLOR orange]Gênero:[/COLOR] Ficção Científica, Mistério, Thriller
+[COLOR red]Sinopse:[/COLOR] Após um misterioso evento cósmico abalar o bairro Oak Street e o transportar dos subúrbios para um lugar desconhecido, a família Platt descobre que sua sobrevivência vai depender da união entre todos para enfrentar um ambiente agora irreconhecível.
+
+    </info>
+</item>
+
+<item>
+    <title>A Estação do Terror [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ksnnxwhvc4mgzkenrjlyvjvz2ruboglk$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=f9FPJpQV3So$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gUgfk88uIvUMCMLQVybKX2N58pj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/3oHIkNt8dM6gH4IDKG5W121OT2T.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] 괴기열차
+[COLOR red]Elenco Principal:[/COLOR] 주현영, 전배수, 최보민, 김지인, 김우겸
+[COLOR orange]Duração:[/COLOR] 1h 35min
+[COLOR red]Diretor:[/COLOR] Tak Se-woong
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 7.4
+[COLOR orange]Gênero:[/COLOR] Terror, Mistério
+[COLOR red]Sinopse:[/COLOR] Da Kyung, um YouTuber com o menor número de visitas, se reúne com o chefe de uma misteriosa estação de metrô para descobrir a origem de uma verdadeira história de terror e se depara com várias histórias estranhas.
+
+    </info>
+</item>
+
+<item>
+    <title>Curse of the Shark [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:skdookkdtdsmy25w6u7zhual7je7j73o$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=XIMLoLxmTDw&t=45s$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Curse of the Shark
+[COLOR red]Elenco Principal:[/COLOR] 
+[COLOR orange]Duração:[/COLOR] 1h 49min
+[COLOR red]Diretor:[/COLOR] Mark Clark
+[COLOR orange]Ano:[/COLOR] 
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] 
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>O Último Grande Assalto [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:tc5hbvnhmmsz4svtq3ao45avbmfnu3k6$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ltrHOtzDu_Q$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/uIXLAdoyuNR8vhoOcei8FQePnzK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Get Out
+[COLOR red]Elenco Principal:[/COLOR] Russell Crowe, Luke Evans, Aaron Paul, Teresa Palmer, Nina Dobrev
+[COLOR orange]Duração:[/COLOR] 1h 51min
+[COLOR red]Diretor:[/COLOR] Derrick Borte
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.3
+[COLOR orange]Gênero:[/COLOR] Ação, Thriller
+[COLOR red]Sinopse:[/COLOR] Manco Kapak, dono de um clube, é assaltado e enfrenta ameaças dos cartéis. Seu sonho de vender o clube e se aposentar com a namorada está em risco. Um estranho finge estar interessado em comprar o clube, o que torna tudo mais complicado.
+
+    </info>
+</item>
+
+<item>
+    <title>O Afinador [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:y73s7sa7nhsgawisppzeijrwjkos57so$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ud5uGSPZGW8$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bq21NGxKqV6DgHfm5j48mscM7Ai.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Tuner
+[COLOR red]Elenco Principal:[/COLOR] Leo Woodall, Havana Rose Liu, ליאור רז, Tovah Feldshuh, Gil Cohen
+[COLOR orange]Duração:[/COLOR] 1h 48min
+[COLOR red]Diretor:[/COLOR] Daniel Roher
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.2
+[COLOR orange]Gênero:[/COLOR] Crime, Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] Niki é um afinador de pianos talentoso treinado por Harry. Sua audição excepcional chama a atenção de criminosos. Essa habilidade rara não só o ajuda a trabalhar com instrumentos de alto padrão, mas também a abrir cofres com precisão. Ao longo do caminho, Niki conhece Ruthie, uma estudante de composição, e os dois criam uma conexão inesperada. Porém, sua vida dupla como arrombador começa a ameaçar o relacionamento, enquanto ele se envolve em situações cada vez mais perigosas.
+
+    </info>
+</item>
+
+<item>
+    <title>O Sol Nasce Para Todos [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:7wxjp7a6obdklccd7k5kuqaezeiiv4hl$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=jnELV-w3Mog$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xvW2FKcbHA1WwgJF9QhuJsknRpM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/kDRhvKxJ1lx7vmvfJ8D18MmItUb.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] 日掛中天
+[COLOR red]Elenco Principal:[/COLOR] 辛芷蕾, 张颂文, 冯绍峰, 薛媛媛, 乔琳凯
+[COLOR orange]Duração:[/COLOR] 2h 12min
+[COLOR red]Diretor:[/COLOR] 蔡尚君
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 5.0
+[COLOR orange]Gênero:[/COLOR] Romance, Drama
+[COLOR red]Sinopse:[/COLOR] Ex-amantes se reencontram após muitos anos e revivem sentimentos marcados por amor, sacrifício e arrependimento. Entre despedidas dolorosas e lembranças do passado, duas pessoas perdidas finalmente se reconhecem e se abraçam.
+
+    </info>
+</item>
+
+<item>
+    <title>Segredo Obscuro [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:jbrnar4bgxkmxzw4lwm6bfwadckg2xcr$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=dkpgM5e7VrE$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lHXXpXzPv22WQCzTYMuwers5jkz.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/yGH7ke2rbeSI4IZx90UzIrMlWLq.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Shell
+[COLOR red]Elenco Principal:[/COLOR] Elisabeth Moss, Kate Hudson, Kaia Gerber, Arian Moayed, Este Haim
+[COLOR orange]Duração:[/COLOR] 1h 40min
+[COLOR red]Diretor:[/COLOR] Max Minghella
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 5.0
+[COLOR orange]Gênero:[/COLOR] Terror, Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] A atriz Samantha Lake é atraída para o universo glamouroso e misterioso de Zoe Shannon, CEO da renomada empresa de saúde e bem-estar Shell. No entanto, quando seus pacientes começam a desaparecer, incluindo a famosa estrela Chloe Benson, Samantha se vê envolvida em uma teia de mistérios e conspirações, levando-a a suspeitar que a Shell está escondendo um segredo perigoso e monstruoso.
+
+    </info>
+</item>
+
+<item>
+    <title>O que Fica por Dizer [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:eviimck3ai35kurao6gkvbpspqcxc4ta$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=cj_Ep5zLA3k$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hgr46OnroBUZLE1nGtJV6awB5Mv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Ganito, Ganyan, Ganoon
+[COLOR red]Elenco Principal:[/COLOR] Jodi Sta. Maria, Agot Isidro, Gardo Versoza, Ruby Ruiz, Gabriel Lazaro
+[COLOR orange]Duração:[/COLOR] 1h 52min
+[COLOR red]Diretor:[/COLOR] Cholo Laurel
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Drama, Família
+[COLOR red]Sinopse:[/COLOR] A vida cuidadosamente reconstruída de uma roteirista de TV desmorona quando a mãe reaparece após 27 anos trazendo um segredo que muda tudo.
+
+    </info>
+</item>
+
+<item>
+    <title>Meu Próprio Filho [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:xteyubwromq4svh6ustcbaumrs7awsbm$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=zQhcAxXo72g$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Un hijo propio
+[COLOR red]Elenco Principal:[/COLOR] Ana Celeste, Armando Espitia, Ángeles Cruz, Mayra Sérbulo, Luisa Guzmán
+[COLOR orange]Duração:[/COLOR] 1h 36min
+[COLOR red]Diretor:[/COLOR] Maite Alberdi
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.
+
+    </info>
+</item>
+
+<item>
+    <title>Contornando a Morte [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:kj6pwilai3rmcxc6cfo4jk65dqftufdc$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=4-6CIe9Jlnc$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1sCawwtBif3Ggt6sr4DXG7SYf8d.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/tf1HhoUfQaRJ2Sdig5OB2NaQPTH.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] ความหวังแช่แข็ง: ขอเกิดอีกครั้ง
+[COLOR red]Elenco Principal:[/COLOR] Nareerat Naovaratpong, Sahatorn Naovaratpong, Matrix Naovaratpong, Max More
+[COLOR orange]Duração:[/COLOR] 1h 15min
+[COLOR red]Diretor:[/COLOR] Pailin Wedel
+[COLOR orange]Ano:[/COLOR] 2018
+[COLOR red]Nota:[/COLOR] 6.3
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] O documentário acompanha a jornada de um cientista tailandês e sua esposa, que decidem congelar a filha falecida aos 2 anos com a esperança de ressuscitá-la no futuro.
+
+    </info>
+</item>
+
+<item>
+    <title>O Destino de Layla [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:6j6rwpzm5qgymarikeu3u52wubbtiook$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ojlC5e7F45Q$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/E36c1FffP7ZcLFKehekQrwmbAF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8zIL0AAu0XnsxRetFxplglLXici.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] La Nuit du verre d’eau
+[COLOR red]Elenco Principal:[/COLOR] مارلين نعمان, Antoine Merheb Tarb, Nathalie Baye, Pierre Rochefort, Talal Jurdi
+[COLOR orange]Duração:[/COLOR] 1h 23min
+[COLOR red]Diretor:[/COLOR] Carlos Chahine
+[COLOR orange]Ano:[/COLOR] 2023
+[COLOR red]Nota:[/COLOR] 4.5
+[COLOR orange]Gênero:[/COLOR] Drama, Romance
+[COLOR red]Sinopse:[/COLOR] Em 1958, Layla passa o verão ao lado de sua família em um vilarejo no Líbano. Mas após conhecer uma mulher francesa e seu filho, ela percebe que vive em uma sociedade patriarcal em que os destinos das mulheres são definidos pelos homens.
+
+    </info>
+</item>
+
+<item>
+    <title>Eneida [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:crz5fahvt3i4a6pcerdl54dzubnbx635$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=mcZspNUR8lA$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qNFIYTfVYv3TVQ2HyWbsYu1X9Ka.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/o8VTpYsOffFt5e8M4J7rVNqBrJF.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Eneida
+[COLOR red]Elenco Principal:[/COLOR] Eneida Passos, Heloísa Passos
+[COLOR orange]Duração:[/COLOR] 1h 20min
+[COLOR red]Diretor:[/COLOR] Heloísa Passos
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Eneida, 83 anos, com ajuda de sua filha do meio, a cineasta Heloisa Passos, busca a filha primogênita, que não vê há mais de duas décadas.
+
+    </info>
+</item>
+
+<item>
+    <title>Nando Entre Dois Mundos: Um Filme Sintonia [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ob3ppzckwqh5oljigixiponl55qvn45v$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ms4BgO48KCY$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nKQKWvHCZEeQEoCQaahJLnXCTAJ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/jQEBI1EQWspRVPCYzhoRi30fadD.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Nando Entre Dois Mundos: Um Filme Sintonia
+[COLOR red]Elenco Principal:[/COLOR] Christian Malheiros, Jottapê, Bruna Mascarenhas, Julia Yamaguchi, Duda Pimenta
+[COLOR orange]Duração:[/COLOR] Não disponível
+[COLOR red]Diretor:[/COLOR] Johnny Araújo
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Crime, Drama
+[COLOR red]Sinopse:[/COLOR] O longa dará continuidade à trajetória de Nando (Christian Malheiros) após o desfecho da quinta e última temporada.
+
+    </info>
+</item>
+
+<item>
+    <title>Gail Daughtry and the Celebrity Sex Pass [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:305334D07C71497C5D8D08952F75C2194E8568FB$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=GEbaLieo_Kw$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Gail Daughtry and the Celebrity Sex Pass
+[COLOR red]Elenco Principal:[/COLOR] Zoey Deutch, John Slattery, Ken Marino, Miles Gutierrez-Riley, Ben Wang
+[COLOR orange]Duração:[/COLOR] 1h 33min
+[COLOR red]Diretor:[/COLOR] David Wain
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.0
+[COLOR orange]Gênero:[/COLOR] Comédia
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Lucky Strike [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:2E5E84BEB7C3FED8C3E1F094D37BF9D0BF785061$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=xCl4hq5nFjc$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Lucky Strike
+[COLOR red]Elenco Principal:[/COLOR] Scott Eastwood, Colin Hanks, Aunjanue Ellis-Taylor, Taylor John Smith, Lorne MacFadyen
+[COLOR orange]Duração:[/COLOR] 1h 42min
+[COLOR red]Diretor:[/COLOR] Rod Lurie
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.5
+[COLOR orange]Gênero:[/COLOR] Ação, Guerra
+[COLOR red]Sinopse:[/COLOR] Um soldado americano ferido luta para sobreviver atrás das linhas inimigas durante a Batalha das Ardenas, na Segunda Guerra Mundial, contra os alemães, confiando em seu instinto, habilidades de espionagem e um rádio portátil para evitar a captura e encontrar o caminho de volta para sua unidade.
+
+    </info>
+</item>
+
+<item>
+    <title>Night Nurse [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:56270242024DEDA2A04EB8CD0D46C3723036EC33$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=TPPvv9TysxY$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/dcJFy0rtVZp4LqPw1aqyxa046VP.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Night Nurse
+[COLOR red]Elenco Principal:[/COLOR] Cemre Paksoy, Bruce McKenzie, Eléonore Hendricks, Colleen Rose Trundy, Mimi Rogers
+[COLOR orange]Duração:[/COLOR] 1h 35min
+[COLOR red]Diretor:[/COLOR] Georgia Bernstein
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.0
+[COLOR orange]Gênero:[/COLOR] Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Nosso Herói, Balthazar [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:981515064787C496A8BF66EF370D799FDBE87ECC$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=m-cfW3ZDCh4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mxVTarvl5OLoU9YWIYygby6R0KI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/wcXcAI1S9N9DG7SvjNTGGCxVlsF.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Our Hero, Balthazar
+[COLOR red]Elenco Principal:[/COLOR] Jaeden Martell, Asa Butterfield, Chris Bauer, Pippa Knowles, Danny McCarthy
+[COLOR orange]Duração:[/COLOR] 1h 36min
+[COLOR red]Diretor:[/COLOR] Oscar Boyson
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.8
+[COLOR orange]Gênero:[/COLOR] Drama, Comédia
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>O Convite [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:82E9C8A91E07089FCF6EC96DEB613E52993EF5FC$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=4A7-5fr8V_w$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Invite
+[COLOR red]Elenco Principal:[/COLOR] Seth Rogen, Olivia Wilde, Penélope Cruz, Edward Norton, Skip Howland
+[COLOR orange]Duração:[/COLOR] 1h 47min
+[COLOR red]Diretor:[/COLOR] Olivia Wilde
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.5
+[COLOR orange]Gênero:[/COLOR] Comédia, Drama, Romance
+[COLOR red]Sinopse:[/COLOR] O casamento de Joe e Angela está por um fio. Quando eles convidam seus enigmáticos vizinhos do andar de cima para um jantar, a noite toma rumos inesperados.
+
+    </info>
+</item>
+
+<item>
+    <title>Twenty One Pilots: More Than We Ever Imagined [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:BD588E9AC26C581BC24C0BFA152F833C63DDD754$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=6VP5q4oM66U$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5JvxjrXPTmwdY8VtFzHzQ23B8ba.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6TKSzOd1izqFbJ0mTQTc8FaA9m7.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Twenty One Pilots: More Than We Ever Imagined
+[COLOR red]Elenco Principal:[/COLOR] Tyler Joseph, Josh Dun, Tyler "Shap" Shapard
+[COLOR orange]Duração:[/COLOR] 1h 59min
+[COLOR red]Diretor:[/COLOR] Mark C. Eshleman
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Música, Documentário
+[COLOR red]Sinopse:[/COLOR] Filme-concerto que registra o show histórico da banda na Cidade do México, uma apresentação que marcou a carreira do duo diante de 65 mil fãs apaixonados, em um estádio lotado, durante a The Clancy World Tour.
+
+    </info>
+</item>
+
+<item>
+    <title>A Vida no Skate com Leo Baker [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:fp4f6tm7gi2j7kwgjoheop3w5m2lgqxb$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=AF63KGFNBtc$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sccGjjBsLBm8qPgoZAYbN2Y05zj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/aL92EVApAh1m346gYdJGoLVHZ3z.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Stay on Board: The Leo Baker Story
+[COLOR red]Elenco Principal:[/COLOR] Leo Baker, Alexis Sablone, Melissa Bueno-Woerner, Alex White, Letícia Bufoni
+[COLOR orange]Duração:[/COLOR] 1h 13min
+[COLOR red]Diretor:[/COLOR] Nicola B. Marsh
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] 6.4
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Leo Baker conta como virou um dos maiores nomes do skate e fala sobre o conflito entre a carreira e a autodescoberta como pessoa trans.
+
+    </info>
+</item>
+
+<item>
+    <title>A Odisseia [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn%3Abtih%3A0D323A3E19362269F3C759400A224BA94B68DE8C$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=NJV9Pw2kXc4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Odyssey
+[COLOR red]Elenco Principal:[/COLOR] Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel
+[COLOR orange]Duração:[/COLOR] 2h 52min
+[COLOR red]Diretor:[/COLOR] Christopher Nolan
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.0
+[COLOR orange]Gênero:[/COLOR] Aventura, Ação, Fantasia
+[COLOR red]Sinopse:[/COLOR] Acompanhe a saga de Odisseu, o lendário rei de Ítaca, em sua longa e perigosa jornada de retorno ao lar após a Guerra de Troia. O relato narra seus confrontos com seres míticos, como o ciclope Polifemo, as sedutoras sereias e a ninfa Calipso, enquanto ele luta contra o destino para se reencontrar com sua fiel esposa, Penélope.
+
+    </info>
+</item>
+
+<item>
+    <title>Homem-Aranha: Um Novo Dia [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn%3Abtih%3AB97D7E8F0601893F4D5DF1893735CE6D76760658$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=bwt2-nyEP0A$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/uJiBfQG0ZNMO6c5RHIHaUFNdDGk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/cjYEkD4mJ3RdPGzpCoTSCb32sH7.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Spider-Man: Brand New Day
+[COLOR red]Elenco Principal:[/COLOR] Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon
+[COLOR orange]Duração:[/COLOR] 2h 23min
+[COLOR red]Diretor:[/COLOR] Destin Daniel Cretton
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.9
+[COLOR orange]Gênero:[/COLOR] Ficção Científica, Ação, Aventura
+[COLOR red]Sinopse:[/COLOR] É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.
+
+    </info>
+</item>
+
+<item>
+    <title>George Washington [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:qrxg73a6o5hhvyp5ygqpp367ucwdgnje$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=O35R_CbXUrY$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xgi2dObKLcSeUeFIT2Gw3U6Ed9d.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/mj3RFamNUleZB94zMWgGnJkQCAH.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Young Washington
+[COLOR red]Elenco Principal:[/COLOR] William Franklyn-Miller, Ben Kingsley, Mary-Louise Parker, Leo Hanna, Mia Rodgers
+[COLOR orange]Duração:[/COLOR] 2h 5min
+[COLOR red]Diretor:[/COLOR] Jon Erwin
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.2
+[COLOR orange]Gênero:[/COLOR] História, Guerra, Drama
+[COLOR red]Sinopse:[/COLOR] Antes de se tornar o Pai da Nação, ele era um soldado lutando para sobreviver. Um único passo em falso lança o jovem George Washington no centro de um conflito global, testando sua honra, lealdade e coragem. À medida que as alianças se desfazem e a fronteira entra em guerra, ele precisa confrontar não apenas seus inimigos, mas também o homem em que está se tornando. Esta é a história não contada do jovem Washington.
+
+    </info>
+</item>
+
+<item>
+    <title>Minions & Monstros [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:45ACAF71D468B32C94D59B716AC1BE676614E11F$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=yWeAPprMkH0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hTowtXrkCY7FJyoj4p91JckrJSE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Minions & Monsters
+[COLOR red]Elenco Principal:[/COLOR] Pierre Coffin, Trey Parker, Christoph Waltz, Allison Janney, Jesse Eisenberg
+[COLOR orange]Duração:[/COLOR] 1h 27min
+[COLOR red]Diretor:[/COLOR] Pierre Coffin
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.7
+[COLOR orange]Gênero:[/COLOR] Aventura, Animação, Comédia, Família, Fantasia
+[COLOR red]Sinopse:[/COLOR] Esta é a frenética, ridícula e totalmente verdadeira história de como os Minions conquistaram Hollywood, se tornaram estrelas de cinema, perderam tudo, libertaram monstros pelo mundo e, depois, se uniram para tentar salvar o planeta do caos que eles mesmos haviam acabado de criar.
+
+    </info>
+</item>
+
+<item>
+    <title>Trago Seu Amor [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:f52s2ti2u3hshi5rc3uhjylqvbbs3mgh$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=JHGqdJizi5Y$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/r9GLwJEFcGAmMpdUPwALK2K7zTs.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/lcd295V87iwgp68ThQblGtD7Ii1.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Trago Seu Amor
+[COLOR red]Elenco Principal:[/COLOR] Giovanna Grigio, Jê Soares, Diego Martins, João Manoel, Cauã Reymond
+[COLOR orange]Duração:[/COLOR] 1h 19min
+[COLOR red]Diretor:[/COLOR] Claudia Castro
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 10.0
+[COLOR orange]Gênero:[/COLOR] Comédia, Romance, Fantasia
+[COLOR red]Sinopse:[/COLOR] Mia é uma bruxa egocêntrica que tem um poder inusitado: quem a beija se apaixona por ela ou volta a se apaixonar pela última pessoa que amou. Em um de seus trabalhos, porém, ela acaba caindo de amores pela mulher que deveria enfeitiçar.
+
+    </info>
+</item>
+
+<item>
+    <title>Played In My Face [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:B9FD0FE9945EAB5ED70918AFBA666C88D321415C$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=WBo4IlUd89I$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9kOd5Em8wjKpuQGfoiBeKtiIb9R.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/9kOd5Em8wjKpuQGfoiBeKtiIb9R.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Played In My Face
+[COLOR red]Elenco Principal:[/COLOR] Larissa Dali, Jamal Dennis, Kathryn Elise Drexler, Antrone Harris
+[COLOR orange]Duração:[/COLOR] 1h 12min
+[COLOR red]Diretor:[/COLOR] Shannon Washington
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Thriller, Romance, Comédia
+[COLOR red]Sinopse:[/COLOR]  A vida de uma mulher começa a se desfazer quando ela recebe um e-mail expondo seu noivo com outra mulher.
+
+    </info>
+</item>
+
+<item>
+    <title>Sampung Utos Kay Josh [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:E4906948012A9B117EE21D1028C44454C94FC94E$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=aN3mg1h9iZc$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/oYTGM9VGCVkF44QViitVpIOw3wG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/vVr6UI8FXTfVkIk3Px93fVOWPZB.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Sampung Utos Kay Josh
+[COLOR red]Elenco Principal:[/COLOR] Jerald Napoles, Pepe Herrera, Albie Casiño, James Caraan, GB Labrador
+[COLOR orange]Duração:[/COLOR] 1h 44min
+[COLOR red]Diretor:[/COLOR] Marius Talampas
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 9.0
+[COLOR orange]Gênero:[/COLOR] Comédia
+[COLOR red]Sinopse:[/COLOR] A vida de um executivo de crédito devoto desmorona apesar de sua devoção fiel. Sentindo-se traído, Josh quebra sistematicamente cada um dos Dez Mandamentos em desafio.
+
+    </info>
+</item>
+
+<item>
+    <title>Plus forts que le diable [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:4B7CB0F3446C7838F43BA9958C7FD438B6414BB7$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ML-r0qpMFwQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jauPb3CWMwqX8pMtLoUeT5XVFDA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/tEGDOxn1X0c778koOLqyMfN13Y8.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Plus forts que le diable
+[COLOR red]Elenco Principal:[/COLOR] Melvil Poupaud, Marine Vacth, Asia Argento, Nahuel Pérez Biscayart, Harpo Guit
+[COLOR orange]Duração:[/COLOR] 1h 24min
+[COLOR red]Diretor:[/COLOR] Graham Guit
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 4.9
+[COLOR orange]Gênero:[/COLOR] Comédia, Crime, Thriller
+[COLOR red]Sinopse:[/COLOR] Três mineiros no final de 1800 entram em uma pequena cidade com um estranho conjunto de regras.
+
+    </info>
+</item>
+
+<item>
+    <title>The Cure [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:60EF8D5C5403A8FF0DC7AF56D0BA110E9F8D0063$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=YZtM2t98L2s$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/enxF32km4P9gXYhAUXWgoVfQqg5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/bwr6dnB8woyiQO1PfP1a9264fKI.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Cure
+[COLOR red]Elenco Principal:[/COLOR] David Dastmalchian, Ashley Greene, Samantha Cochran, Sydney Taylor, Tyler Lawrence Gray
+[COLOR orange]Duração:[/COLOR] 1h 31min
+[COLOR red]Diretor:[/COLOR] Nancy Leopardi
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.2
+[COLOR orange]Gênero:[/COLOR] Terror, Thriller
+[COLOR red]Sinopse:[/COLOR]  Uma jovem adotada de 16 anos com uma doença misteriosa descobre que os seus pais bilionários da área da biotecnologia estão a recolher o seu sangue para fins nefastos.
+
+    </info>
+</item>
+
+<item>
+    <title>The Dead Guy [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:20F67874E45CD354B8D9731A090F5EC01F883419$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=giokufcVDu0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jcWX3gYiI0PjRJCMWKXWaFnWOpS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8bbl3O8XI90vsuE9rCu8EVL8mZ2.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Dead Guy
+[COLOR red]Elenco Principal:[/COLOR] King Jeff, Gorio, Jimmy D’Aquin, Dusty Brown, David E. Chapman Jr.
+[COLOR orange]Duração:[/COLOR] 1h 20min
+[COLOR red]Diretor:[/COLOR] King Jeff
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Thriller
+[COLOR red]Sinopse:[/COLOR] A comunicadora mediúnica da Louisiana e agente do FBI, Justice Brown, está sobrecarregada com a tarefa de resolver os casos de três aparições vocais femininas diferentes, que alegam ter sido mortas e enterradas em Bar Harbor, Maine, por um guarda florestal local chamado Auggie Doggett. E agora o agente Brown deve levar o assassino à justiça
+
+    </info>
+</item>
+
+<item>
+    <title>The Fostered [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:971FF237149AD1751357C42D2677B6C17C7B980F$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=DeTy2Z4Buf8$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hK6UonFeE3os55D9t3G69tzLigX.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/agh5la4WWec3TrmAu67IM2c6ixW.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Fostered
+[COLOR red]Elenco Principal:[/COLOR] Robert Palmer Watkins, Brittany Underwood, Robert Adamson, Casey Webb, Gunnar Garrett
+[COLOR orange]Duração:[/COLOR] 1h 17min
+[COLOR red]Diretor:[/COLOR] Gunnar Garrett
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 4.1
+[COLOR orange]Gênero:[/COLOR] Thriller
+[COLOR red]Sinopse:[/COLOR] Gêmeas de treze anos são acolhidos por um casal disfuncional e descobrem que as pessoas nem sempre são o que parecem.
+
+    </info>
+</item>
+
+<item>
+    <title>The Infinite Husk [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:D249085432B2C5224B8AD11F0D64CC85F61DF34D$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=2C31uPjTj8A$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gBkV2VIotkZ4JR6ljVcDRAPajmP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/72pMgMEHeh4tMhT0b8CQTU9rQUK.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Infinite Husk
+[COLOR red]Elenco Principal:[/COLOR] Peace Ikediuba, Foreste Jean Feely, Circus-Szalewski, Michael Jon Murphy, Geena Alexandra
+[COLOR orange]Duração:[/COLOR] 1h 47min
+[COLOR red]Diretor:[/COLOR] Aaron Silverstein
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.3
+[COLOR orange]Gênero:[/COLOR] Drama, Ficção Científica
+[COLOR red]Sinopse:[/COLOR] Uma consciência alienígena, enviada à Terra para espiar um da sua espécie, aprende o que significa ser humano.
+
+    </info>
+</item>
+
+<item>
+    <title>Wardriver [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:7B19C78D9F0040F6B01DD85497A8D399708181EC$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=J-BX9bQR9i0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/fcNno43tiFnaycu1mO9TqfbPL45.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Wardriver
+[COLOR red]Elenco Principal:[/COLOR] Dane DeHaan, Sasha Calle, Mamoudou Athie, Jeffrey Donovan, William Belleau
+[COLOR orange]Duração:[/COLOR] 1h 33min
+[COLOR red]Diretor:[/COLOR] Rebecca Thomas
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.3
+[COLOR orange]Gênero:[/COLOR] Thriller, Crime
+[COLOR red]Sinopse:[/COLOR] A história de um ladrão brilhante e experiente em tecnologia que é forçado a invadir a conta bancária de uma jovem aparentemente rica e realizar o roubo de quase um milhão de dólares.
+
+    </info>
+</item>
+
+<item>
+    <title>Winterset [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:3E0374A33BA466D75E6C903A3DFD16A925F55626$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=7ol_ZhUG7pM$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/7FJg0lEtMlpEXkjymbVVvvWjwEk.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/rzUPjntS7yGEMDaQ3CRTPdsqZf0.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Winterset
+[COLOR red]Elenco Principal:[/COLOR] Kirk Fox, Gigi Gustin, Jonah Ray Rodrigues, Robert Craighead, Matt Peters
+[COLOR orange]Duração:[/COLOR] Não disponível
+[COLOR red]Diretor:[/COLOR] Michael P. Blevins
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 8.0
+[COLOR orange]Gênero:[/COLOR] Ação, Crime, Drama
+[COLOR red]Sinopse:[/COLOR]  Na cidade de Winterset, Iowa, três fazendeiros pobres recrutam um rapaz da cidade grande para ajudá-los a realizar um assalto: roubar sacos de dinheiro de um rico fazendeiro. O assalto dá errado e um homem malvado, a quem os sacos pertencem, aparece para recuperá-los.
+
+    </info>
+</item>
+
+<item>
+    <title>Jackass: O Último é o Melhor [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:4l2gm6wvrqtkh6s7la54edddsjoehzlg$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=KO7GSSrPS3E$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pU9949BZVMUmZtiEiJyN76bFaLA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Jackass: Best and Last
+[COLOR red]Elenco Principal:[/COLOR] Johnny Knoxville, Steve-O, Chris Pontius, Jason 'Wee Man' Acuña, Dave England
+[COLOR orange]Duração:[/COLOR] 1h 32min
+[COLOR red]Diretor:[/COLOR] Jeff Tremaine
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.8
+[COLOR orange]Gênero:[/COLOR] Ação, Comédia, Documentário
+[COLOR red]Sinopse:[/COLOR] johnny knoxville e toda turma estão de volta para uma última jornada, trazendo novas acrobacias, bobagens inéditas e os momentos mais icônicos de uma geração de caos. celebre com seus amigos mais bobos e gargalhem mais do que nunca… pela última vez.
+
+    </info>
+</item>
+
+<item>
+    <title>O Sorveteiro Id. Ori. [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:5D3099130598CB51CDBB3040BC9F4774E54C4EB5$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=2E-jof0KEe4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qqgjzKXWibrBf7MgqwZ78pDe8HU.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/75pK9Dj1CheZFItgld9TVvb2P4x.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Ice Cream Man
+[COLOR red]Elenco Principal:[/COLOR] Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott
+[COLOR orange]Duração:[/COLOR] 1h 26min
+[COLOR red]Diretor:[/COLOR] Eli Roth
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.3
+[COLOR orange]Gênero:[/COLOR] Terror
+[COLOR red]Sinopse:[/COLOR] Um sorveteiro misterioso distribui um doce amaldiçoado que transforma crianças em assassinas, sedentas por sangue e sem piedade com os adultos. Enquanto o massacre toma conta das ruas, três jovens que escaparam por pouco da maldição correm contra o tempo para descobrir a origem desse homem e impedir que a matança se espalhe, antes que não sobre ninguém vivo.
+
+    </info>
+</item>
+
+<item>
+    <title>O Surfista [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:5i6yrcfkptmrwxtudxa5qq74ujc6lnjv$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=SbXzyOJTP7U$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/77epSqgXZFx2FEz0BBvvWwO4puv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/iuW4CPRcaTZzTRDr8iLg2KYdKCM.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Surfer
+[COLOR red]Elenco Principal:[/COLOR] Nicolas Cage, Julian McMahon, Justin Rosniak, Alexander Bertrand, Rahel Romahn
+[COLOR orange]Duração:[/COLOR] 1h 40min
+[COLOR red]Diretor:[/COLOR] Lorcan Finnegan
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 5.8
+[COLOR orange]Gênero:[/COLOR] Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] Um homem retorna à praia onde passava a infância para surfar com o filho. Porém, depois de ser humilhado por um grupo de influentes moradores locais, ele se vê arrastado para dentro de um conflito que aumenta com o calor torturante do verão, fazendo-o chegar até o limite.
+
+    </info>
+</item>
+
+<item>
+    <title>O Aspirante [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:p373zqadku3zgnlao4aaykdckvhik5pw$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=hnk3_3XOkb8$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4KCWdkH58qfb748jGrVEygW9zMu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/aSJ99TjDysvGPZVdqaaehLl4c0t.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] El aspirante
+[COLOR red]Elenco Principal:[/COLOR] Lucas Nabor, Jorge Motos, Eduardo Rosa, Catalina Sopelana, Pedro Rubio
+[COLOR orange]Duração:[/COLOR] 1h 34min
+[COLOR red]Diretor:[/COLOR] Juan Gautier
+[COLOR orange]Ano:[/COLOR] 2024
+[COLOR red]Nota:[/COLOR] 4.6
+[COLOR orange]Gênero:[/COLOR] Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] Carlos e Dani entram em uma residência universitária e aceitam o desafio do trote para se adaptarem e fazerem amigos. O que começa como um jogo divertido logo se transforma em uma espiral perversa, na qual eles terão que enfrentar o pior de si mesmos.
+
+    </info>
+</item>
+
+<item>
+    <title>LifeHack [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:D4440FB3EAAC24C06F28F1E530A0AB7A52B33760$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=TZjXT22pFXU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/dGLU7gXIq9Yoh8J1ezmTqlVGjUV.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] LifeHack
+[COLOR red]Elenco Principal:[/COLOR] Georgie Farmer, Yasmin Finney, Roman Hayeck-Green, James Scholz, Jessica Reynolds
+[COLOR orange]Duração:[/COLOR] 1h 37min
+[COLOR red]Diretor:[/COLOR] Ronan Corrigan
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.0
+[COLOR orange]Gênero:[/COLOR] Thriller, Crime
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>A Caixa do Demônio [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:4E99F23F2E4042FB7118C57F455B81D0E0D82ED2$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=-_-4fiQ3gwM$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Lockbox
+[COLOR red]Elenco Principal:[/COLOR] Carla Gugino, Lou Taylor Pucci, Katharine Isabelle, Roman Kinsella, Donald Sales
+[COLOR orange]Duração:[/COLOR] 1h 45min
+[COLOR red]Diretor:[/COLOR] Daniel Stamm
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.9
+[COLOR orange]Gênero:[/COLOR] Terror
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Rose of Nevada [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:EC9BEFD114F234381F41131510032DB74A596563$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=bw371ui9cTk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/baFW06cijsli2OFewKgEIFpuFc2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/eqbTtL7Ow6kqKYcCKkkH9CbSx6z.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Rose of Nevada
+[COLOR red]Elenco Principal:[/COLOR] George MacKay, Callum Turner, Francis Magee, Edward Rowe, Rosalind Eleazar
+[COLOR orange]Duração:[/COLOR] 1h 54min
+[COLOR red]Diretor:[/COLOR] Mark Jenkin
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.3
+[COLOR orange]Gênero:[/COLOR] Mistério, Drama
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>The Isolate Thief [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:E0ED5189865DEFCE538B2F1BDEC2DEF7F881201E$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=zGk2BqD0BCk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Isolate Thief
+[COLOR red]Elenco Principal:[/COLOR] Mackenzie Foy, Odeya Rush, Sean Bean, Joe Pantoliano, Jack Kesy
+[COLOR orange]Duração:[/COLOR] 1h 35min
+[COLOR red]Diretor:[/COLOR] John Suits
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.0
+[COLOR orange]Gênero:[/COLOR] Faroeste, Ação, Drama
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Newborn [COLOR orange]Ares Filmes (2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:15CF8B99190EAE5CC87CEA7C4F4E245766205915$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=R2hw9NGc2RI$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/skyvaf7uhxMrQNIy3NZSN77SswS.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Newborn
+[COLOR red]Elenco Principal:[/COLOR] David Oyelowo, Olivia Washington, Barry Pepper, Jimmie Fails, Aiden Stoxx
+[COLOR orange]Duração:[/COLOR] 1h 42min
+[COLOR red]Diretor:[/COLOR] Nate Parker
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.4
+[COLOR orange]Gênero:[/COLOR] Drama, Thriller, Crime
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>As Melhores Famílias [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:rkxzjopzxmixu5di3ztjdiztwsym3444$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=pGPH2To9tGQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xA6vKa8AziN8Y8CiE9S2CgTNnGw.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6XvJR3hygBtNl8naVj6NUs86D82.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Las mejores familias
+[COLOR red]Elenco Principal:[/COLOR] Tatiana Astengo, Gabriela Velásquez, Gracia Olayo, Grapa Paola, Jely Reategui
+[COLOR orange]Duração:[/COLOR] 1h 45min
+[COLOR red]Diretor:[/COLOR] Javier Fuentes-León
+[COLOR orange]Ano:[/COLOR] 2020
+[COLOR red]Nota:[/COLOR] 5.5
+[COLOR orange]Gênero:[/COLOR] Drama, Comédia
+[COLOR red]Sinopse:[/COLOR] Luzmila e Peta são duas irmãs que trabalham como empregadas domésticas para Alicia e Carmen, duas senhoras aristocráticas do Peru. Elas são quase consideradas parte da família, até que um dia, uma festa de aniversário reúne todos os membros de ambas as famílias e um segredo de longa data envolvendo ambas as famílias é revelado, explodindo para sempre a bolha de seu mundo aristocrático perfeito.
+
+    </info>
+</item>
+
+<item>
+    <title>Governor Idioma Original Ind. [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:A549C97E12DA725C70914087CD94B02E2FF26A58$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=b5g3_AQ3Dsg$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/g0GjFVz4u5wDU8d6r7HySuduCZE.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/lvqxVKCUbhH83skNczVK9xWb5t4.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Governor
+[COLOR red]Elenco Principal:[/COLOR] मनोज बाजपेयी, Adah Sharma, Noushad Mohamed Kunju, Madhoo, John Forbes
+[COLOR orange]Duração:[/COLOR] 2h 2min
+[COLOR red]Diretor:[/COLOR] Chinmay Mandlekar
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.0
+[COLOR orange]Gênero:[/COLOR] Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>A Heroína da Fita [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ee7xzpfrxrx44gcmb3ecnxhpvabtmc7y$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ZHx2QFCp-dw$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sLjm1n06TuQnwT0XJp9YcvIMq44.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] THE RIBBON HERO リボンヒーロー
+[COLOR red]Elenco Principal:[/COLOR] Saaya, 小林星蘭, Koki Uchiyama, 新谷真弓, 壤晴彦
+[COLOR orange]Duração:[/COLOR] 1h 49min
+[COLOR red]Diretor:[/COLOR] 五十嵐祐貴
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Animação, Fantasia, Drama, Ação
+[COLOR red]Sinopse:[/COLOR] Depois da destruição causada pelo monstruoso Nergal, Safira desperta seus poderes como a Princesa Cavaleira e decide lutar para salvar seu novo lar.
+
+    </info>
+</item>
+
+<item>
+    <title>Jovens Águias [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:a4e9f33f1c0b1f1428fd4d6a5112c0c5c82bbbe1$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=K60XfxoVw0s$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xdjeV2Y92Hn9OWEuigk3t4yHBWv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/cjdlKxMQ7VdWqGZtyOaDhDkaCEx.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Orlęta. Grodno '39
+[COLOR red]Elenco Principal:[/COLOR] Feliks Matecki, Jowita Budnik, Leszek Lichota, Bartłomiej Topa, Filip Gurłacz
+[COLOR orange]Duração:[/COLOR] 1h 44min
+[COLOR red]Diretor:[/COLOR] Krzysztof Łukaszewicz
+[COLOR orange]Ano:[/COLOR] 2022
+[COLOR red]Nota:[/COLOR] 6.1
+[COLOR orange]Gênero:[/COLOR] Guerra, História, Drama
+[COLOR red]Sinopse:[/COLOR] Em 1939, na cidade de Grodno, pequenas tropas polonesas recebem a ajuda de crianças e adolescentes para tentar defender a cidade da invasão da União Soviética.
+
+    </info>
+</item>
+
+<item>
+    <title>Bom Garoto [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:6f89c9dc2db8410d719b9eb14773467c72241268$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=hRmGloJLvnM$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hXVVZbIRikyXGhnAcIjXWvYZIOI.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/zeCuk7kwfhzRZMN2KoYTYODgpU3.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Good Boy
+[COLOR red]Elenco Principal:[/COLOR] Stephen Graham, Andrea Riseborough, Anson Boon, Kit Rakusen, Monika Frajczyk
+[COLOR orange]Duração:[/COLOR] 1h 50min
+[COLOR red]Diretor:[/COLOR] Jan Komasa
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.2
+[COLOR orange]Gênero:[/COLOR] Thriller, Drama, Mistério
+[COLOR red]Sinopse:[/COLOR] Um criminoso de 19 anos, Tommy, é sequestrado e forçado a se reabilitar por um casal disfuncional, Chris e Kathryn, que tentam transformá-lo em um "bom garoto". Tommy deve encontrar uma maneira de escapar.
+
+    </info>
+</item>
+
+<item>
+    <title>A Última Casa [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:449b0784805347549510eea7095b0aef5834c38f$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ODlqn0buN2g$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hSkzGimU25ncdKuMW1s1h4QsCbF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Last House
+[COLOR red]Elenco Principal:[/COLOR] Greta Lee, Wagner Moura, Riley Chung, Noah Alexander Sosnowski, Emma Ho
+[COLOR orange]Duração:[/COLOR] 1h 50min
+[COLOR red]Diretor:[/COLOR] Louis Leterrier
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.3
+[COLOR orange]Gênero:[/COLOR] Terror, Ficção Científica, Thriller
+[COLOR red]Sinopse:[/COLOR] Uma família trancada misteriosamente na própria casa precisa se unir para sobreviver à escassez de recursos e à força sombria que a mantém presa.
+
+    </info>
+</item>
+
+<item>
+    <title>Apreensão [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ab340b98ca2c08c534becfeb972560b08cdcce04$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=ISb5-IpeSBE$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/nrULF6tc5ky5K5aLlNkxph8DVcB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/cRhOM5UDUpBV7EdpdXxkstpli86.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Tow
+[COLOR red]Elenco Principal:[/COLOR] Rose Byrne, Dominic Sessa, Demi Lovato, Simon Rex, Elsie Fisher
+[COLOR orange]Duração:[/COLOR] 1h 45min
+[COLOR red]Diretor:[/COLOR] Stephanie Laing
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.6
+[COLOR orange]Gênero:[/COLOR] Drama
+[COLOR red]Sinopse:[/COLOR] Depois que seu carro é rebocado e ela fica com um chocante reboque de $21.634, uma mulher sem teto trava uma luta incansável para recuperar seu carro — e sua vida — expondo um sistema quebrado e redefinindo o que significa perseverar contra todas as probabilidades.
+
+    </info>
+</item>
+
+<item>
+    <title>Hungria: A Escolha de um Sonho [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:15d458a7a690a7cdfc567fcf78727a7bbe194e8b$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=c7c5h1KdJEw$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Hungria: A Escolha de um Sonho
+[COLOR red]Elenco Principal:[/COLOR] Gabriel Santana, André Ramiro, Ramon Brant, Taty Godoi, Marcelo Pelucio
+[COLOR orange]Duração:[/COLOR] 1h 43min
+[COLOR red]Diretor:[/COLOR] Izaque Cavalcante
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.0
+[COLOR orange]Gênero:[/COLOR] História
+[COLOR red]Sinopse:[/COLOR] Gustavo da Hungria cresceu com um sonho enquanto tudo ao redor conspirava contra ele. Enquanto o rap da época seguia um estilo próprio, Gustavo decide inovar, falando de carros, conquistas e ostentação. Essa escolha tem um preço: rejeição dentro do próprio movimento, pressão familiar e dificuldades que nunca parecem ter fim.
+
+    </info>
+</item>
+
+<item>
+    <title>Vida Privada [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:9149b2467698aa97c9c89c66e7e60108c18afd86$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=lLQHeyBjA58$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hMObSFdPA5Y9gDysis7X2JVxIA5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/3fZ5HvkrjaS34sZERshWm9koXdF.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Vie privée
+[COLOR red]Elenco Principal:[/COLOR] Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric, Vincent Lacoste
+[COLOR orange]Duração:[/COLOR] 1h 48min
+[COLOR red]Diretor:[/COLOR] Rebecca Zlotowski
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 5.5
+[COLOR orange]Gênero:[/COLOR] Mistério, Crime, Drama
+[COLOR red]Sinopse:[/COLOR] A Dra. Lilian Steiner, uma psicanalista americana em Paris, fica devastada ao saber que sua paciente Paula tirou a própria vida. Ou será que não? As visitas do viúvo furioso de Paula, Simon, e de sua filha taciturna, Valérie, juntamente com a descoberta de que arquivos foram roubados do consultório de Lilian, sugerem que Paula pode ter sido vítima de um crime. Com a ajuda do ex-marido, Gabriel, Lilian inicia uma investigação amadora. Suas primeiras perguntas geram mais dúvidas do que respostas, até que uma sessão com um hipnoterapeuta a faz questionar se seu relacionamento com Paula não teria começado em uma vida passada.
+
+    </info>
+</item>
+
+<item>
+    <title>Operação Sombra [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:09a79aef5bbf0c21ff1a80f7d727f0b1580107c7$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=V2CKdq2PCfo$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sKIrEUGazQ8w7AtqvohL8HzWGMb.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] 捕风追影
+[COLOR red]Elenco Principal:[/COLOR] Jackie Chan, 张子枫, 梁家輝, 此沙, 文俊辉
+[COLOR orange]Duração:[/COLOR] 2h 21min
+[COLOR red]Diretor:[/COLOR] 杨子
+[COLOR orange]Ano:[/COLOR] 2025
+[COLOR red]Nota:[/COLOR] 7.9
+[COLOR orange]Gênero:[/COLOR] Ação, Crime, Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] Um policial aposentado, especialista em rastreamento, é convocado de volta à ativa em Macau para desmantelar uma gangue de ladrões de alta tecnologia, colocando suas táticas tradicionais contra a tecnologia avançada, num jogo de gato e rato com uma equipe de jovens detetives de elite.
+
+    </info>
+</item>
+
+<item>
+    <title>Marvel Rising: Brincando com Fogo [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:itgje42m45xvr3kl3uaazttnymoi3hsx$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=tTWHgNVc1WA$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/elvpiCt83efuaSO3Uq8ASQzFOFu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/h6CDPPYv5ir8mEG6kRtgwnjCmlk.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Marvel Rising: Playing with Fire
+[COLOR red]Elenco Principal:[/COLOR] Tyler Posey, Navia Robinson, Cierra Ramirez, Kathreen Khavari, Milana Vayntrub
+[COLOR orange]Duração:[/COLOR] 0h 44min
+[COLOR red]Diretor:[/COLOR] Sol Choi
+[COLOR orange]Ano:[/COLOR] 2019
+[COLOR red]Nota:[/COLOR] 6.2
+[COLOR orange]Gênero:[/COLOR] Animação, Ação, Aventura, Família
+[COLOR red]Sinopse:[/COLOR] Os poderes de Inferno são roubados por um jovem e poderoso vilão e cabe aos guerreiros secretos derrotar seu novo inimigo e ajudar seu amigo. Mas o Inferno quer seus poderes de volta? Enquanto isso, America Chavez, aprende uma lição sobre amizade e família com a companheira de equipe Marvel.
+
+    </info>
+</item>
+
+<item>
+    <title>Marvel Rising: Batalha de Bandas [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:pt37drnjwkjzaeshenr35jzkgjh7yeah$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=2MjBizqu9dU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cFm87xFZU3fs1V1oGK7suhx2ISN.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ldKHOauVsqudHNbFpOczmrWA146.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Marvel Rising: Battle of the Bands
+[COLOR red]Elenco Principal:[/COLOR] Dove Cameron, Tyler Posey, Cierra Ramirez, Milana Vayntrub, Kathreen Khavari
+[COLOR orange]Duração:[/COLOR] 0h 22min
+[COLOR red]Diretor:[/COLOR] Chris Rutkowski
+[COLOR orange]Ano:[/COLOR] 2019
+[COLOR red]Nota:[/COLOR] 6.1
+[COLOR orange]Gênero:[/COLOR] Família, Animação, Ação, Comédia, Ficção Científica
+[COLOR red]Sinopse:[/COLOR] No dia da competição 'Batalha de Bandas', forças misteriosas atacam. Gwen e o resto dos Guerreiros Secretos são forçados a investigar o que está acontecendo. Será que eles conseguem salvar a cidade e chegar a tempo da apresentação da Gwen?
+
+    </info>
+</item>
+
+<item>
+    <title>Missão Majnu [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:fdec0e3e404630cb11bb81a24ee1ffbeaedac14e$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=Gw77Nx4eBMc$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/gNdWr0cLitHBjwsvj9w6r3D9HLm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/9XSux1N1t5jqIR96U4EZlo7QZZS.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] मिशन मजनू
+[COLOR red]Elenco Principal:[/COLOR] सिद्धार्थ मल्होत्रा, రష్మిక మందన్న, Sharib Hashmi, Kumud Mishra, Parmeet Sethi
+[COLOR orange]Duração:[/COLOR] 2h 9min
+[COLOR red]Diretor:[/COLOR] Shantanu Bagchi
+[COLOR orange]Ano:[/COLOR] 2023
+[COLOR red]Nota:[/COLOR] 6.8
+[COLOR orange]Gênero:[/COLOR] Thriller, Ação, Drama, História
+[COLOR red]Sinopse:[/COLOR] Na década de 1970, um espião indiano assume a perigosa missão de desmascarar um programa secreto de armas nucleares no coração do Paquistão.
+
+    </info>
+</item>
+
+<item>
+    <title>A Morte do Demônio: Em Chamas [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:93DFED4B74E23CA50C821B28ACDA85EB0BC1F26D$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=dHM-Zk1ZI8Y$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/fteLdvfRnltfLjAEnsl5E3vImnW.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Evil Dead Burn
+[COLOR red]Elenco Principal:[/COLOR] Souheila Yacoub, Tandi Wright, Hunter Doohan, Luciane Buchanan, Erroll Shand
+[COLOR orange]Duração:[/COLOR] 1h 57min
+[COLOR red]Diretor:[/COLOR] Sébastien Vaniček
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.9
+[COLOR orange]Gênero:[/COLOR] Terror, Thriller
+[COLOR red]Sinopse:[/COLOR] Após a perda do marido, uma mulher busca consolo com seus sogros em sua casa isolada. À medida que, um a um, eles são transformados em Deadites — transformando o encontro em uma reunião familiar infernal —, ela descobre que os votos que fez em vida... continuam vivos mesmo após a morte.
+
+    </info>
+</item>
+
+<item>
+    <title>A Caixa do Demônio [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:016C3D742AFB8669A2C636007A6FA9D417B897E7$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=anDtrp34xig$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/sNJ9u1uL12wOzOvvjjdXX8MqrBT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Lockbox
+[COLOR red]Elenco Principal:[/COLOR] Carla Gugino, Lou Taylor Pucci, Katharine Isabelle, Roman Kinsella, Donald Sales
+[COLOR orange]Duração:[/COLOR] 1h 45min
+[COLOR red]Diretor:[/COLOR] Daniel Stamm
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.2
+[COLOR orange]Gênero:[/COLOR] Terror
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Evolution - Idioma Original [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:198CFB7BC9C4E7451FD06DA54E1E6EC826DC8A14$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=NCRrGp5bkjY$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vzkouNc5lH0RMRe0ZCEtFHDV2ms.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/zihczzQLrtNufyLoofytqQi6yep.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Evolution
+[COLOR red]Elenco Principal:[/COLOR] Yannick Vergara, Hodeia Macua, Iker Bengoetxea, Josu Varela, Andrea Sanz
+[COLOR orange]Duração:[/COLOR] 1h 34min
+[COLOR red]Diretor:[/COLOR] Julio Soto Gurpide
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.8
+[COLOR orange]Gênero:[/COLOR] Animação, Família, Comédia
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Jared Leto: Hollywood's Dark Secret - Idioma Original [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:25414cfc14d5e477261f345a4eaeaf7baa7e57ca$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=bk2cz3evS7E$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/3Tq6JTx5NNc4GSHYK2DmkhulmDG.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/zW6yWAZD4B94fUEy7QzYSGe0yG3.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Jared Leto: Hollywood's Dark Secret
+[COLOR red]Elenco Principal:[/COLOR] Jared Leto, Maureen Ryan, Elena Clavarino, Jessica Sartenaer, Ellen DeGeneres
+[COLOR orange]Duração:[/COLOR] 0h 57min
+[COLOR red]Diretor:[/COLOR] Alice McShane
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Frango: A Conspiração do Fast-Food [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:b861d2555be68b1bd10fcad7d3475b034cc6e776$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=1wRjj5ZWQIA$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vZvfPX0FrUONMfYEaKZo1sXo4Js.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/vZvfPX0FrUONMfYEaKZo1sXo4Js.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Big Chicken: A Fast Food Conspiracy
+[COLOR red]Elenco Principal:[/COLOR] Mo Gilligan, Marcus Collins
+[COLOR orange]Duração:[/COLOR] 1h 36min
+[COLOR red]Diretor:[/COLOR] Liana Stewart
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Em um experimento ousado de 28 dias, Mo Gilligan segue uma dieta à base de frango frito para revelar o impacto da indústria do fast food nos EUA e no reino Unido.
+
+    </info>
+</item>
+
+<item>
+    <title>Trustor: Por Dentro do Escândalo Financeiro [COLOR orange]Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:91ccb4b111781d74ae630e5ff6e8c1c8fe320787$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=DGeawCN48z4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/q6NAnjrGV7BGrEIqpglQYshFHq9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/xLJgxU9hTga9tsFw960g1h1uDvx.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Inside the Trustor Scandal
+[COLOR red]Elenco Principal:[/COLOR] Joachim Posener
+[COLOR orange]Duração:[/COLOR] 1h 30min
+[COLOR red]Diretor:[/COLOR] Karin af Klintberg
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Documentário, Crime
+[COLOR red]Sinopse:[/COLOR] Pela primeira vez desde 1997, Joachim Posener finalmente sai do esconderijo e aceita dar uma entrevista sobre sua vida e o caso Trustor. Ele desapareceu sem deixar vestígios há 27 anos e, desde então, figura na lista internacional de pessoas mais procuradas. Agora, Karin af Klintberg vai atrás dele para descobrir como ele vive e onde esteve escondido durante todo esse tempo. Mas, talvez acima de tudo, para desvendar o que todos querem saber: ele era culpado? Por meio de depoimentos novos e divergentes de pessoas que nunca haviam falado antes, Karin também prossegue na busca pela verdade sobre o golpe. Como cinco pessoas conseguiram desviar 600 milhões de coroas e sair impunes? E para onde o dinheiro realmente foi?
+
+    </info>
+</item>
+
+<item>
+    <title>Só Por uma Noite Legendado CAMRip 1080p [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:d9c085a33a2e09602c5d746fed2d03335b8525af$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=5IYnb_dqaUE$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/5zTUTHLYBOvJFCItMkkFsLNZF3q.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ccoEJ4Rxk9rb5cIrrkpPQDn39MP.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] One Night Only
+[COLOR red]Elenco Principal:[/COLOR] Monica Barbaro, Callum Turner, Maya Hawke, Julia Fox, Molly Ringwald
+[COLOR orange]Duração:[/COLOR] 1h 42min
+[COLOR red]Diretor:[/COLOR] Will Gluck
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.7
+[COLOR orange]Gênero:[/COLOR] Comédia, Romance, Ficção Científica
+[COLOR red]Sinopse:[/COLOR] Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados
+
+    </info>
+</item>
+
+<item>
+    <title>Na Zona Cinzenta [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:295b57139d634a4f0102a5eec4282bc08c611d53$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=XI8RmIhAiZ0$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/h1eUeDH35Tdvsfu7Ouefa7CPwLa.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] In the Grey
+[COLOR red]Elenco Principal:[/COLOR] Henry Cavill, Jake Gyllenhaal, Eiza González, Carlos Bardem, Michael Vu
+[COLOR orange]Duração:[/COLOR] 1h 38min
+[COLOR red]Diretor:[/COLOR] Guy Ritchie
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.6
+[COLOR orange]Gênero:[/COLOR] Ação, Thriller
+[COLOR red]Sinopse:[/COLOR] Dois especialistas em resgates embarcam na difícil missão de recuperar uma fortuna bilionária roubada. Para isso, eles precisam traçar uma rota de fuga segura para uma experiente negociadora, mas o plano rapidamente se transforma em uma guerra explosiva de estratégia, traições e sobrevivência.
+
+    </info>
+</item>
+
+<item>
+    <title>72 Horas em Miami [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:eb070c3837bc8e52014aa33882cadc7e40f52fac$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=FpXo8oAuHJs$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/hL5EIk48251OXlbIbRJq3yaBHk8.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] 72 HOURS
+[COLOR red]Elenco Principal:[/COLOR] Kevin Hart, Marcello Hernández, Mason Gooding, Kam Patterson, Ben Marshall
+[COLOR orange]Duração:[/COLOR] 1h 42min
+[COLOR red]Diretor:[/COLOR] Tim Story
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.8
+[COLOR orange]Gênero:[/COLOR] Comédia, Crime
+[COLOR red]Sinopse:[/COLOR] Para salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.
+
+    </info>
+</item>
+
+<item>
+    <title>Authentic Games: No Império Desconectado [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:242b73b993dcdbcac224624f3d6f4e17866e9b86$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=h636bk5BTDo$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/jUwFOvlTyLQzagVcOs1EonMYCwj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/9WELuPGAhUlzik8Gs9yzJBoww21.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Authentic Games: No Império Desconectado
+[COLOR red]Elenco Principal:[/COLOR] Marco Túlio, Thay Bergamim, Cauê Bueno, Andrei Soares Alves, Manolo Rey
+[COLOR orange]Duração:[/COLOR] 1h 10min
+[COLOR red]Diretor:[/COLOR] Bruno Murtinho
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 10.0
+[COLOR orange]Gênero:[/COLOR] Animação, Comédia, Aventura, Família
+[COLOR red]Sinopse:[/COLOR] Após anos comandando um mundo offline, o Império Desconectado decide se vingar. O Imperador planeja sequestrar Marco Túlio, criador do Authentic Games, para levar alegria ao seu reino sombrio. Ao entrar nesse universo, Marco Túlio se transforma em Authentic, um simpático boneco, e embarca em uma grande aventura para resgatar a Família Craft e enfrentar o Império. Quando tudo parece perdido, uma ajuda inesperada surge no confronto final.
+
+    </info>
+</item>
+
+<item>
+    <title>Elize: Sombras de uma Mulher [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:590bc8b6384624d003f6bb3a84fcfa92eb7be71d$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=9a6jZDKhxXM$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Elize: Sombras de uma Mulher
+[COLOR red]Elenco Principal:[/COLOR] Lorena Comparato, Henrique Kimura, Denise Weinberg, Gustavo Falcão, Julia Shimura
+[COLOR orange]Duração:[/COLOR] 1h 33min
+[COLOR red]Diretor:[/COLOR] Vellas
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.3
+[COLOR orange]Gênero:[/COLOR] Thriller, Crime, Drama
+[COLOR red]Sinopse:[/COLOR] Nesta adaptação de um crime chocante, uma mulher descobre as traições do marido e vê seu conto de fadas se transformar em um jogo violento.
+
+    </info>
+</item>
+
+<item>
+    <title>Tempestade na Vila Sésamo [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:728d42f73d515f7983bbbad8f8a23d231548dfed$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=uP1n1V8waTs$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w500/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Storm on Sesame Street
+[COLOR red]Elenco Principal:[/COLOR] 
+[COLOR orange]Duração:[/COLOR] 0h 30min
+[COLOR red]Diretor:[/COLOR] Não disponível
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] N/A
+[COLOR orange]Gênero:[/COLOR] Família
+[COLOR red]Sinopse:[/COLOR] Um furacão atinge a Vila Sésamo e deixa Garibaldo sem ninho. Por sorte, os amigos fazem de tudo para animá-lo e ajudam a reconstruir a casa dele.
+
+    </info>
+</item>
+
+<item>
+    <title>Flamingos: A Vida Depois do Meteorito [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:82300f642c9fd504dbe0183d04c0aa8024d2be04$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=uHxywcB48Mk$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/1VdObnJlNSBj2WWpPX07bcYyLdP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/l11dAyZfibnzWRDC8nxB1P7AIjn.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Flamingos: La vida después del meteorito
+[COLOR red]Elenco Principal:[/COLOR] Julieta Venegas
+[COLOR orange]Duração:[/COLOR] 1h 23min
+[COLOR red]Diretor:[/COLOR] Lorenzo Hagerman
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 2.0
+[COLOR orange]Gênero:[/COLOR] Documentário
+[COLOR red]Sinopse:[/COLOR] Encontrar o parceiro ideal, o lugar certo e o momento perfeito para formar uma família é uma das jornadas mais importantes da natureza. Esta deslumbrante história de amor, sobrevivência e perseverança acompanha os flamingos-do-caribe durante uma das fases mais delicadas de suas vidas. Com narração de Julieta Venegas e trilha sonora de Bryce Dessner, o filme proporciona uma experiência cinematográfica única e envolvente, retratando a beleza e os desafios enfrentados por essas aves extraordinárias.
+
+    </info>
+</item>
+
+<item>
+    <title>A Odisseia [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:0D323A3E19362269F3C759400A224BA94B68DE8C$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=fF9hQP0vht8$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Odyssey
+[COLOR red]Elenco Principal:[/COLOR] Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel
+[COLOR orange]Duração:[/COLOR] 2h 52min
+[COLOR red]Diretor:[/COLOR] Christopher Nolan
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.0
+[COLOR orange]Gênero:[/COLOR] Aventura, Ação, Fantasia
+[COLOR red]Sinopse:[/COLOR] Acompanhe a saga de Odisseu, o lendário rei de Ítaca, em sua longa e perigosa jornada de retorno ao lar após a Guerra de Troia. O relato narra seus confrontos com seres míticos, como o ciclope Polifemo, as sedutoras sereias e a ninfa Calipso, enquanto ele luta contra o destino para se reencontrar com sua fiel esposa, Penélope.
+
+    </info>
+</item>
+
+<item>
+    <title>Bambi, Uma Aventura na Floresta [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ybffrzdod4ulhoxrasdjffpeohpnb2fy$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=NU4usPlbI0w$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pm4eFHE5hL0YennQkmQftofTEmd.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/ce51NvJSO5ReNkm3C3YDX5jsH1V.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Bambi, l'histoire d'une vie dans les bois
+[COLOR red]Elenco Principal:[/COLOR] Mylène Farmer, Senta Berger, Arja Koriseva
+[COLOR orange]Duração:[/COLOR] 1h 18min
+[COLOR red]Diretor:[/COLOR] Michel Fessler
+[COLOR orange]Ano:[/COLOR] 2024
+[COLOR red]Nota:[/COLOR] 6.5
+[COLOR orange]Gênero:[/COLOR] Documentário, Família, Aventura
+[COLOR red]Sinopse:[/COLOR] Em uma jornada de descoberta e superação, o jovem cervo Bambi explora a vida na floresta ao lado de sua mãe amorosa, aprendendo sobre amizade, natureza e esperança. Ao crescer, ele conhece Faline, sua futura amada, e vive momentos de alegria e perda ao perder sua mãe para caçadores. Sob a proteção de seu pai, o Príncipe, Bambi enfrenta os desafios da vida selvagem e aprende a se tornar forte e independente.
+
+    </info>
+</item>
+
+<item>
+    <title>A Sacada [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:drp72k2sqn5upep4z3nl2gtayu64ajc4$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/xpbOOqMlbAVD7IVhybqbAP4njrs.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/yENf2DCrUS8c0EYp9GOgrK6bxV1.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] The Trust
+[COLOR red]Elenco Principal:[/COLOR] Nicolas Cage, Elijah Wood, Sky Ferreira, Jerry Lewis, Kevin Weisman
+[COLOR orange]Duração:[/COLOR] 1h 33min
+[COLOR red]Diretor:[/COLOR] Alex Brewer
+[COLOR orange]Ano:[/COLOR] 2016
+[COLOR red]Nota:[/COLOR] 5.2
+[COLOR orange]Gênero:[/COLOR] Ação, Comédia, Crime, Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] Jim Stone (Nicolas Cage) e David Waters (Eliajh Wood) são dois policiais e parceiros, que descobrem um cofre escondido dentro do departamento policial onde trabalham. Intrigados, eles decidem roubar o cofre, desvendando uma rede de corrupção muito maior do que poderiam imaginar. A descoberta leva à paranoia, e ao medo de serem assassinados.
+
+    </info>
+</item>
+
+<item>
+    <title>Dia D [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:s4b5psbgufpl62mcs7qhgjy6sf4ue3ym$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=3dFPgpyfpbQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/pmff1wjKrgJi92PPr346lAifzlg.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Disclosure Day
+[COLOR red]Elenco Principal:[/COLOR] Emily Blunt, Josh O'Connor, Colin Firth, Colman Domingo, Eve Hewson
+[COLOR orange]Duração:[/COLOR] 2h 26min
+[COLOR red]Diretor:[/COLOR] Steven Spielberg
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.4
+[COLOR orange]Gênero:[/COLOR] Ficção Científica, Thriller
+[COLOR red]Sinopse:[/COLOR] A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.
+
+    </info>
+</item>
+
+<item>
+    <title>Motor City [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:d74d917d51a7b760e63e62c40a8be0ccb51fa175$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=c7GMCJyoUjU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/lGovcOtxugJPhfJjFKud9EbWtOA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/l7asYmqOad01F2u0oCMM8nQjoEP.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Motor City
+[COLOR red]Elenco Principal:[/COLOR] Alan Ritchson, Shailene Woodley, Ben Foster, Amar Chadha-Patel, Ben McKenzie
+[COLOR orange]Duração:[/COLOR] 1h 43min
+[COLOR red]Diretor:[/COLOR] Potsy Ponciroli
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.6
+[COLOR orange]Gênero:[/COLOR] Ação, Thriller, Crime
+[COLOR red]Sinopse:[/COLOR] 
+
+    </info>
+</item>
+
+<item>
+    <title>Supergirl [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:tjlu5dng3o22xg452s2jbndartkunrw6e$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=XvaUMy2LcOQ$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Supergirl
+[COLOR red]Elenco Principal:[/COLOR] Milly Alcock, Eve Ridley, Matthias Schoenaerts, Jason Momoa, David Krumholtz
+[COLOR orange]Duração:[/COLOR] 1h 48min
+[COLOR red]Diretor:[/COLOR] Craig Gillespie
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.7
+[COLOR orange]Gênero:[/COLOR] Ação, Aventura, Ficção Científica
+[COLOR red]Sinopse:[/COLOR] Kara Zor-El comemora seu aniversário de 21 anos viajando pela galáxia com seu cachorro Krypto. Ao longo do caminho, ela conhece a jovem Ruthye Marye Knoll e se depara com uma tragédia que a leva a uma “busca assassina por vingança".
+
+    </info>
+</item>
+
+<item>
+    <title>Cinco Tipos de Medo [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:xiqntmzlvbxd7hyjeoql43ciij5f4dln$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=sYYyf-NTMR8$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/iNE8DVinMuPARsDSVg5GlHJjxAB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/mfpeeEnVKJj0egLcbwq7GeNB7MD.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Cinco Tipos de Medo
+[COLOR red]Elenco Principal:[/COLOR] João Vitor Silva, Bella Campos, Rui Ricardo Diaz, Bárbara Colen, Xamã
+[COLOR orange]Duração:[/COLOR] 1h 49min
+[COLOR red]Diretor:[/COLOR] Bruno Bini
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.0
+[COLOR orange]Gênero:[/COLOR] Ação, Crime, Drama, Thriller
+[COLOR red]Sinopse:[/COLOR] Murilo, um jovem músico em luto, se envolve com Marlene, enfermeira presa a um relacionamento abusivo com um traficante. Suas histórias cruzam as de Luciana, policial movida por vingança, e Ivan, advogado com intenções ocultas. Cinco vidas aparentemente desconectadas colidem num caminho sem volta.
+
+    </info>
+</item>
+
+<item>
+    <title>That Time I Got Reincarnated as a Slime o Filme: Lágrimas do mar azul-celeste [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:u6zzt42yojl3z5dupggyl4crlmahcww$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cmYFNjvmWYwwwpcNdcyLE87LzoF.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] 劇場版 転生したらスライムだった件 蒼海の涙編
+[COLOR red]Elenco Principal:[/COLOR] Miho Okasaki, M・A・O, Tomoaki Maeno, Makoto Furukawa, Sayaka Senbongi
+[COLOR orange]Duração:[/COLOR] 1h 45min
+[COLOR red]Diretor:[/COLOR] 菊地康仁
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.0
+[COLOR orange]Gênero:[/COLOR] Animação, Fantasia, Aventura, Comédia
+[COLOR red]Sinopse:[/COLOR] Após a cerimônia de abertura da Tempestade da Federação do Reino Demoníaco, Rimuru e seus companheiros são convidados pela Imperatriz Celestial Hermesia, da grande nação élfica – a Dinastia Magi Salion – para visitar sua ilha particular. Enquanto o grupo desfruta de suas breves férias, uma mulher misteriosa chamada Yura aparece. Um novo incidente se desenrola tendo como pano de fundo o vasto mar azul.
+
+    </info>
+</item>
+
+<item>
+    <title>Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:b6m54tqsz6fbfizohczeq4jclbg73edz$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=HSuaWFSqwO8$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/6Ucmnt3nUaYY5rLfMjntK5WObNA.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Snoopy Presents: There's No Place Like Home, Snoopy
+[COLOR red]Elenco Principal:[/COLOR] Riley Kai Vargas, Terry McGurrin, Rob Tinkler, Kitai O'Garro, Josephine Nisbett
+[COLOR orange]Duração:[/COLOR] 0h 32min
+[COLOR red]Diretor:[/COLOR] Ridd Sorensen
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 8.3
+[COLOR orange]Gênero:[/COLOR] Animação, Família
+[COLOR red]Sinopse:[/COLOR] Quando Snoopy perde sua amada casinha de cachorro, ele tenta encontrar e descobre do que uma casa precisa para ser um lar.
+
+    </info>
+</item>
+
+<item>
+    <title>Última Parada [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:ppulvcxksgbogvx2k4eotwfftk5avwcg$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=Ym87smGzWaY$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/Aqt0yVqtkDuBtOeY0UHLtfYhzN9.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] N121 Bus de nuit
+[COLOR red]Elenco Principal:[/COLOR] Riadh Belaïche, Bakary Diombera, Gaspard Gevin-Hié, Mylène Jampanoï, Paola Locatelli
+[COLOR orange]Duração:[/COLOR] Não disponível
+[COLOR red]Diretor:[/COLOR] Morade Aïssaoui
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 5.9
+[COLOR orange]Gênero:[/COLOR] Thriller
+[COLOR red]Sinopse:[/COLOR] Oscar, Simon e Aïssa, três amigos de infância, viajam a Paris para celebrar boas notícias. No ônibus noturno N121 de volta, uma troca entre passageiros escala e a situação sai do controle, transformando a viagem em um intenso thriller urbano.
+
+    </info>
+</item>
+
+<item>
+    <title>Shake, Rattle & Roll: As Origens do Mal [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:otxgamuw6snkfi4pin4klgekocp7mf6e$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=3Kgvx0-HfHs$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/4NSwhJVIvO54GyWsvGXHxRPRd3q.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/90Vx3KpCXR2D9iVdxJpkjeYBq9P.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Shake, Rattle & Roll: Evil Origins
+[COLOR red]Elenco Principal:[/COLOR] Carla Abellana, Richard Gutierrez, Ivana Alawi, Manilyn Reynes, Janice de Belen
+[COLOR orange]Duração:[/COLOR] 2h 28min
+[COLOR red]Diretor:[/COLOR] Shugo Praico
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 3.3
+[COLOR orange]Gênero:[/COLOR] Terror
+[COLOR red]Sinopse:[/COLOR] Dos corredores assombrados da abadia no passado, de um tumulto assassino no Halloween no presente a um apocalipse monstruoso no futuro; a décima sétima edição traz três histórias de terror em cada ciclo.
+
+    </info>
+</item>
+
+<item>
+    <title>Hit Para Dois [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:adph4rr3y3gcisppltt6qyexsb4gaxiq$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=HX2XXfU9_Gg$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9UDXiDRwsKt1G9pSVeXqNdzPAVm.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Power Ballad
+[COLOR red]Elenco Principal:[/COLOR] Paul Rudd, Nick Jonas, Peter McDonald, Rory Keenan, Paul Reid
+[COLOR orange]Duração:[/COLOR] 1h 38min
+[COLOR red]Diretor:[/COLOR] John Carney
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.9
+[COLOR orange]Gênero:[/COLOR] Comédia, Música, Drama
+[COLOR red]Sinopse:[/COLOR] Rick, um cantor de casamentos, apresenta uma de suas composições para Danny, um ex-astro pop adolescente que transforma a canção em um sucesso global e fica com todo o crédito. Em busca de justiça e reconhecimento, Rick mergulha em uma jornada obsessiva, sem perceber que pode acabar perdendo o que realmente importa em sua vida.
+
+    </info>
+</item>
+
+<item>
+    <title>Um Grande Despertar [COLOR orange]  Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:v4edsqwh62hru36u4wecv7pnc3gn4bbq$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=1cvDtlaIQfA$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/qZf42h6r8BSkVTCBtTXTELcgTV1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/iQodpfb5trczzmqxAgnsUYPw2rv.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] A Great Awakening
+[COLOR red]Elenco Principal:[/COLOR] John Paul Sneed, Jonathan Blair, JT Schaeffer, Josh Bates, Joe Dignoti
+[COLOR orange]Duração:[/COLOR] 2h 10min
+[COLOR red]Diretor:[/COLOR] Joshua Enck
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.8
+[COLOR orange]Gênero:[/COLOR] Drama, História
+[COLOR red]Sinopse:[/COLOR] Em meio às tensões que antecedem a Revolução Americana, o carismático pregador George Whitefield e o cético Benjamin Franklin desenvolvem uma amizade improvável. Enquanto os sermões de Whitefield inspiram milhares de pessoas durante o movimento conhecido como Grande Despertar, Franklin ajuda a espalhar sua mensagem, e juntos acabam influenciando um período decisivo da história dos Estados Unidos. Baseado em fatos reais.
+
+    </info>
+</item>
+    
+
+
   
-</channels>
+</items>

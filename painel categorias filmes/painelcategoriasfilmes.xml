@@ -10,15 +10,7 @@
 <fanart>https://archive.org/download/ares-lite-series/ares-lite-filmes.jpg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20filmes/filmes2026.xml</externallink>
-</channel>
-
-<channel>
-<name>[COLOR red] == [/COLOR] [COLOR pink] Filmes Ares Lite Açâo [COLOR red] === [/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/painel%20categorias%20filmes/acaoareslite.xml</externallink>
-</channel>   
+</channel>  
 
 
    

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV As Pistas de Blue " tvg-logo="" , BR - Pluto TV As Pistas de Blue 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Cine Drama" tvg-logo="" , BR - Pluto TV Cine Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Cine Família " tvg-logo="" , BR - Pluto TV Cine Família 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Classic Nick " tvg-logo="" , BR - Pluto TV Classic Nick 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Filmes Suspense " tvg-logo="" , BR - Pluto TV Filmes Suspense 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Investigação " tvg-logo="" , BR - Pluto TV Investigação 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV MTV " tvg-logo="" , BR - Pluto TV MTV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Natureza " tvg-logo="" , BR - Pluto TV Natureza 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Nick Jr. Club " tvg-logo="" , BR - Pluto TV Nick Jr. Club 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Nick Jr. Club " tvg-logo="" , BR - Pluto TV Nick Jr. Club 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Retrô " tvg-logo="" , BR - Pluto TV Retrô 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR - Pluto TV Vida Real " tvg-logo="" , BR - Pluto TV Vida Real 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDONARES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/T9DBE8LGU43X25Z/YyMoFAaa77/1243790.m3u8

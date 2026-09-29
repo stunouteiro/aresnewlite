@@ -1,124 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="semepg" tvg-name="Agro Canal FHD " tvg-logo="https://i.imgur.com/hZE88Cr.png" group-title="Canais | Abertos",Agro Canal FHD 
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91572.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="Agro Canal HD" tvg-logo="https://i.imgur.com/hZE88Cr.png" group-title="Canais | Abertos",Agro Canal HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/71074.ts
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais" tvg-logo="https://i.imgur.com/jxKTuAd.png" group-title="Canais | Abertos",AgroMais
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/90975.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="Agrobrasil TV" tvg-logo="https://i.imgur.com/aCtqdjq.png" group-title="Canais | Abertos",Agrobrasil TV
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/90973.ts
-#EXTINF:-1 tvg-id="agro.plus.br" tvg-name="Agroplus HD" tvg-logo="https://i.imgur.com/aO1H6KD.png" group-title="Canais | Abertos",Agroplus HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/952080.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="Brasil TV Rural" tvg-logo="https://i.imgur.com/08iRqQ7.png" group-title="Canais | Abertos",Brasil TV Rural
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/121548.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/37122.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/41517.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Abertos",Canal Brasil FHD H265
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/986826.ts
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/63636.ts
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/wcEDT6H.png" group-title="Canais | Abertos",Canal Rural
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/63217.ts
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/50645.ts
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91567.ts
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/68528.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/40073.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura FHD" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/42903.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/61961.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/40074.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/41481.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Abertos",Futura HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/68530.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="Gazeta FHD" tvg-logo="https://i.imgur.com/cFLDS3G.png" group-title="Canais | Abertos",Gazeta FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/61960.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="Gazeta HD" tvg-logo="https://i.imgur.com/cFLDS3G.png" group-title="Canais | Abertos",Gazeta HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/60201.ts
-#EXTINF:-1 tvg-id="istv.br" tvg-name="ISTV HD" tvg-logo="https://i.imgur.com/JducaDV.png" group-title="Canais | Abertos",ISTV HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/190872.ts
-#EXTINF:-1 tvg-id="ideal.br" tvg-name="Ideal TV" tvg-logo="https://i.imgur.com/Sen1B41.png" group-title="Canais | Abertos",Ideal TV
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/63404.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV Brasilia HD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV Brasilia HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/1001882.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV!
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/37012.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! FHD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/41518.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Abertos",RedeTV! FHD H265
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91501.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! Guará" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Guará
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/952075.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36946.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! Imperial" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Imperial
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/952076.ts
-#EXTINF:-1 tvg-id="redetv.sul.br" tvg-name="RedeTV! Paraná HD" tvg-logo="https://i.imgur.com/CW2ZX72.png" group-title="Canais | Abertos",RedeTV! Paraná HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/215348.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="Rural Noar" tvg-logo="https://i.imgur.com/KVnUn17.png" group-title="Canais | Abertos",Rural Noar
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/215346.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="TOP TV" tvg-logo="https://i.imgur.com/CeSN4kG.png" group-title="Canais | Abertos",TOP TV
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/100715.ts
-#EXTINF:-1 tvg-id="tv.a.critica.br" tvg-name="TV A Crítica Amazonas" tvg-logo="https://i.imgur.com/ojLxssC.png" group-title="Canais | Abertos",TV A Crítica Amazonas
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/162991.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="TV Aracati CE" tvg-logo="https://i.imgur.com/r3COViA.png" group-title="Canais | Abertos",TV Aracati CE
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91327.ts
-#EXTINF:-1 tvg-id="tv.ceara.br" tvg-name="TV Ceará" tvg-logo="https://i.imgur.com/MyeDHig.png" group-title="Canais | Abertos",TV Ceará
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/952166.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura MA" tvg-logo="https://i.imgur.com/zBqTDrH.png" group-title="Canais | Abertos",TV Cultura MA
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91315.ts
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura PA HD" tvg-logo="https://i.imgur.com/zBqTDrH.png" group-title="Canais | Abertos",TV Cultura PA HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/64660.ts
-#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV Diário HD" tvg-logo="https://1.bp.blogspot.com/-YgtXht1k-tQ/XeW9wL0JZbI/AAAAAAAAHmI/sop7jbLV3EE-roMwEj4C3u3q1EwRhljYwCLcBGAsYHQ/s1600/tv%2Bdiario.png" group-title="Canais | Abertos",TV Diário HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/64613.ts
-#EXTINF:-1 tvg-id="tv.educativa.de.porto.alegre.br" tvg-name="TV Educativa POA FHD" tvg-logo="https://i.imgur.com/rbmYrJR.png" group-title="Canais | Abertos",TV Educativa POA FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/162987.ts
-#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV Escola HD" tvg-logo="https://i.imgur.com/bg1nIXB.png" group-title="Canais | Abertos",TV Escola HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/960720.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV Gazeta Araçatuba" tvg-logo="https://i.imgur.com/kU0fCHZ.png" group-title="Canais | Abertos",TV Gazeta Araçatuba
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91316.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV Gazeta FHD" tvg-logo="https://i.imgur.com/kU0fCHZ.png" group-title="Canais | Abertos",TV Gazeta FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/75177.ts
-#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV Gazeta MA" tvg-logo="https://i.imgur.com/kU0fCHZ.png" group-title="Canais | Abertos",TV Gazeta MA
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91317.ts
-#EXTINF:-1 tvg-id="tv.gazeta.norte.br" tvg-name="TV Gazeta PA" tvg-logo="https://i.imgur.com/kU0fCHZ.png" group-title="Canais | Abertos",TV Gazeta PA
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91318.ts
-#EXTINF:-1 tvg-id="tv.guarulhos.br" tvg-name="TV Guarulhos HD" tvg-logo="https://i.imgur.com/6clOa4J.png" group-title="Canais | Abertos",TV Guarulhos HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91493.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="TV J.SID BA" tvg-logo="https://i.imgur.com/TK8eYdR.png" group-title="Canais | Abertos",TV J.SID BA
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/215151.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="TV Nova Nordeste HD" tvg-logo="https://i.imgur.com/DQLRg6M.png" group-title="Canais | Abertos",TV Nova Nordeste HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/946470.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="TV Padre Cicero" tvg-logo="https://i.imgur.com/ge2EDrG.png" group-title="Canais | Abertos",TV Padre Cicero
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/952169.ts
-#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV Pampa (Rede TV RS)" tvg-logo="https://i.imgur.com/1NeHmWj.jpg" group-title="Canais | Abertos",TV Pampa (Rede TV RS)
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/76262.ts
-#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV Pampa HD" tvg-logo="https://i.imgur.com/1NeHmWj.jpg" group-title="Canais | Abertos",TV Pampa HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91574.ts
-#EXTINF:-1 tvg-id="tv.pantanal.br" tvg-name="TV Pantanal MS" tvg-logo="https://i.imgur.com/IrPXraD.png" group-title="Canais | Abertos",TV Pantanal MS
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91277.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="TV Poços" tvg-logo="https://i.imgur.com/iEyae89.png" group-title="Canais | Abertos",TV Poços
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91273.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="TV SOL HD" tvg-logo="https://i.imgur.com/7qT22bS.png" group-title="Canais | Abertos",TV SOL HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91490.ts
-#EXTINF:-1 tvg-id="tv.taroba.br" tvg-name="TV Taroba HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ac/Tv-taroba-logo.png" group-title="Canais | Abertos",TV Taroba HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/63696.ts
-#EXTINF:-1 tvg-id="tv.uniao.br" tvg-name="TV União HD" tvg-logo="https://i.imgur.com/BnAb7F6.png" group-title="Canais | Abertos",TV União HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/91342.ts
-#EXTINF:-1 tvg-id="tve.bahia.br" tvg-name="TVE Bahia" tvg-logo="https://i.imgur.com/djj7Tx8.png" group-title="Canais | Abertos",TVE Bahia
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/203819.ts
-#EXTINF:-1 tvg-id="tve.br" tvg-name="TVE HD" tvg-logo="https://i.imgur.com/wS908WC.png" group-title="Canais | Abertos",TVE HD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/984404.ts
-#EXTINF:-1 tvg-id="tve.br" tvg-name="TVE RS FHD" tvg-logo="https://i.imgur.com/d3dgRAp.png" group-title="Canais | Abertos",TVE RS FHD
-http://play.dnsrot.vip/live/0106en10/tdwkwriukf/987153.ts
+#EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/rAOrWxU.png" group-title="Jogos de Hoje",Jogos de Hoje
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/194567.ts
 #EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="EPTV Campinas" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Campinas
 http://play.dnsrot.vip/live/0106en10/tdwkwriukf/40248.ts
 #EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="EPTV Campinas FHD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Campinas FHD
@@ -1351,3 +1233,59 @@ http://play.dnsrot.vip/live/0106en10/tdwkwriukf/953317.ts
 http://play.dnsrot.vip/live/0106en10/tdwkwriukf/960719.ts
 #EXTINF:-1 tvg-id="" tvg-name="Zapping Sports HD" tvg-logo="https://i.imgur.com/CoOokWM.png" group-title="Canais | Esportes",Zapping Sports HD
 http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36999.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action" tvg-logo="https://i.imgur.com/BGE3Oe4.png" group-title="Canais | Telecine",Telecine Action
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/37040.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="https://i.imgur.com/BGE3Oe4.png" group-title="Canais | Telecine",Telecine Action FHD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/38418.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Telecine",Telecine Action H265
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/51286.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://i.imgur.com/BGE3Oe4.png" group-title="Canais | Telecine",Telecine Action HD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36939.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action [4K]" tvg-logo="https://i.imgur.com/BGE3Oe4.png" group-title="Canais | Telecine",Telecine Action [4K]
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/74797.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/xyIjiqr.png" group-title="Canais | Telecine",Telecine Cult
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/37039.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://i.imgur.com/xyIjiqr.png" group-title="Canais | Telecine",Telecine Cult FHD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/41506.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Telecine",Telecine Cult H265
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/51287.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD" tvg-logo="https://i.imgur.com/xyIjiqr.png" group-title="Canais | Telecine",Telecine Cult HD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36901.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/trKxPYe.png" group-title="Canais | Telecine",Telecine Fun
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/37005.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://i.imgur.com/trKxPYe.png" group-title="Canais | Telecine",Telecine Fun FHD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/38417.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png " group-title="Canais | Telecine",Telecine Fun H265
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/62909.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="https://i.imgur.com/trKxPYe.png" group-title="Canais | Telecine",Telecine Fun HD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36938.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://i.imgur.com/KJlG3B9.png" group-title="Canais | Telecine",Telecine Pipoca
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/37038.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.imgur.com/KJlG3B9.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/38416.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Telecine",Telecine Pipoca H265
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/51302.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Telecine",Telecine Pipoca H265
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/62908.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://i.imgur.com/KJlG3B9.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36937.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/IoWD44d.png" group-title="Canais | Telecine",Telecine Premium
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36994.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://i.imgur.com/IoWD44d.png" group-title="Canais | Telecine",Telecine Premium FHD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/38415.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Telecine",Telecine Premium H265
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/51303.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png " group-title="Canais | Telecine",Telecine Premium H265
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/62907.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="https://i.imgur.com/IoWD44d.png" group-title="Canais | Telecine",Telecine Premium HD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36936.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium [4K]" tvg-logo="https://i.imgur.com/IoWD44d.png" group-title="Canais | Telecine",Telecine Premium [4K]
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/64378.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/mSBEaWi.png" group-title="Canais | Telecine",Telecine Touch
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36995.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://i.imgur.com/mSBEaWi.png" group-title="Canais | Telecine",Telecine Touch FHD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/38414.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png " group-title="Canais | Telecine",Telecine Touch H265
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/62906.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="https://i.imgur.com/mSBEaWi.png" group-title="Canais | Telecine",Telecine Touch HD
+http://play.dnsrot.vip/live/0106en10/tdwkwriukf/36935.ts

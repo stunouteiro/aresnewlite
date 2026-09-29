@@ -1,0 +1,14 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-name="Runtime Ação" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_action_bg.png" ,Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-name="Runtime Comédia" tvg-logo="https://img.inboxbr.pro/icones_channels/br_comedy_bg.png" ,Runtime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-name="Runtime Romance" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_romance_16x9_2.png" ,Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-name="Runtime TV & Filmes" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_1920x1080_0.png" ,Runtime TV & Filmes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+

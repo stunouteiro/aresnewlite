@@ -43,6 +43,14 @@
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/stunouteiro/aresnewlite/refs/heads/main/runtimeonline.xml</externallink>
 </channel>
+
+<channel>
+<name>[COLOR red] == [/COLOR] [COLOR orange] Tvonline [COLOR red] === [/COLOR]</name>
+<thumbnail>https://archive.org/download/ares-lite-series/ares-lite-filmes.jpg</thumbnail>
+<fanart>https://archive.org/download/ares-lite-series/ares-lite-filmes.jpg</fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares Lite [/COLOR]</info>
+<externallink></externallink>
+</channel>
    
 
    

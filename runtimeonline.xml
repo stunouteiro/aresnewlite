@@ -1,22 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="runtime-cine-espanto" tvg-name="Runtime Cine Espanto" group-title="Terror",Runtime Cine Espanto
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Cine-Espanto-pt/master.m3u8
+#EXTINF:-1 tvg-id="runtime-filmes-series" tvg-name="Runtime Filmes e Séries" group-title="Filmes",Runtime Filmes e Séries
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream-runtime-brazil.global.ssl.fastly.net/live/master.m3u8
 
-#EXTINF:-1 tvg-id="runtime-cine-romance" tvg-name="Runtime Romance" group-title="Romance",Runtime Romance
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Cine-Romance-pt/master.m3u8
+#EXTINF:-1 tvg-id="runtime-acao" tvg-name="Runtime Ação" group-title="Filmes",Runtime Ação
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimeacao-brazil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="runtime-comedia" tvg-name="Runtime Comédia" group-title="Comédia",Runtime Comédia
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Comedia-pt/master.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimecomedia-brazil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="runtime-acao" tvg-name="Runtime Ação" group-title="Ação",Runtime Ação
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Acao-pt/master.m3u8
+#EXTINF:-1 tvg-id="runtime-espanto" tvg-name="Runtime Cine Espanto" group-title="Terror",Runtime Cine Espanto
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimecineespanto-brazil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="runtime-romance" tvg-name="Runtime Romance" group-title="Romance",Runtime Romance
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimeromance-brazil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="runtime-familia" tvg-name="Runtime Família" group-title="Infantil",Runtime Família
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Familia-pt/master.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimefamilia-brazil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="runtime-series" tvg-name="Runtime Séries" group-title="Séries",Runtime Séries
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Series-pt/master.m3u8
-
-#EXTINF:-1 tvg-id="runtime-filmes" tvg-name="Runtime Filmes e Séries" group-title="Geral",Runtime Filmes e Séries
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Filmes-e-Series-pt/master.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimeseries-brazil/playlist.m3u8

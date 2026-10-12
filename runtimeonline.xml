@@ -1,14 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="runtime-cine-espanto" tvg-name="Runtime Cine Espanto" group-title="Terror",Runtime Cine Espanto
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Cine-Espanto-pt/master.m3u8
 
+#EXTINF:-1 tvg-id="runtime-cine-romance" tvg-name="Runtime Romance" group-title="Romance",Runtime Romance
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Cine-Romance-pt/master.m3u8
 
+#EXTINF:-1 tvg-id="runtime-comedia" tvg-name="Runtime Comédia" group-title="Comédia",Runtime Comédia
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Comedia-pt/master.m3u8
 
-#EXTINF:-1 tvg-name="Runtime Ação" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_action_bg.png" ,Runtime Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-name="Runtime Comédia" tvg-logo="https://img.inboxbr.pro/icones_channels/br_comedy_bg.png" ,Runtime Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-name="Runtime Romance" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_romance_16x9_2.png" ,Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-name="Runtime TV & Filmes" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_1920x1080_0.png" ,Runtime TV & Filmes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-id="runtime-acao" tvg-name="Runtime Ação" group-title="Ação",Runtime Ação
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Acao-pt/master.m3u8
 
+#EXTINF:-1 tvg-id="runtime-familia" tvg-name="Runtime Família" group-title="Infantil",Runtime Família
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Familia-pt/master.m3u8
+
+#EXTINF:-1 tvg-id="runtime-series" tvg-name="Runtime Séries" group-title="Séries",Runtime Séries
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Series-pt/master.m3u8
+
+#EXTINF:-1 tvg-id="runtime-filmes" tvg-name="Runtime Filmes e Séries" group-title="Geral",Runtime Filmes e Séries
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83ba533504187502361a4778baa6855b9e0/Runtime-Filmes-e-Series-pt/master.m3u8

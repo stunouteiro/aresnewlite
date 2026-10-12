@@ -1,36 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="runtime-filmes-series" tvg-name="Runtime Filmes e Séries" group-title="Filmes",Runtime Filmes e Séries
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream-runtime-brazil.global.ssl.fastly.net/live/master.m3u8
 
-#EXTINF:-1 tvg-id="runtime-acao" tvg-name="Runtime Ação" group-title="Filmes",Runtime Ação
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimeacao-brazil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="runtime-comedia" tvg-name="Runtime Comédia" group-title="Comédia",Runtime Comédia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimecomedia-brazil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="runtime-espanto" tvg-name="Runtime Cine Espanto" group-title="Terror",Runtime Cine Espanto
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimecineespanto-brazil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="runtime-romance" tvg-name="Runtime Romance" group-title="Romance",Runtime Romance
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimeromance-brazil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="runtime-familia" tvg-name="Runtime Família" group-title="Infantil",Runtime Família
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimefamilia-brazil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="runtime-series" tvg-name="Runtime Séries" group-title="Séries",Runtime Séries
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amagi-playback-runtime-brazil.amagi.tv/playlist/amg01267-runtime-runtimeseries-brazil/playlist.m3u8
+#EXTINF:-1 tvg-name="Runtime Ação" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_action_bg.png" ,Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-name="Runtime Comédia" tvg-logo="https://img.inboxbr.pro/icones_channels/br_comedy_bg.png" ,Runtime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-name="Runtime Romance" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_romance_16x9_2.png" ,Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-name="Runtime TV & Filmes" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_1920x1080_0.png" ,Runtime TV & Filmes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153

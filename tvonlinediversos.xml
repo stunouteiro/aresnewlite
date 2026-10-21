@@ -1,551 +1,577 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO DF - BRASÍLIA HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO DF - BRASÍLIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/560.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO DF - BRASÍLIA FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO DF - BRASÍLIA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/559.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO DF - BRASÍLIA SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO DF - BRASÍLIA SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/561.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO CE - TV VERDES MARES HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO CE - TV VERDES MARES HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/556.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO CE - TV VERDES MARES SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO CE - TV VERDES MARES SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/557.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO ES - TV GAZETA VITORIA FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO ES - TV GAZETA VITORIA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/571.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO ES - TV GAZETA VITORIA HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO ES - TV GAZETA VITORIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/572.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO ES - TV GAZETA VITORIA SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO ES - TV GAZETA VITORIA SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/573.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO GO - TV ANHANGUERA GOIANIA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/583.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO GO - TV ANHANGUERA GOIANIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/584.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO GO - TV ANHANGUERA GOIANIA SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO GO - TV ANHANGUERA GOIANIA SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/585.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MA - TV MIRANTE FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO MA - TV MIRANTE FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/611.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MA - TV MIRANTE HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO MA - TV MIRANTE HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/612.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MA - TV MIRANTE SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO MA - TV MIRANTE SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/621.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MS - TV MORENA CAMPO GRANDE FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO MS - TV MORENA CAMPO GRANDE FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/651.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MS - TV MORENA CAMPO GRANDE HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO MS - TV MORENA CAMPO GRANDE HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/652.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABÁ  FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO MT - TV CENTRO AMERICA CUIABÁ  FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/667.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABÁ HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO MT - TV CENTRO AMERICA CUIABÁ HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/669.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO MT - TV CENTRO AMERICA CUIABÁ SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO MT - TV CENTRO AMERICA CUIABÁ SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/670.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO PI - TV CLUBE HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO PI - TV CLUBE HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/752.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO PI - TV CLUBE FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO PI - TV CLUBE FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/751.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO PI - TV CLUBE SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO PI - TV CLUBE SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/753.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RN - INTER TV CABUGI FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO RN - INTER TV CABUGI FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/796.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RN - INTER TV CABUGI HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO RN - INTER TV CABUGI HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/797.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RN - INTER TV CABUGI SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO RN - INTER TV CABUGI SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/798.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO RO - AMAZONICA PORTO VELHO FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/804.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO RO - AMAZONICA PORTO VELHO HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/805.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RO - AMAZONICA PORTO VELHO SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO RO - AMAZONICA PORTO VELHO SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/806.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RP - RP CURITIBA HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO RP - RP CURITIBA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/824.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RP - RPC CURITIBA FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO RP - RPC CURITIBA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/825.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RP - RPC CURITIBA SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO RP - RPC CURITIBA SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/826.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RR - AMAZONICA BOA VISTA FHD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO RR - AMAZONICA BOA VISTA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/828.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RR - AMAZONICA BOA VISTA HD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO RR - AMAZONICA BOA VISTA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/829.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO RR - AMAZONICA BOA VISTA SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO RR - AMAZONICA BOA VISTA SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/830.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SE - TV SERGIPE FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO SE - TV SERGIPE FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/908.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SE - TV SERGIPE HD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO SE - TV SERGIPE HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/909.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SE - TV SERGIPE SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO SE - TV SERGIPE SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/910.ts
-#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO FLORIANOPOLIS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7328793.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPC MARINGÁ HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",RPC MARINGÁ HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8113572.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO AL - GAZETA DE ALAGOAS HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO AL - GAZETA DE ALAGOAS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/500.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO AM - AMAZONICA MANAUS FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO AM - AMAZONICA MANAUS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/503.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO AM - AMAZONICA MANAUS HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO AM - AMAZONICA MANAUS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/504.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO AM - AMAZONICA MANAUS SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO AM - AMAZONICA MANAUS SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/505.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO AP - TV AMAPÁ FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO AP - TV AMAPÁ FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/523.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO AP - TV AMAPÁ HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO AP - TV AMAPÁ HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/524.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO AP - TV AMAPÁ SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO AP - TV AMAPÁ SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/525.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO BA - BAHIA FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO BA - BAHIA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/527.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO BA - BAHIA HD" tvg-logo="https://i.postimg.cc/br68sfGJ/HD.png" group-title="Globo Capital",GLOBO BA - BAHIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/528.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO BA - BAHIA SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Globo Capital",GLOBO BA - BAHIA SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/529.ts
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO CE - TV VERDES MARES FHD" tvg-logo="https://i.postimg.cc/FFxvvVFy/globo-FHD.png" group-title="Globo Capital",GLOBO CE - TV VERDES MARES FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/555.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD BRASILIA HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD BRASILIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607270.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD BRASILIA FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD BRASILIA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607255.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD SP HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607263.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD SP FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD SP FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607271.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD SP SD" tvg-logo="https://i.ibb.co/GHM6thr/SD.png" group-title="Record TV",RECORD SP SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607261.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD INTERIOR SP HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD INTERIOR SP HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607248.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD INTERIOR SP FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD INTERIOR SP FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607203.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD MG HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD MG HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607266.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD MG FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD MG FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607197.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD RIO HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD RIO HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607265.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD RIO FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD RIO FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607222.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD RJ INTERIOR FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD RJ INTERIOR FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607159.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD RJ INTERIOR HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD RJ INTERIOR HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607158.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV THATHI CAMPINAS HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD TV THATHI CAMPINAS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607151.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV THATHI CAMPINAS FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD TV THATHI CAMPINAS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607152.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV SC HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD TV SC HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607153.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV PR SD" tvg-logo="https://i.ibb.co/GHM6thr/SD.png" group-title="Record TV",RECORD TV PR SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607154.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD SERGIPE HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD SERGIPE HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607157.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD RIO PRETO HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD RIO PRETO HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607160.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD PARNAIBA DE UBERLÂNDIA HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD PARNAIBA DE UBERLÂNDIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607163.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD PARNAIBA DE UBERLÂNDIA FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD PARNAIBA DE UBERLÂNDIA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607164.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD NACIONAL HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD NACIONAL HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607166.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD MANAUS HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD MANAUS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607168.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORDTV PR HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORDTV PR HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607179.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD RIO PRETO FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD RIO PRETO FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607191.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD CABRALIA HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD CABRALIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607236.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD PARNAIBA DE UBERLÂNDIA HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD PARNAIBA DE UBERLÂNDIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607239.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD PARNAIBA DE UBERLÂNDIA FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD PARNAIBA DE UBERLÂNDIA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607240.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD LITORAL VALE DO PARAÍBA FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD LITORAL VALE DO PARAÍBA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607246.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD ITAPOAN FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD ITAPOAN FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607247.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD GOIAS FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD GOIAS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607251.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD CABRALIA FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD CABRALIA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607254.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD BELEM PA HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD BELEM PA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607256.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD BELEM PA FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD BELEM PA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607257.ts
-#EXTINF:-1 tvg-id="RecordRS.br" tvg-name="RECORD RS HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD RS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607264.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD ITAPOAN HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD ITAPOAN HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607267.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD GOIAS HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD GOIAS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607268.ts
-#EXTINF:-1 tvg-id="RecordRS.br" tvg-name="RECORD RS SD" tvg-logo="https://i.ibb.co/GHM6thr/SD.png" group-title="Record TV",RECORD RS SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607273.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORDTV PARAIBA HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORDTV PARAIBA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607274.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record PE - TV Recife HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",Record PE - TV Recife HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/5546217.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record PE - TV Recife FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",Record PE - TV Recife FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/5548018.ts
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD TV PAJUÇARA FHD" tvg-logo="https://i.ibb.co/NtGThyK/FHD.png" group-title="Record TV",RECORD TV PAJUÇARA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7656936.ts
-#EXTINF:-1 tvg-id="br#record-hd" tvg-name="RECORD TV BAURU HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Record TV",RECORD TV BAURU HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8027490.ts
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV SENADO HD" tvg-logo="https://i.ibb.co/zx08QV4/HD.png" group-title="Abertos",TV SENADO HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607281.ts
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL 2 SD" tvg-logo="https://i.ibb.co/QYfdhv4/HD.png" group-title="Abertos",TV BRASIL 2 SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607282.ts
-#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://i.ibb.co/3RVWd2T/SD.png" group-title="Abertos",CANAL RURAL SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607283.ts
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://i.ibb.co/74L3Sby/SD.png" group-title="Abertos",CANAL DO BOI SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607284.ts
-#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL HD" tvg-logo="https://i.ibb.co/mTQbny2/HD.png" group-title="Abertos",AGRO BRASIL HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607285.ts
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.ibb.co/dmhmLQ4/cultura-hd.png" group-title="Abertos",TV CULTURA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607286.ts
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://i.ibb.co/XSksNpX/HD.png" group-title="Abertos",TV BRASIL HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607287.ts
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV HD" tvg-logo="https://i.ibb.co/G0gLPxj/HD.png" group-title="Abertos",REDE TV HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607288.ts
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV FHD" tvg-logo="https://i.ibb.co/48Lxs71/H265.png" group-title="Abertos",REDE TV FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607289.ts
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV SD" tvg-logo="https://i.ibb.co/nNzQZWtm/Logo-Nova-6.png" group-title="Abertos",REDE TV SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607291.ts
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="TERRA VIVA SD" tvg-logo="https://i.ibb.co/1QbGTtH/SD.png" group-title="Abertos",TERRA VIVA SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607292.ts
-#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.ibb.co/GT74wNh/SD.png" group-title="Abertos",CANAL BRASIL HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607293.ts
-#EXTINF:-1 tvg-id="br#futura-hd" tvg-name="FUTURA HD" tvg-logo="https://i.ibb.co/RTWkXHMv/Logo-Nova-7.png" group-title="Abertos",FUTURA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607294.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Candides FHD" tvg-logo="https://www.candides.com/images/tv_candides.png" group-title="Abertos",TV Candides FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7644911.ts
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CAMARA" tvg-logo="https://www.fontedecanais.gs/logos/canais/tvcamara.png" group-title="Abertos",TV CAMARA
-http://xuiplaylites.net:80/f32pk91up8/310175043/8132206.ts
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV JUSTICA" tvg-logo="https://www.fontedecanais.gs/logos/canais/tvjustica.png" group-title="Abertos",TV JUSTICA
-http://xuiplaylites.net:80/f32pk91up8/310175043/8132205.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT SP HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607321.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP SD" tvg-logo="https://i.ibb.co/Ctbtf7T/SD.png" group-title="Sbt",SBT SP SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607326.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT SP FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607327.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT SP FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607328.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT ALTEROSA DIVINOPOLIS MG HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT ALTEROSA DIVINOPOLIS MG HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607295.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT MG FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT MG FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607324.ts
-#EXTINF:-1 tvg-id="br#sbt-brasilia" tvg-name="SBT BRASILIA HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT BRASILIA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607316.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ SD" tvg-logo="https://i.ibb.co/Ctbtf7T/SD.png" group-title="Sbt",SBT RJ SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607304.ts
-#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT RIO FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT RIO FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607305.ts
-#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT RIO FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT RIO FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607306.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT VTV HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT VTV HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607297.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV ARATU HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT TV ARATU HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607298.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV ARATU FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT TV ARATU FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607299.ts
-#EXTINF:-1 tvg-id="br#sbt-rs" tvg-name="SBT RS SD" tvg-logo="https://i.ibb.co/Ctbtf7T/SD.png" group-title="Sbt",SBT RS SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607296.ts
-#EXTINF:-1 tvg-id="br#sbt-rs" tvg-name="SBT RS HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT RS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607301.ts
-#EXTINF:-1 tvg-id="br#sbt-rs" tvg-name="SBT RS FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT RS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607302.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT GOIAS HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT GOIAS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607311.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT GOIAS FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT GOIAS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607312.ts
-#EXTINF:-1 tvg-id="br#sbt-belem-hd" tvg-name="SBT BELEM HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT BELEM HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607317.ts
-#EXTINF:-1 tvg-id="br#sbt-piaui" tvg-name="SBT PIAUI" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT PIAUI
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607320.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT RJ HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607322.ts
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT HD HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT HD HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607323.ts
-#EXTINF:-1 tvg-id="br#sbt-rs" tvg-name="SBT RS FHD" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT RS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4607325.ts
-#EXTINF:-1 tvg-id="MaisSBT" tvg-name="SBT TV PONTA VERDE" tvg-logo="https://i.ibb.co/2jHYmRF/FHD.png" group-title="Sbt",SBT TV PONTA VERDE
-http://xuiplaylites.net:80/f32pk91up8/310175043/7656935.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT MARINGÁ HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT MARINGÁ HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8113571.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT PR REDE MASSA HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT PR REDE MASSA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133593.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT CURITIBA HD" tvg-logo="https://i.ibb.co/ZHtkcwL/HD.png" group-title="Sbt",SBT CURITIBA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133594.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND SP HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608952.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND SP FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608958.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP SD" tvg-logo="https://i.ibb.co/27ttRjw/SD.png" group-title="Band TV",BAND SP SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608959.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND MG HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND MG HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608950.ts
-#EXTINF:-1 tvg-id="br#band-minas" tvg-name="BAND MINAS FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND MINAS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608957.ts
-#EXTINF:-1 tvg-id="br#band-rj-hd" tvg-name="BAND RJ HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND RJ HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608942.ts
-#EXTINF:-1 tvg-id="br#band-rj-hd" tvg-name="BAND RJ FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND RJ FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608943.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND TAUBATÉ HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND TAUBATÉ HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608939.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND TAUBATÉ FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND TAUBATÉ FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608940.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND RS FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND RS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608941.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND PR HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND PR HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608944.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND PR FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND PR FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608945.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND CE HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND CE HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608946.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND CE FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND CE FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608947.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND BA FHD" tvg-logo="https://i.ibb.co/7y2Z0WJ/H265.png" group-title="Band TV",BAND BA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608955.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND BA HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND BA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608949.ts
-#EXTINF:-1 tvg-id="br#band" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND CAMPINAS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608948.ts
-#EXTINF:-1 tvg-id="br#band" tvg-name="BAND CAMPINAS HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND CAMPINAS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608954.ts
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND RN - NATAL HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND RN - NATAL HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4648662.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND PE - RECIFE HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND PE - RECIFE HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/5542043.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND PE - RECIFE FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="Band TV",BAND PE - RECIFE FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/5543899.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND PR CURITIBA HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="Band TV",BAND PR CURITIBA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133592.ts
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.ibb.co/2qb55SX/HD.png" group-title="Noticias",CNN BRASIL HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608985.ts
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.ibb.co/2SNmyQp/FHD.png" group-title="Noticias",CNN BRASIL FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608989.ts
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.ibb.co/NZqd8hp/FHD.png" group-title="Noticias",CNN BRASIL FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608982.ts
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://i.ibb.co/Vj05wmZ/HD.png" group-title="Noticias",CNN INTERNACIONAL HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608981.ts
-#EXTINF:-1 tvg-id="br#bandnews-hd" tvg-name="BAND NEWS HD" tvg-logo="https://i.ibb.co/C5NrwyX/HD.png" group-title="Noticias",BAND NEWS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608986.ts
-#EXTINF:-1 tvg-id="br#bandnews-hd" tvg-name="BAND NEWS FHD" tvg-logo="https://i.ibb.co/MhQC5p6/FHD.png" group-title="Noticias",BAND NEWS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608987.ts
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.postimg.cc/xjH92Bjh/HD-1.png" group-title="Noticias",GLOBO NEWS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608984.ts
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://i.postimg.cc/QdHkyghq/FHD.png" group-title="Noticias",GLOBO NEWS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608988.ts
-#EXTINF:-1 tvg-id="br#bandnews-hd" tvg-name="BAND NEWS SD" tvg-logo="https://i.ibb.co/zPfVVB6/SD.png" group-title="Noticias",BAND NEWS SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608995.ts
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="Noticias",RECORD NEWS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608983.ts
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.ibb.co/GHM6thr/SD.png" group-title="Noticias",RECORD NEWS SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608994.ts
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News HD" tvg-logo="https://i.ibb.co/x7ZLLNC/FHD.png" group-title="Noticias",Jovem Pan News HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608991.ts
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News FHD" tvg-logo="https://i.ibb.co/x7ZLLNC/FHD.png" group-title="Noticias",Jovem Pan News FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608992.ts
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News SD" tvg-logo="https://i.ibb.co/ycw2zVR2/Logo-Nova-2.png" group-title="Noticias",Jovem Pan News SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4608990.ts
-#EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT NEWS SD" tvg-logo="https://i.postimg.cc/x1CBwfy2/SBT-News-logo-svg.png" group-title="Noticias",SBT NEWS SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8113868.ts
-#EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT NEWS HD" tvg-logo="https://i.postimg.cc/x1CBwfy2/SBT-News-logo-svg.png" group-title="Noticias",SBT NEWS HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8113869.ts
-#EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT NEWS FHD" tvg-logo="https://i.postimg.cc/x1CBwfy2/SBT-News-logo-svg.png" group-title="Noticias",SBT NEWS FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8113870.ts
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.ibb.co/Wtg6Xvp/tc-action-hd.png" group-title="Telecine",TELECINE ACTION HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611724.ts
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://i.ibb.co/MkYMyCq/tc-action-fhd.png" group-title="Telecine",TELECINE ACTION FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611730.ts
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://i.ibb.co/bB1M9fV/tc-action-sd.png" group-title="Telecine",TELECINE ACTION SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611731.ts
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.ibb.co/sbw3BYm/tc-cult-hd.png" group-title="Telecine",TELECINE CULT HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611723.ts
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://i.ibb.co/yfGLKRk/tc-cult-fhd.png" group-title="Telecine",TELECINE CULT FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611729.ts
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.ibb.co/5LzzJbT/tc-cult-sd.png" group-title="Telecine",TELECINE CULT SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611732.ts
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.ibb.co/j4pSBRY/tc-fun-hd.png" group-title="Telecine",TELECINE FUN HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611722.ts
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://i.ibb.co/mBB1BsB/tc-fun-fhd.png" group-title="Telecine",TELECINE FUN FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611728.ts
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.ibb.co/160CXbC/tc-fun-sd.png" group-title="Telecine",TELECINE FUN SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611733.ts
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.ibb.co/25H15RH/tc-pipoca-hd.png" group-title="Telecine",TELECINE PIPOCA HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611719.ts
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://i.ibb.co/T06TKyR/tc-pipoca-fhd.png" group-title="Telecine",TELECINE PIPOCA FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611727.ts
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.ibb.co/3TdwH2Y/tc-pipoca-sd.png" group-title="Telecine",TELECINE PIPOCA SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611734.ts
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.ibb.co/j5H1Tpm/tc-premium-hd.png" group-title="Telecine",TELECINE PREMIUM HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611721.ts
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://i.ibb.co/YkqFksv/tc-premium-fhd.png" group-title="Telecine",TELECINE PREMIUM FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611726.ts
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.ibb.co/LdK09c1/tc-premium-sd.png" group-title="Telecine",TELECINE PREMIUM SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611735.ts
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.ibb.co/BVL567D/tc-touch-hd.png" group-title="Telecine",TELECINE TOUCH HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611720.ts
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://i.ibb.co/7vVfQh1/tc-touch-fhd.png" group-title="Telecine",TELECINE TOUCH FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611725.ts
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.ibb.co/WHMWKPS/tc-touch-sd.png" group-title="Telecine",TELECINE TOUCH SD
-http://xuiplaylites.net:80/f32pk91up8/310175043/4611736.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7326913.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7326914.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7326915.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7326918.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7326920.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7326922.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7326923.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7697055.ts
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/7697057.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133576.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133577.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133578.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133579.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133580.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133581.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133582.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133583.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133584.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133585.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133586.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133587.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133588.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133589.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133590.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL 2026" tvg-logo="https://i.postimg.cc/J46cLz81/logo-k120-canal.png" group-title="Jogos Do Dia ⚽",FUTEBOL 2026
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133591.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sic Noticias FHD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal - Noticias",Sic Noticias FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462230.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sic Noticias HD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal - Noticias",Sic Noticias HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462231.ts
-#EXTINF:-1 tvg-id="CNNPortugal" tvg-name="Cnn Portugal HD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal - Noticias",Cnn Portugal HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462232.ts
-#EXTINF:-1 tvg-id="CNNPortugal" tvg-name="Cnn Portugall FHD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal - Noticias",Cnn Portugall FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462233.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cmtv HD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal - Noticias",Cmtv HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462234.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cmtv FHD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal - Noticias",Cmtv FHD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462235.ts
-#EXTINF:-1 tvg-id="" tvg-name="News Now HD" tvg-logo="https://i.imgur.com/i8wWOtn.png" group-title="Portugal - Noticias",News Now HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462236.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtp Noticias HD" tvg-logo="https://i.imgur.com/ZtCm9wM.jpeg" group-title="Portugal - Noticias",Rtp Noticias HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462237.ts
-#EXTINF:-1 tvg-id="" tvg-name="Euro News HD" tvg-logo="http://top-logos.xyz/pt/euronews.png" group-title="Portugal - Noticias",Euro News HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462238.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky News HD" tvg-logo="http://top-logos.xyz/pt/skynews.png" group-title="Portugal - Noticias",Sky News HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462239.ts
-#EXTINF:-1 tvg-id="br#cnn" tvg-name="Cnn HD" tvg-logo="http://top-logos.xyz/pt/cnn.png" group-title="Portugal - Noticias",Cnn HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462240.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cnbc Europe HD" tvg-logo="http://top-logos.xyz/pt/cnbc.png" group-title="Portugal - Noticias",Cnbc Europe HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462241.ts
-#EXTINF:-1 tvg-id="24HAnimes" tvg-name="Record News HD" tvg-logo="http://top-logos.xyz/pt/recordnews.png" group-title="Portugal - Noticias",Record News HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/7462242.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="BHX FM - MG" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/bh-fm.png" group-title="Radio",BHX FM - MG
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564566.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Rádio Globo FM 98.1  - RJ" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/globo.png" group-title="Radio",Rádio Globo FM 98.1  - RJ
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564567.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="89 FM - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/89-a-rock.png" group-title="Radio",89 FM - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564568.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Rádio Band FM 96.1 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/band.png" group-title="Radio",Rádio Band FM 96.1 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564569.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="TMC FM 100.1 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/transamerica.png" group-title="Radio",TMC FM 100.1 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564570.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="105 FM - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/105-fm.png" group-title="Radio",105 FM - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564571.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Top FM 104.1  - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/top-fm.png" group-title="Radio",Top FM 104.1  - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564572.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Metropole FM 101.3  - BA" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/metropole.png" group-title="Radio",Metropole FM 101.3  - BA
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564573.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="98 FM - MG" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/98-fm.png" group-title="Radio",98 FM - MG
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564574.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="93 FM - RJ" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/93-fm.png" group-title="Radio",93 FM - RJ
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564575.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Rádio Disney FM 91.3 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/disney.png" group-title="Radio",Rádio Disney FM 91.3 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564576.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Nativa FM 95.3 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/nativa-sao-paulo.png" group-title="Radio",Nativa FM 95.3 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564577.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Itapoan FM 97.5 - BA" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/itapoan-fm.png" group-title="Radio",Itapoan FM 97.5 - BA
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564578.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Clube FM 105.5 - DF" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/clube-brasilia.png" group-title="Radio",Clube FM 105.5 - DF
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564579.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="FM O Dia 100.5 - RJ" tvg-logo="https://www.fmodia.com.br/wp-content/uploads/2023/09/cropped-logo-fm-o-dia-topo-1.png" group-title="Radio",FM O Dia 100.5 - RJ
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564580.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Melodia FM 97.5 - RJ" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/melodia-rj.png" group-title="Radio",Melodia FM 97.5 - RJ
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564581.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Metropolitana FM 98.5 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/metropolitana-online.png" group-title="Radio",Metropolitana FM 98.5 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564582.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Kiss FM 92.5 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/kiss.png" group-title="Radio",Kiss FM 92.5 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564583.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Feliz FM 92.1 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/feliz.png" group-title="Radio",Feliz FM 92.1 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564584.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="CBN FM  90.5 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/cbn.png" group-title="Radio",CBN FM  90.5 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564585.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Bahia FM 88.7  - BA" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/bahia-salvador.png" group-title="Radio",Bahia FM 88.7  - BA
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564586.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Rádio Amil Paradiso FM 95.7  - RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_AMIL_PARADISO.jpg" group-title="Radio",Rádio Amil Paradiso FM 95.7  - RJ
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564587.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Jovem Pan FM  101.7 - SC" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/jovem-pan-floripa.png" group-title="Radio",Jovem Pan FM  101.7 - SC
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564588.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Antena 1 FM 103.7  - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/antena.png" group-title="Radio",Antena 1 FM 103.7  - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564589.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Energia 97 FM  - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/energia.png" group-title="Radio",Energia 97 FM  - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564590.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Saudade FM 99.7  - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/saudade.png" group-title="Radio",Saudade FM 99.7  - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564591.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Alpha FM 101.7 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/alpha-sp.png" group-title="Radio",Alpha FM 101.7 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564592.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Transcontinental FM 104.7- SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/transcontinental-fm.png" group-title="Radio",Transcontinental FM 104.7- SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564593.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Nova Brasil FM 89.7 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/novabrasil.png" group-title="Radio",Nova Brasil FM 89.7 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564594.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="USP FM 93.7 - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/usp.png" group-title="Radio",USP FM 93.7 - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564595.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Alvorada FM 94.9 - MG" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/alvorada-bh.png" group-title="Radio",Alvorada FM 94.9 - MG
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564596.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="JB FM 99.9 - RJ" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/jb-fm.png" group-title="Radio",JB FM 99.9 - RJ
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564597.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Jovem Pan FM - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/jovem-pan.png" group-title="Radio",Jovem Pan FM - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564598.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Rádio Bandeirantes FM - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/bandeirantes.png" group-title="Radio",Rádio Bandeirantes FM - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564599.ts
-#EXTINF:-1 tvg-id="24HMusicas" tvg-name="Capital AM - 1040 AM - SP" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/capital.png" group-title="Radio",Capital AM - 1040 AM - SP
-http://xuiplaylites.net:80/f32pk91up8/310175043/7564600.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECLUSIVO A FAZENDA 18" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",ECLUSIVO A FAZENDA 18
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133602.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA FULL" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",A FAZENDA FULL
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133476.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 02 HD" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",A FAZENDA CAM 02 HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133477.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 03 HD" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",A FAZENDA CAM 03 HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133478.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 04 HD" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",A FAZENDA CAM 04 HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133479.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 05 HD" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",A FAZENDA CAM 05 HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133480.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 06 HD" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",A FAZENDA CAM 06 HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133481.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 07 HD" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",A FAZENDA CAM 07 HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133604.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 08 HD" tvg-logo="https://i.ibb.co/dwW0xLc5/Logo-Nova.png" group-title="A Fazenda",A FAZENDA CAM 08 HD
-http://xuiplaylites.net:80/f32pk91up8/310175043/8133603.ts
+#EXTINF:-1 tvg-name="AMC 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90646.ts
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71768.ts
+#EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71769.ts
+#EXTINF:-1 timeshift="7" tvg-name="AMC HD" tvg-logo="http://revendaimperio.net/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71770.ts
+#EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://revendaimperio.net/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71771.ts
+#EXTINF:-1 tvg-name="AXN 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90645.ts
+#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71781.ts
+#EXTINF:-1 tvg-name="AXN FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71782.ts
+#EXTINF:-1 timeshift="7" tvg-name="AXN HD" tvg-logo="http://revendaimperio.net/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71783.ts
+#EXTINF:-1 tvg-name="AXN SD" tvg-logo="http://revendaimperio.net/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71784.ts
+#EXTINF:-1 tvg-name="Canal Brasil 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103518.ts
+#EXTINF:-1 tvg-name="Canal Brasil FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71816.ts
+#EXTINF:-1 tvg-name="Canal Brasil FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71817.ts
+#EXTINF:-1 timeshift="7" tvg-name="Canal Brasil HD" tvg-logo="http://revendaimperio.net/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71818.ts
+#EXTINF:-1 tvg-name="Canal Brasil SD" tvg-logo="http://revendaimperio.net/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71819.ts
+#EXTINF:-1 tvg-name="Canal Sony 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/sony.png" group-title="Canais | Filmes e Séries",Canal Sony 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103517.ts
+#EXTINF:-1 tvg-name="Canal Sony FHD" tvg-logo="http://revendaimperio.net/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71824.ts
+#EXTINF:-1 tvg-name="Canal Sony FHD [H265]" tvg-logo="http://revendaimperio.net/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71825.ts
+#EXTINF:-1 timeshift="7" tvg-name="Canal Sony HD" tvg-logo="http://revendaimperio.net/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71826.ts
+#EXTINF:-1 tvg-name="Canal Sony SD" tvg-logo="http://revendaimperio.net/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71827.ts
+#EXTINF:-1 tvg-name="Cinemax 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90643.ts
+#EXTINF:-1 tvg-name="Cinemax FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71833.ts
+#EXTINF:-1 tvg-name="Cinemax FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71834.ts
+#EXTINF:-1 timeshift="7" tvg-name="Cinemax HD" tvg-logo="http://revendaimperio.net/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71835.ts
+#EXTINF:-1 tvg-name="Cinemax SD" tvg-logo="http://revendaimperio.net/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71836.ts
+#EXTINF:-1 tvg-name="Film&Arts FHD" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104914.ts
+#EXTINF:-1 tvg-name="Film&Arts FHD [H265]" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104920.ts
+#EXTINF:-1 tvg-name="Film&Arts 4K" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/178518.ts
+#EXTINF:-1 tvg-name="Film&Arts HD" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104915.ts
+#EXTINF:-1 tvg-name="Film&Arts SD" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104916.ts
+#EXTINF:-1 tvg-name="Megapix 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/131104.ts
+#EXTINF:-1 tvg-name="Megapix FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72166.ts
+#EXTINF:-1 tvg-name="Megapix FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72167.ts
+#EXTINF:-1 timeshift="7" tvg-name="Megapix HD" tvg-logo="http://revendaimperio.net/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72169.ts
+#EXTINF:-1 tvg-name="Megapix SD" tvg-logo="http://revendaimperio.net/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/131204.ts
+#EXTINF:-1 tvg-name="Paramount Channel 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90634.ts
+#EXTINF:-1 tvg-name="Paramount Channel FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72217.ts
+#EXTINF:-1 tvg-name="Paramount Channel FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72218.ts
+#EXTINF:-1 timeshift="7" tvg-name="Paramount Channel HD" tvg-logo="http://revendaimperio.net/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72219.ts
+#EXTINF:-1 tvg-name="Paramount Channel SD" tvg-logo="http://revendaimperio.net/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72220.ts
+#EXTINF:-1 tvg-name="Space 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90633.ts
+#EXTINF:-1 tvg-name="Space FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72317.ts
+#EXTINF:-1 tvg-name="Space FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72318.ts
+#EXTINF:-1 timeshift="7" tvg-name="Space HD" tvg-logo="http://revendaimperio.net/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72319.ts
+#EXTINF:-1 tvg-name="Space SD" tvg-logo="http://revendaimperio.net/static/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72320.ts
+#EXTINF:-1 tvg-name="Studio Universal 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103467.ts
+#EXTINF:-1 tvg-name="Studio Universal FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72334.ts
+#EXTINF:-1 tvg-name="Studio Universal FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72335.ts
+#EXTINF:-1 timeshift="7" tvg-name="Studio Universal HD" tvg-logo="http://revendaimperio.net/static/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72336.ts
+#EXTINF:-1 tvg-name="Studio Universal SD" tvg-logo="http://revendaimperio.net/static/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72337.ts
+#EXTINF:-1 tvg-name="SYFY 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",SYFY 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103474.ts
+#EXTINF:-1 tvg-name="USA Network FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72338.ts
+#EXTINF:-1 tvg-name="USA Network FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72339.ts
+#EXTINF:-1 timeshift="7" tvg-name="USA Network HD" tvg-logo="http://revendaimperio.net/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72340.ts
+#EXTINF:-1 tvg-name="USA Network SD" tvg-logo="http://revendaimperio.net/static/logos/canais/syfy.png" group-title="Canais | Filmes e Séries",USA Network SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72341.ts
+#EXTINF:-1 tvg-name="TNT Novelas 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TNT Novelas 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103466.ts
+#EXTINF:-1 tvg-name="TNT Novelas FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TNT Novelas FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72342.ts
+#EXTINF:-1 tvg-name="TNT Novelas FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TNT Novelas FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72343.ts
+#EXTINF:-1 timeshift="7" tvg-name="TNT Novelas HD" tvg-logo="http://revendaimperio.net/static/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TNT Novelas HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72344.ts
+#EXTINF:-1 tvg-name="TNT Novelas SD" tvg-logo="http://revendaimperio.net/static/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TNT Novelas SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72345.ts
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72375.ts
+#EXTINF:-1 tvg-name="TNT FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72376.ts
+#EXTINF:-1 timeshift="7" tvg-name="TNT HD" tvg-logo="http://revendaimperio.net/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72378.ts
+#EXTINF:-1 tvg-name="TNT SD" tvg-logo="http://revendaimperio.net/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72379.ts
+#EXTINF:-1 tvg-name="TNT Series 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72382.ts
+#EXTINF:-1 tvg-name="TNT Series FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72380.ts
+#EXTINF:-1 tvg-name="TNT Series FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72381.ts
+#EXTINF:-1 timeshift="7" tvg-name="TNT Series HD" tvg-logo="http://revendaimperio.net/static/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72383.ts
+#EXTINF:-1 tvg-name="TNT Series SD" tvg-logo="http://revendaimperio.net/static/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72384.ts
+#EXTINF:-1 tvg-name="Universal TV 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90632.ts
+#EXTINF:-1 tvg-name="Universal TV FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72419.ts
+#EXTINF:-1 tvg-name="Universal TV FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72420.ts
+#EXTINF:-1 timeshift="7" tvg-name="Universal TV HD" tvg-logo="http://revendaimperio.net/static/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72421.ts
+#EXTINF:-1 tvg-name="Universal TV SD" tvg-logo="http://revendaimperio.net/static/logos/canais/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72422.ts
+#EXTINF:-1 tvg-name="Warner Channel 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90236.ts
+#EXTINF:-1 tvg-name="Warner Channel FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72431.ts
+#EXTINF:-1 tvg-name="Warner Channel FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72432.ts
+#EXTINF:-1 timeshift="7" tvg-name="Warner Channel HD" tvg-logo="http://revendaimperio.net/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72433.ts
+#EXTINF:-1 tvg-name="Warner Channel SD" tvg-logo="http://revendaimperio.net/static/logos/canais/warner.png" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72434.ts
+#EXTINF:-1 tvg-name="Band News 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103526.ts
+#EXTINF:-1 tvg-name="Band News FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71789.ts
+#EXTINF:-1 tvg-name="Band News FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71790.ts
+#EXTINF:-1 timeshift="7" tvg-name="Band News HD" tvg-logo="http://revendaimperio.net/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71791.ts
+#EXTINF:-1 tvg-name="Band News SD" tvg-logo="http://revendaimperio.net/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Canais | Notícias",Band News SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71792.ts
+#EXTINF:-1 tvg-name="CNN Brasil 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71798.ts
+#EXTINF:-1 tvg-name="CNN Brasil FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71837.ts
+#EXTINF:-1 tvg-name="CNN Brasil FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71838.ts
+#EXTINF:-1 timeshift="7" tvg-name="CNN Brasil HD" tvg-logo="http://revendaimperio.net/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71839.ts
+#EXTINF:-1 tvg-name="CNN Brasil SD" tvg-logo="http://revendaimperio.net/static/logos/canais/cnn.png" group-title="Canais | Notícias",CNN Brasil SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71840.ts
+#EXTINF:-1 tvg-name="Eurochannel FHD" tvg-logo="http://revendaimperio.net/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104910.ts
+#EXTINF:-1 tvg-name="Eurochannel FHD [H265]" tvg-logo="http://revendaimperio.net/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104913.ts
+#EXTINF:-1 tvg-name="Eurochannel HD" tvg-logo="http://revendaimperio.net/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104911.ts
+#EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="http://revendaimperio.net/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104912.ts
+#EXTINF:-1 tvg-name="France 24 4K" tvg-logo="" group-title="Canais | Notícias",France 24 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103500.ts
+#EXTINF:-1 tvg-name="France 24 FHD" tvg-logo="" group-title="Canais | Notícias",France 24 FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104906.ts
+#EXTINF:-1 tvg-name="France 24 FHD [H265]" tvg-logo="" group-title="Canais | Notícias",France 24 FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104942.ts
+#EXTINF:-1 tvg-name="France 24 HD" tvg-logo="" group-title="Canais | Notícias",France 24 HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104907.ts
+#EXTINF:-1 tvg-name="France 24 SD" tvg-logo="" group-title="Canais | Notícias",France 24 SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104941.ts
+#EXTINF:-1 tvg-name="Globo News 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90248.ts
+#EXTINF:-1 tvg-name="Globo News FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71997.ts
+#EXTINF:-1 tvg-name="Globo News FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71998.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo News HD" tvg-logo="http://revendaimperio.net/static/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/71999.ts
+#EXTINF:-1 tvg-name="Globo News SD" tvg-logo="http://revendaimperio.net/static/logos/canais/globo.png" group-title="Canais | Notícias",Globo News SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/131112.ts
+#EXTINF:-1 tvg-name="Jovem Pan News 4K" tvg-logo="http://revendaimperio.net/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/134021.ts
+#EXTINF:-1 tvg-name="Jovem Pan News FHD" tvg-logo="http://revendaimperio.net/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/134023.ts
+#EXTINF:-1 tvg-name="Jovem Pan News FHD [H265]" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais | Notícias",Jovem Pan News FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/134022.ts
+#EXTINF:-1 timeshift="7" tvg-name="Jovem Pan News HD" tvg-logo="http://revendaimperio.net/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/134024.ts
+#EXTINF:-1 tvg-name="Jovem Pan News SD" tvg-logo="http://revendaimperio.net/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/134025.ts
+#EXTINF:-1 tvg-name="Record News 4K" tvg-logo="http://revendaimperio.net/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | Notícias",Record News 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/178523.ts
+#EXTINF:-1 tvg-name="Record News FHD" tvg-logo="http://revendaimperio.net/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | Notícias",Record News FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72271.ts
+#EXTINF:-1 tvg-name="Record News FHD [H265]" tvg-logo="http://revendaimperio.net/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | Notícias",Record News FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/178522.ts
+#EXTINF:-1 timeshift="7" tvg-name="Record News HD" tvg-logo="http://revendaimperio.net/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | Notícias",Record News HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72272.ts
+#EXTINF:-1 tvg-name="Record News SD" tvg-logo="http://revendaimperio.net/images/2449a2b4976db3d6d8efdbd249a40971.png" group-title="Canais | Notícias",Record News SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72273.ts
+#EXTINF:-1 tvg-name="TV Gazeta SP SD" tvg-logo="http://revendaimperio.net/images/2baf5152b328307749ffbafedb684497.png" group-title="Canais | Notícias",TV Gazeta SP SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/104918.ts
+#EXTINF:-1 tvg-name="CNBC Brasil FHD" tvg-logo="" group-title="Canais | Notícias",CNBC Brasil FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295477.ts
+#EXTINF:-1 timeshift="7" tvg-name="CNBC Brasil HD" tvg-logo="" group-title="Canais | Notícias",CNBC Brasil HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295478.ts
+#EXTINF:-1 tvg-name="CNBC Brasil SD" tvg-logo="" group-title="Canais | Notícias",CNBC Brasil SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295479.ts
+#EXTINF:-1 tvg-name="CNBC Brasil 4K" tvg-logo="" group-title="Canais | Notícias",CNBC Brasil 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295480.ts
+#EXTINF:-1 tvg-name="CNN Brasil Money FHD" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295482.ts
+#EXTINF:-1 timeshift="7" tvg-name="CNN Brasil Money HD" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295483.ts
+#EXTINF:-1 tvg-name="CNN Brasil Money SD" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295484.ts
+#EXTINF:-1 tvg-name="CNN Brasil Money FHD [H265]" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295485.ts
+#EXTINF:-1 tvg-name="CNN Brasil Money 4K" tvg-logo="" group-title="Canais | Notícias",CNN Brasil Money 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295486.ts
+#EXTINF:-1 tvg-name="CNBC Brasil FHD [H265]" tvg-logo="" group-title="Canais | Notícias",CNBC Brasil FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/295481.ts
+#EXTINF:-1 tvg-name="HBO 2 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90246.ts
+#EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72110.ts
+#EXTINF:-1 tvg-name="HBO 2 FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72111.ts
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72112.ts
+#EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72113.ts
+#EXTINF:-1 tvg-name="HBO 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90247.ts
+#EXTINF:-1 tvg-name="HBO Family 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90637.ts
+#EXTINF:-1 tvg-name="HBO Family FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72114.ts
+#EXTINF:-1 tvg-name="HBO Family FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72115.ts
+#EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72116.ts
+#EXTINF:-1 tvg-name="HBO Family SD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72117.ts
+#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72118.ts
+#EXTINF:-1 tvg-name="HBO FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72119.ts
+#EXTINF:-1 timeshift="7" tvg-name="HBO HD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72120.ts
+#EXTINF:-1 tvg-name="HBO MUNDI 4K" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO MUNDI 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103496.ts
+#EXTINF:-1 tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72121.ts
+#EXTINF:-1 tvg-name="HBO Mundi FHD [H265]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72122.ts
+#EXTINF:-1 tvg-name="HBO Mundi HD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72123.ts
+#EXTINF:-1 tvg-name="HBO Mundi SD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72124.ts
+#EXTINF:-1 tvg-name="HBO Plus 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90635.ts
+#EXTINF:-1 tvg-name="HBO Plus FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72125.ts
+#EXTINF:-1 tvg-name="HBO Plus FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72126.ts
+#EXTINF:-1 timeshift="7" tvg-name="HBO Plus HD" tvg-logo="http://revendaimperio.net/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72127.ts
+#EXTINF:-1 tvg-name="HBO Plus SD" tvg-logo="http://revendaimperio.net/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72128.ts
+#EXTINF:-1 tvg-name="HBO POP 4K" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO POP 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103495.ts
+#EXTINF:-1 tvg-name="HBO Pop FHD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72129.ts
+#EXTINF:-1 tvg-name="HBO Pop FHD [H265]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72130.ts
+#EXTINF:-1 tvg-name="HBO Pop HD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72131.ts
+#EXTINF:-1 tvg-name="HBO Pop SD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72132.ts
+#EXTINF:-1 tvg-name="HBO SD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72133.ts
+#EXTINF:-1 tvg-name="HBO Signature 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103494.ts
+#EXTINF:-1 tvg-name="HBO Signature FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72134.ts
+#EXTINF:-1 tvg-name="HBO Signature FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72135.ts
+#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72136.ts
+#EXTINF:-1 tvg-name="HBO Signature SD" tvg-logo="http://revendaimperio.net/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72137.ts
+#EXTINF:-1 tvg-name="HBO Xtreme 4K" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90636.ts
+#EXTINF:-1 tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72138.ts
+#EXTINF:-1 tvg-name="HBO Xtreme FHD [H265]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72139.ts
+#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72140.ts
+#EXTINF:-1 tvg-name="HBO Xtreme SD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72141.ts
+#EXTINF:-1 tvg-name="Telecine Action 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90239.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72346.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72347.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Action HD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72348.ts
+#EXTINF:-1 tvg-name="Telecine Action SD" tvg-logo="http://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72349.ts
+#EXTINF:-1 tvg-name="Telecine Cult 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103456.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72350.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72351.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Cult HD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72352.ts
+#EXTINF:-1 tvg-name="Telecine Cult SD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72353.ts
+#EXTINF:-1 tvg-name="Telecine Fun 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103455.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72354.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72355.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Fun HD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72356.ts
+#EXTINF:-1 tvg-name="Telecine Fun SD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72357.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90238.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72358.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72359.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Pipoca HD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72360.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca SD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72361.ts
+#EXTINF:-1 tvg-name="Telecine Premium 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/90237.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72362.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72363.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Premium HD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72364.ts
+#EXTINF:-1 tvg-name="Telecine Premium SD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72365.ts
+#EXTINF:-1 tvg-name="Telecine Touch 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103454.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72366.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72367.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Touch HD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72368.ts
+#EXTINF:-1 tvg-name="Telecine Touch SD" tvg-logo="http://revendaimperio.net/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72369.ts
+#EXTINF:-1 tvg-name="[+18] Playboy 4K" tvg-logo="http://revendaimperio.net/static/logos/canais/playboy.png" group-title="Canais | Adultos",[+18] Playboy 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/103483.ts
+#EXTINF:-1 tvg-name="[+18] Playboy TV FHD" tvg-logo="http://revendaimperio.net/static/logos/canais/playboy.png" group-title="Canais | Adultos",[+18] Playboy TV FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72221.ts
+#EXTINF:-1 tvg-name="[+18] Playboy TV FHD [H265]" tvg-logo="http://revendaimperio.net/static/logos/canais/playboy.png" group-title="Canais | Adultos",[+18] Playboy TV FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72224.ts
+#EXTINF:-1 timeshift="7" tvg-name="[+18] Playboy TV HD" tvg-logo="http://revendaimperio.net/static/logos/canais/playboy.png" group-title="Canais | Adultos",[+18] Playboy TV HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72222.ts
+#EXTINF:-1 tvg-name="[+18] Playboy TV SD" tvg-logo="http://revendaimperio.net/static/logos/canais/playboy.png" group-title="Canais | Adultos",[+18] Playboy TV SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72223.ts
+#EXTINF:-1 tvg-name="[+18] Sexy Hot 4K" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot 4K
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/180157.ts
+#EXTINF:-1 tvg-name="[+18] Sexy Hot FHD" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot FHD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/180153.ts
+#EXTINF:-1 tvg-name="[+18] Sexy Hot FHD [H265]" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot FHD [H265]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/180156.ts
+#EXTINF:-1 tvg-name="[+18] Sexy Hot HD" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot HD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/180154.ts
+#EXTINF:-1 tvg-name="[+18] Sexy Hot SD" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot SD
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/72310.ts
+#EXTINF:-1 tvg-name="[24H] [+18] A Casa das Brasileirinhas [Pack 01]" tvg-logo="http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg" group-title="Canais | Adultos",[24H] [+18] A Casa das Brasileirinhas [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140487.ts
+#EXTINF:-1 tvg-name="[24H] [+18] A Casa das Brasileirinhas [Pack 02]" tvg-logo="http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg" group-title="Canais | Adultos",[24H] [+18] A Casa das Brasileirinhas [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140488.ts
+#EXTINF:-1 tvg-name="[24H] [+18] A Casa das Brasileirinhas [Pack 03]" tvg-logo="http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg" group-title="Canais | Adultos",[24H] [+18] A Casa das Brasileirinhas [Pack 03]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140489.ts
+#EXTINF:-1 tvg-name="[24H] [+18] A Casa das Brasileirinhas [Pack 04]" tvg-logo="http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg" group-title="Canais | Adultos",[24H] [+18] A Casa das Brasileirinhas [Pack 04]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140490.ts
+#EXTINF:-1 tvg-name="[24H] [+18] A Casa das Brasileirinhas [Pack 05]" tvg-logo="http://24horas.cc:80/images/508f0d666609e140b531f552b60c3478.jpg" group-title="Canais | Adultos",[24H] [+18] A Casa das Brasileirinhas [Pack 05]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140491.ts
+#EXTINF:-1 tvg-name="[24H] [+18] All Anal [Pack 01]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] All Anal [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/166035.ts
+#EXTINF:-1 tvg-name="[24H] [+18] All Anal [Pack 02]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] All Anal [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/166036.ts
+#EXTINF:-1 tvg-name="[24H] [+18] All Anal [Pack 03]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] All Anal [Pack 03]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/166037.ts
+#EXTINF:-1 tvg-name="[24H] [+18] All Anal [Pack 04]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] All Anal [Pack 04]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/166038.ts
+#EXTINF:-1 tvg-name="[24H] [+18] All Anal [Pack 05]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] All Anal [Pack 05]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/166039.ts
+#EXTINF:-1 tvg-name="[24H] [+18] All Anal [Pack 06]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] All Anal [Pack 06]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/166040.ts
+#EXTINF:-1 tvg-name="[24H] [+18] All Anal [Pack 07]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] All Anal [Pack 07]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/166041.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Anal Only" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Anal Only
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/149544.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 01]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140536.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 02]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140537.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 03]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 03]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140538.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 04]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 04]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140539.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 05]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 05]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140540.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 06]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 06]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/149545.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 07]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 07]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/150115.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 08]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 08]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/150116.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 09]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 09]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/150492.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 10]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 10]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/150493.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 11]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 11]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155424.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 12]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 12]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155425.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 13]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 13]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155426.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 14]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 14]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155427.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 15]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 15]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155428.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 01]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/145382.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 02]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/145383.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 03]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 03]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/149546.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 04]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 04]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/149547.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 05]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 05]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/150117.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 06]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 06]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155441.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 07]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 07]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155442.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 08]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 08]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155443.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 09]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 09]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155444.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 10]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 10]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155445.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 11]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 11]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155446.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 12]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 12]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155447.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 13]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 13]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155448.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 15]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 15]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155449.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Trans [Pack 16]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Trans [Pack 16]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/155450.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Fuck Studies [Pack 01]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Fuck Studies [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169085.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Fuck Studies [Pack 02]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Fuck Studies [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169086.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Fuck Studies [Pack 03]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Fuck Studies [Pack 03]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169087.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Homossexual Masculino [Pack 01]" tvg-logo="http://24horas.cc:80/images/23282a88114949d0a31f5fbee6dd0733.jpg" group-title="Canais | Adultos",[24H] [+18] Homossexual Masculino [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140492.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Homossexual Masculino [Pack 02]" tvg-logo="http://24horas.cc:80/images/23282a88114949d0a31f5fbee6dd0733.jpg" group-title="Canais | Adultos",[24H] [+18] Homossexual Masculino [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140493.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Interesseiras" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Interesseiras
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/149606.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Lets Try Anal [Pack 01]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Lets Try Anal [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140760.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Lets Try Anal [Pack 02]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Lets Try Anal [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/141499.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Lets Try Anal [Pack 03]" tvg-logo="http://24horas.cc:80/images/f859ff8b3b8b08745491656f1dab6019.jpg" group-title="Canais | Adultos",[24H] [+18] Lets Try Anal [Pack 03]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/141500.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 01]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169088.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 02]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169089.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 03]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 03]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169090.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 04]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 04]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169091.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 05]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 05]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169092.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 06]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 06]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169093.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 07]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 07]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169094.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 08]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 08]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169095.ts
+#EXTINF:-1 tvg-name="[24H] [+18] MissaX [Pack 09]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] MissaX [Pack 09]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169096.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Pornhub Yinyleon" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Pornhub Yinyleon
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/149548.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Teste de Fudelidade [Pack 01]" tvg-logo="http://24horas.cc:80/images/3e81163f7309a5a4f01613ff430db818.jpg" group-title="Canais | Adultos",[24H] [+18] Teste de Fudelidade [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140761.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Teste de Fudelidade [Pack 02]" tvg-logo="http://24horas.cc:80/images/3e81163f7309a5a4f01613ff430db818.jpg" group-title="Canais | Adultos",[24H] [+18] Teste de Fudelidade [Pack 02]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/140762.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Teste de Fudelidade [Pack 03]" tvg-logo="http://24horas.cc:80/images/3e81163f7309a5a4f01613ff430db818.jpg" group-title="Canais | Adultos",[24H] [+18] Teste de Fudelidade [Pack 03]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/145384.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Tweetney [Pack 01]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Tweetney [Pack 01]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/169097.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 33]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 33]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225349.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 32]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 32]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225348.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 31]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 31]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225347.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 30]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 30]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225346.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 29]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 29]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225345.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 28]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 28]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225344.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 27]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 27]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225343.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 26]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 26]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225342.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 25]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 25]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225341.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 24]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 24]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225340.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 23]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 23]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225339.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 22]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 22]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225338.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 21]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 21]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225337.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 20]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 20]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225336.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 19]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 19]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225335.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 18]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 18]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225334.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 17]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 17]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225333.ts
+#EXTINF:-1 tvg-name="[24H] [+18] Filmes Adultos [Pack 16]" tvg-logo="http://revendaimperio.net/images/22219a38e43a2a4d58d0dd34c43a14c7.jpg" group-title="Canais | Adultos",[24H] [+18] Filmes Adultos [Pack 16]
+http://revendaimperio.net:80/Candidodanilo1/Quarto123/225332.ts
